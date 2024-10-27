@@ -54,8 +54,8 @@ A collection of research papers related to property-based testing (PBT)
   ([pdf](https://harrisongoldste.in/papers/icfp23-reflective.pdf))      
 
 * **Etna: An Evaluation Platform for Property-Based Testing** (ICFP 2023)     
-  Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos    
-  ([doi](https://dl.acm.org/doi/abs/10.1145/3607860?af=R))
+  Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos       
+  ([doi](https://dl.acm.org/doi/abs/10.1145/3607860))      
 
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
