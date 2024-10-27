@@ -30,7 +30,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)          
   Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
-  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
+  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))      
+
+* **General and Practical Property-based Testing for Android Apps** (ASE 2024)     
+  Yiheng Xiong, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su      
+  ([doi](https://doi.org/10.1145/3691620.3694986))        
 
 * **Evaluating PBT Frameworks in OCaml** (PLDI SRC 2024)       
   Nikhil Kamath     
@@ -152,13 +156,17 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
   ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))    
 
+* **ChimpCheck: Property-Based Randomized Test Generation for Interactive Apps** (Onward! 2017)
+  Edmund S. L. Lam, Peilun Zhang, Bor-Yuh Evan Chang       
+  ([doi](https://doi.org/10.1145/3133850.3133853))           
+
 * **Testing with Crowbar** (OCaml 2017)     
   Stephen Dolan, Mindy Preston      
   ([url](https://icfp17.sigplan.org/details/ocaml-2017-talks/12/Testing-with-Crowbar))     
 
 * **A simple incremental development of a property-based testing tool (Functional Pearl)**      
   Rudy Braquehais, Michael Walker, José Manuel Calderón Trilla, Colin Runciman    
-  ([pdf](http://jmct.cc/pearlcheck.pdf))         
+  ([pdf](http://jmct.cc/pearlcheck.pdf))            
 
 ### 2016 
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
@@ -184,7 +192,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))         
 
 ### 2012 
-* **Shrinking and showing functions** (Haskell 2012)       
+* **Shrinking and showing functions (Functional Pearl)** (Haskell 2012)       
   Koen Claessen           
   ([doi](https://doi.org/10.1145/2430532.2364516))       
 
@@ -199,7 +207,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)          
   Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen           
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))         
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))       
+
+### 2008 
+* **SmallCheck and Lazy SmallCheck: automatic exhaustive testing for small values** (Haskell 2008)    
+  Colin Runciman, Matthew Naylor, Fredrik Lindblad   
+  ([doi](https://doi.org/10.1145/1411286.1411292))        
 
 ### 2006     
 * **Testing Properties of Generic Functions** (IFL 2006)         
