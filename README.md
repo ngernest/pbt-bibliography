@@ -1,9 +1,9 @@
 # Property-Based Testing Bibliography
 
-A collection of research papers related to property-based testing (PBT)      
-(repo adapted from Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography)).
+An (incomplete) collection of research papers related to property-based testing (PBT)      
+(repo adapted from Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography) & Sam Hobin-Hochstadt's [gradual typing bibliography](https://github.com/samth/gradual-typing-bib)).       
 
- Pull requests welcome! Note: end a line with two spaces to force a line break.       
+Pull requests welcome! Note: end a line with two spaces to force a line break.         
 
 [![Build Status](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml/badge.svg)](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml)
 
