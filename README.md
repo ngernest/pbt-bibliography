@@ -2,6 +2,8 @@
 
 A collection of research papers related to property-based testing (PBT).
 
+Status of links at last commit: ![Build Status](https://github.com/ngernest/pbt-bibliography/workflows/links/badge.svg)
+
 ### 2024 
 * **Property-Based Testing in Practice** (ICSE 2024)    
   Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head    
