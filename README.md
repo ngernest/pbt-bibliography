@@ -3,6 +3,8 @@
 A collection of research papers related to property-based testing (PBT)      
 (repo adapted from Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography)).
 
+ Pull requests welcome! Note: end a line with two spaces to force a line break.       
+
 [![Build Status](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml/badge.svg)](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml)
 
 ### 2024 
@@ -97,9 +99,9 @@ A collection of research papers related to property-based testing (PBT)
   ([pdf](https://harrisongoldste.in/papers/hatra2022.pdf))          
 
 * **Automated, Targeted Testing of Property-Based Testing Predicates** 
-  (The Art, Science, and Engineering of Programming, 2022)       
-  Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi        
-  ([pdf](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/paper.pdf))             
+  (The Art, Science, and Engineering of Programming, 2022)          
+  Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi          
+  ([pdf](https://arxiv.org/pdf/2111.10414))                    
 
 * **Functional Pearl: Holey Generators!**    
   Joseph W. Cutler, Harrison Goldstein, Koen Claessen, John Hughes, Benjamin C. Pierce    
