@@ -190,14 +190,23 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://link.springer.com/chapter/10.1007/978-3-319-30936-1_9))        
 
 ### 2015 
+* **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
+  Burke Fetscher, Koen Claessen, Michał Pałka, John Hughes, Robert Bruce Findler 
+  ([doi](https://doi.org/10.1007/978-3-662-46669-8_16))           
+
 * **Foundational Property-Based Testing** (ITP 2015)      
   Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))      
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))        
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))         
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))      
+
+### 2011  
+* **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
+  Michał H. Pałka, Koen Claessen, Alejandro Russo, John Hughes         
+  ([doi](https://dl.acm.org/doi/10.1145/1982595.1982615))          
 
 ### 2012 
 * **Shrinking and showing functions (Functional Pearl)** (Haskell 2012)       
