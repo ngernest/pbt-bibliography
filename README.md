@@ -94,7 +94,12 @@ A collection of research papers related to property-based testing (PBT)
 
 * **Some Problems with Properties: A Study on Property-Based Testing in Industry** (HATRA 2022)    
   Harrison Goldstein, Joseph W. Cutler, Adam Stein, Andrew Head, Benjamin C. Pierce      
-  ([pdf](https://harrisongoldste.in/papers/hatra2022.pdf))
+  ([pdf](https://harrisongoldste.in/papers/hatra2022.pdf))          
+
+* **Automated, Targeted Testing of Property-Based Testing Predicates** 
+  (The Art, Science, and Engineering of Programming, 2022)       
+  Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi        
+  ([pdf](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/paper.pdf))             
 
 * **Functional Pearl: Holey Generators!**    
   Joseph W. Cutler, Harrison Goldstein, Koen Claessen, John Hughes, Benjamin C. Pierce    
@@ -121,7 +126,8 @@ A collection of research papers related to property-based testing (PBT)
   Sumit Padhiyar, Adharsh Kamath, KC Sivaramakrishnan       
   ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))       
 
-* **Using Relational Problems to Teach Property-Based Testing** (The Art, Science, and Engineering of Programming, 2021)    
+* **Using Relational Problems to Teach Property-Based Testing**         
+  (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
   ([doi](https://programming-journal.org/2021/5/9/))       
 
