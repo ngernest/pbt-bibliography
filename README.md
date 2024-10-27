@@ -145,7 +145,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2018 
 * **Generating Good Generators for Inductive Relations** (POPL 2018)     
   Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce        
-  ([doi](https://dl.acm.org/doi/10.1145/3158133))       
+  ([doi](https://dl.acm.org/doi/10.1145/3158133))         
+
+* **AutoBench: Comparing the Time Performance of Haskell Programs** (Haskell 2018)         
+  Martin A. T. Handley, Graham Hutton          
+  ([doi](https://doi.org/10.1145/3299711.3242749))       
 
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
@@ -154,7 +158,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Quick Specifications for the Busy Programmer** (JFP 2017)      
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
-  ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))    
+  ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))          
+
+* **Failing faster: overlapping patterns for property-based testing** (PADL 2017)      
+  Jonathan Fowler, Graham Hutton
+  ([doi](https://doi.org/10.1007/978-3-319-51676-9_7))
 
 * **ChimpCheck: Property-Based Randomized Test Generation for Interactive Apps** (Onward! 2017)
   Edmund S. L. Lam, Peilun Zhang, Bor-Yuh Evan Chang       
