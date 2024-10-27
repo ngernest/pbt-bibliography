@@ -48,8 +48,8 @@ A collection of research papers related to property-based testing (PBT)
   ([doi](https://dl.acm.org/doi/10.1145/3591292))    
 
 * **Reflecting on Random Generation** (ICFP 2023)    
-  Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce    
-  ([doi](https://dl.acm.org/doi/10.1145/3607842))
+  Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce        
+  ([pdf](https://harrisongoldste.in/papers/icfp23-reflective.pdf))      
 
 * **Etna: An Evaluation Platform for Property-Based Testing** (ICFP 2023)     
   Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos    
@@ -138,7 +138,7 @@ A collection of research papers related to property-based testing (PBT)
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
   Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
-  ([link](https://arxiv.org/abs/1607.05443))                 
+  ([pdf](https://lemonidas.github.io/pdf/Luck.pdf))                   
 
 * **Quick Specifications for the Busy Programmer** (JFP 2017)      
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
