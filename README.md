@@ -26,6 +26,10 @@ A collection of research papers related to property-based testing (PBT)
   Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
   ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
 
+* **Evaluating PBT Frameworks in OCaml** (PLDI SRC 2024)       
+  Nikhil Kamath     
+  ([pdf](https://drive.google.com/file/d/1GeH4SOIejfeKQfLbvpaN-nKi6inxhs_g/view))     
+
 * **Can Large Language Models Write Good Property-Based Tests?**     
   Vasudev Vikram, Caroline Lemieux, Joshua Sunshine, Rohan Padhye      
   ([arXiv](https://arxiv.org/abs/2307.04346)) 
@@ -44,13 +48,21 @@ A collection of research papers related to property-based testing (PBT)
   ([doi](https://dl.acm.org/doi/abs/10.1145/3607860?af=R))
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
-  Arthur Lisboa Corgozinho;,Marco Tulio Valente, Henrique Rocha     
-  ([doi](https://ieeexplore.ieee.org/document/10336336))
+  Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
+  ([doi](https://ieeexplore.ieee.org/document/10336336))     
+
+* **Evaluating Soundness of a Gradual Verifier with Property Based Testing** (POPL 2023 SRC)     
+  Jan-Paul Ramos-Dávila
+  ([pdf](https://janpaul.pl/assets/pdfs/popl_src23.pdf))       
 
 ### 2022
 * **Logarithm and Program Testing** (POPL 2022)    
   Kuen-Bang Hou (Favonia), Zhuyang Wang    
   ([doi](https://dl.acm.org/doi/10.1145/3498726))
+
+* **A Completely Unique Account of Enumeration** (ICFP 2022)   
+  Cas van der Rest, Wouter Swierstra    
+  ([doi](https://dl.acm.org/doi/pdf/10.1145/3547636))    
 
 * **Parsing Randomness** (OOPSLA 2022)      
   Harrison Goldstein, Benjamin C. Pierce       
@@ -60,6 +72,9 @@ A collection of research papers related to property-based testing (PBT)
   Harrison Goldstein, Joseph W. Cutler, Adam Stein, Andrew Head, Benjamin C. Pierce      
   ([pdf](https://harrisongoldste.in/papers/hatra2022.pdf))
 
+* **Functional Pearl: Holey Generators!**    
+  Joseph W. Cutler, Harrison Goldstein, Koen Claessen, John Hughes, Benjamin C. Pierce    
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/holey.pdf))
 
 ### 2021
 * **Do Judge a Test by its Cover: Combining Combinatorial and Property-Based Testing** (ESOP 2021)      
