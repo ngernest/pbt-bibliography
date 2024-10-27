@@ -45,7 +45,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Zhe Zhou, Ashish Mishra, Benjamin Delaware, Suresh Jagannathan        
   ([doi](https://dl.acm.org/doi/10.1145/3591271))    
 
-* **Merging Inductive Relation** (PLDI 2023)        
+* **Merging Inductive Relations** (PLDI 2023)        
   Jacob Prinz, Leonidas Lampropoulos        
   ([doi](https://dl.acm.org/doi/10.1145/3591292))    
 
