@@ -184,8 +184,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))         
 
 ### 2012 
-* **Shrinking and showing functions** (Haskell 2012)
-  Koen Claessen       
+* **Shrinking and showing functions** (Haskell 2012)       
+  Koen Claessen           
   ([doi](https://doi.org/10.1145/2430532.2364516))       
 
 * **Feat: functional enumeration of algebraic types** (Haskell 2012)           
