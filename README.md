@@ -1,11 +1,15 @@
 # Property-Based Testing Bibliography
 
-A collection of research papers related to property-based testing (PBT) 
+A collection of research papers related to property-based testing (PBT)      
 (repo adapted from Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography)).
 
 [![Build Status](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml/badge.svg)](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml)
 
 ### 2024 
+* **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
+  Justin Frank, Benjamin Quiring, Leonidas Lampropoulos      
+  ([doi](https://dl.acm.org/doi/10.1145/3632919))    
+
 * **Property-Based Testing in Practice** (ICSE 2024)    
   Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head    
   ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))   
@@ -50,6 +54,10 @@ A collection of research papers related to property-based testing (PBT)
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
   ([doi](https://dl.acm.org/doi/10.1145/3652561.3652570))      
+
+* **Don’t Go Down the Rabbit Hole: Reprioritizing Enumeration for Property-Based Testing** (Haskell 2023)
+  Segev Elazar Mittelman, Alvin Resnick, Ivan Perez, Alwyn Goodloe, Leonidas Lampropoulos      
+  ([doi](https://dl.acm.org/doi/10.1145/3609026.3609730))      
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
@@ -102,10 +110,20 @@ A collection of research papers related to property-based testing (PBT)
   Leonidas Lampropoulos, Michael Hicks, Benjamin C. Pierce       
   ([doi](https://dl.acm.org/doi/10.1145/3360607))     
 
+### 2018 
+* **Generating Good Generators for Inductive Relations** (POPL 2018)     
+  Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce        
+  ([doi](https://dl.acm.org/doi/10.1145/3158133))       
+
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
   Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
   ([doi](https://dl.acm.org/doi/10.1145/3009837.3009868))       
+
+### 2016 
+* **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
+  John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
+  ([doi](https://ieeexplore.ieee.org/document/7515466))       
 
 ### 2015 
 * **Foundational Property-Based Testing** (ITP 2015)      
@@ -114,5 +132,10 @@ A collection of research papers related to property-based testing (PBT)
   
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)
-  Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen     
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))
+  Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen       
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))      
+
+### 2000 
+* **QuickCheck: a lightweight tool for random testing of Haskell programs** (ICFP 2000)
+  Koen Claessen, John Hughes      
+  ([doi](https://dl.acm.org/doi/10.1145/351240.351266))     
