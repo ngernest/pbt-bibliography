@@ -17,6 +17,14 @@ A collection of research papers related to property-based testing (PBT).
   Denis Buzdalov    
   ([link](https://icfp24.sigplan.org/details/tyde-2024-papers/6/Dependent-Types-to-Push-Corners-of-the-Property-based-Testing-Extended-Abstract-))   
 
+* **Mica: Automated Differential Testing for OCaml Modules** (OCaml 2024)    
+  Ernest Ng, Harrison Goldstein, Benjamin C. Pierce    
+  ([arXiv](https://www.arxiv.org/abs/2408.14561))   
+
+* **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)
+  Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
+  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
+
 * **Can Large Language Models Write Good Property-Based Tests?**     
   Vasudev Vikram, Caroline Lemieux, Joshua Sunshine, Rohan Padhye      
   ([arXiv](https://arxiv.org/abs/2307.04346)) 
