@@ -134,7 +134,7 @@ A collection of research papers related to property-based testing (PBT)
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
   Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
-  ([doi](https://dl.acm.org/doi/10.1145/3009837.3009868))       
+  ([doi](https://dl.acm.org/doi/pdf/10.1145/3009837.3009868))         
 
 * **A simple incremental development of a property-based testing tool (Functional Pearl)**      
   Rudy Braquehais, Michael Walker, José Manuel Calderón Trilla, Colin Runciman    
