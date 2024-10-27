@@ -1,6 +1,7 @@
 # Property-Based Testing Bibliography
 
-A collection of research papers related to property-based testing (PBT).
+A collection of research papers related to property-based testing (PBT) 
+(repo adapted from Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography)).
 
 [![Build Status](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml/badge.svg)](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml)
 
@@ -21,7 +22,7 @@ A collection of research papers related to property-based testing (PBT).
   Ernest Ng, Harrison Goldstein, Benjamin C. Pierce    
   ([arXiv](https://www.arxiv.org/abs/2408.14561))   
 
-* **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)
+* **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)          
   Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
   ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
 
