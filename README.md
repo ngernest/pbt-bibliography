@@ -107,8 +107,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Joseph W. Cutler, Harrison Goldstein, Koen Claessen, John Hughes, Benjamin C. Pierce    
   ([pdf](https://www.cis.upenn.edu/~jwc/assets/holey.pdf))
 
-* **Learning Good Generators for Property-Based Testing** (PLDI 2022 SRC)    
-  Joseph W. Cutler 
+* **Learning Good Generators for Property-Based Testing** (PLDI 2022 SRC)        
+  Joseph W. Cutler         
   ([pdf](https://www.cis.upenn.edu/~jwc/assets/bandits.pdf))  
 
 ### 2021
