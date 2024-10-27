@@ -66,8 +66,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/3609026.3609730))      
 
 * **falsify: Internal Shrinking Reimagined for Haskell** (Haskell 2023)     
-  Edsko de Vries     
-  ([doi](falsify: Internal Shrinking Reimagined for Haskell))    
+  Edsko de Vries        
+  ([doi](https://doi.org/10.1145/3609026.3609733))          
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
