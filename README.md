@@ -182,8 +182,8 @@ A collection of research papers related to property-based testing (PBT)
   ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))       
   
 ### 2010 
-* **Testing Polymorphic Properties** (ESOP 2010)
-  Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen       
+* **Testing Polymorphic Properties** (ESOP 2010)          
+  Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen           
   ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))         
 
 ### 2002    
