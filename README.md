@@ -59,7 +59,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Etna: An Evaluation Platform for Property-Based Testing** (ICFP 2023)     
   Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos       
-  ([doi](https://doi.org/10.1145/3607860))         
+  ([doi](https://doi.org/10.1145/3607860))           
+
+* **Formal Specification and Testing for Reinforcement Learning** (ICFP 2023)          
+  Mahsa Varshosaz, Mohsen Ghaffari, Einar Broch Johnsen, Andrzej Wąsowski         
+  ([doi](https://doi.org/10.1145/3607835))        
 
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
@@ -130,12 +134,17 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Parafuzz: Coverage-guided Property Fuzzing for Multicore OCaml programs** (OCaml 2021)      
   Sumit Padhiyar, Adharsh Kamath, KC Sivaramakrishnan       
-  ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))       
+  ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))         
 
 * **Using Relational Problems to Teach Property-Based Testing**         
   (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
-  ([doi](https://programming-journal.org/2021/5/9/))       
+  ([doi](https://programming-journal.org/2021/5/9/))      
+
+### 2020 
+* **Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning** (ICSE 2020)      
+  Sameer Reddy, Caroline Lemieux, Rohan Padhye, Koushik Sen         
+  ([doi](https://doi.org/10.1145/3377811.3380399))         
 
 ### 2019 
 * **Coverage guided, property based testing** (OOPSLA 2019)     
@@ -228,7 +237,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)          
   Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen           
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))       
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))        
+
+* **QuickSpec: Guessing Formal Specifications Using Testing** (TAP 2010)      
+  Koen Claessen, Nicholas Smallbone, John Hughes          
+  ([doi](https://doi.org/10.1007/978-3-642-13977-2_3))         
 
 ### 2008 
 * **SmallCheck and Lazy SmallCheck: automatic exhaustive testing for small values** (Haskell 2008)    
