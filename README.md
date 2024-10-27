@@ -47,6 +47,10 @@ A collection of research papers related to property-based testing (PBT)
   Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos    
   ([doi](https://dl.acm.org/doi/abs/10.1145/3607860?af=R))
 
+* **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
+  Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
+  ([doi](https://dl.acm.org/doi/10.1145/3652561.3652570))      
+
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
   ([doi](https://ieeexplore.ieee.org/document/10336336))     
@@ -76,6 +80,10 @@ A collection of research papers related to property-based testing (PBT)
   Joseph W. Cutler, Harrison Goldstein, Koen Claessen, John Hughes, Benjamin C. Pierce    
   ([pdf](https://www.cis.upenn.edu/~jwc/assets/holey.pdf))
 
+* **Learning Good Generators for Property-Based Testing** (PLDI 2022 SRC)    
+  Joseph W. Cutler 
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/bandits.pdf))  
+
 ### 2021
 * **Do Judge a Test by its Cover: Combining Combinatorial and Property-Based Testing** (ESOP 2021)      
   Harrison Goldstein, John Hughes, Leonidas Lampropoulos, Benjamin C. Pierce      
@@ -87,6 +95,24 @@ A collection of research papers related to property-based testing (PBT)
 
 * **Using Relational Problems to Teach Property-Based Testing** (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
-  ([doi](https://programming-journal.org/2021/5/9/))    
+  ([doi](https://programming-journal.org/2021/5/9/))       
 
+### 2019 
+* **Coverage guided, property based testing** (OOPSLA 2019)     
+  Leonidas Lampropoulos, Michael Hicks, Benjamin C. Pierce       
+  ([doi](https://dl.acm.org/doi/10.1145/3360607))     
+
+### 2017
+* **Beginner's luck: a language for property-based generators** (POPL 2017)    
+  Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
+  ([doi](https://dl.acm.org/doi/10.1145/3009837.3009868))       
+
+### 2015 
+* **Foundational Property-Based Testing** (ITP 2015)      
+  Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))      
   
+### 2010 
+* **Testing Polymorphic Properties** (ESOP 2010)
+  Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen     
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))
