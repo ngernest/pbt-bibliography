@@ -51,11 +51,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Reflecting on Random Generation** (ICFP 2023)    
   Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce        
-  ([pdf](https://harrisongoldste.in/papers/icfp23-reflective.pdf))      
+  ([doi](https://doi.org/10.1145/3607842))         
 
 * **Etna: An Evaluation Platform for Property-Based Testing** (ICFP 2023)     
   Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos       
-  ([doi](https://dl.acm.org/doi/abs/10.1145/3607860))      
+  ([doi](https://doi.org/10.1145/3607860))         
 
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
@@ -63,7 +63,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Don’t Go Down the Rabbit Hole: Reprioritizing Enumeration for Property-Based Testing** (Haskell 2023)     
   Segev Elazar Mittelman, Alvin Resnick, Ivan Perez, Alwyn Goodloe, Leonidas Lampropoulos        
-  ([doi](https://dl.acm.org/doi/10.1145/3609026.3609730))      
+  ([doi](https://doi.org/10.1145/3609026.3609730))      
 
 * **falsify: Internal Shrinking Reimagined for Haskell** (Haskell 2023)     
   Edsko de Vries     
