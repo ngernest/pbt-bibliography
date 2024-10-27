@@ -115,7 +115,11 @@ A collection of research papers related to property-based testing (PBT)
 
 * **Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3** (SOSP 2021)     
   James Bornholt, Rajeev Joshi, Vytautas Astrauskas, Brendan Cully, Bernhard Kragl, Seth Markle, Kyle Sauri, Drew Schleit, Grant Slatton, Serdar Tasiran, Jacob Van Geffen, Andrew Warfield         
-  ([doi](https://dl.acm.org/doi/10.1145/3477132.3483540))       
+  ([doi](https://dl.acm.org/doi/10.1145/3477132.3483540))          
+
+* **Parafuzz: Coverage-guided Property Fuzzing for Multicore OCaml programs** (OCaml 2021)      
+  Sumit Padhiyar, Adharsh Kamath, KC Sivaramakrishnan       
+  ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))       
 
 * **Using Relational Problems to Teach Property-Based Testing** (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
@@ -134,7 +138,15 @@ A collection of research papers related to property-based testing (PBT)
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
   Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
-  ([doi](https://dl.acm.org/doi/pdf/10.1145/3009837.3009868))         
+  ([doi](https://dl.acm.org/doi/pdf/10.1145/3009837.3009868))              
+
+* **Quick Specifications for the Busy Programmer** (JFP 2017)      
+  Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
+  ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))    
+
+* **Testing with Crowbar** (OCaml 2017)     
+  Stephen Dolan, Mindy Preston      
+  ([url](https://icfp17.sigplan.org/details/ocaml-2017-talks/12/Testing-with-Crowbar))     
 
 * **A simple incremental development of a property-based testing tool (Functional Pearl)**      
   Rudy Braquehais, Michael Walker, José Manuel Calderón Trilla, Colin Runciman    
@@ -147,17 +159,31 @@ A collection of research papers related to property-based testing (PBT)
 
 * **Testing Noninterference, Quickly** (JFP 2016)    
   Catalin Hritcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
-  ([doi](https://dl.acm.org/doi/10.1145/2544174.2500574))      
+  ([doi](https://dl.acm.org/doi/10.1145/2544174.2500574))         
+
+* **Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane**      
+  John Hughes       
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-30936-1_9))        
 
 ### 2015 
 * **Foundational Property-Based Testing** (ITP 2015)      
   Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
   ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))      
+
+### 2013    
+* **Automating inductive proofs using theory exploration** (CADE 2013)       
+  Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))       
   
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)
   Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen       
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))      
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))         
+
+### 2002    
+* **Testing Monadic Code with QuickCheck** (Haskell 2002)     
+  Koen Claessen, John Hughes      
+  ([doi](https://dl.acm.org/doi/10.1145/581690.581696))        
 
 ### 2000 
 * **QuickCheck: a lightweight tool for random testing of Haskell programs** (ICFP 2000)
