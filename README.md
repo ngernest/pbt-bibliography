@@ -111,7 +111,11 @@ A collection of research papers related to property-based testing (PBT)
 
 * **Data-Driven Abductive Inference of Library Specifications** (OOPSLA 2021)      
   Zhe Zhou, Robert Dickerson, Benjamin Delaware, Suresh Jagannathan      
-  ([doi](https://dl.acm.org/doi/10.1145/3485493))
+  ([doi](https://dl.acm.org/doi/10.1145/3485493))      
+
+* **Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3** (SOSP 2021)     
+  James Bornholt, Rajeev Joshi, Vytautas Astrauskas, Brendan Cully, Bernhard Kragl, Seth Markle, Kyle Sauri, Drew Schleit, Grant Slatton, Serdar Tasiran, Jacob Van Geffen, Andrew Warfield         
+  ([doi](https://dl.acm.org/doi/10.1145/3477132.3483540))       
 
 * **Using Relational Problems to Teach Property-Based Testing** (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
@@ -131,6 +135,10 @@ A collection of research papers related to property-based testing (PBT)
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
   Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
   ([doi](https://dl.acm.org/doi/10.1145/3009837.3009868))       
+
+* **A simple incremental development of a property-based testing tool (Functional Pearl)**      
+  Rudy Braquehais, Michael Walker, José Manuel Calderón Trilla, Colin Runciman    
+  ([pdf](http://jmct.cc/pearlcheck.pdf))         
 
 ### 2016 
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
