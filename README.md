@@ -1,7 +1,7 @@
 # Property-Based Testing Bibliography
 
 An (incomplete) collection of research papers related to property-based testing (PBT)      
-(repo adapted from Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography) & Sam Hobin-Hochstadt's [gradual typing bibliography](https://github.com/samth/gradual-typing-bib)).       
+(inspired by Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography) & Sam Hobin-Hochstadt's [gradual typing bibliography](https://github.com/samth/gradual-typing-bib)).       
 
 Pull requests welcome! Note: end a line with two spaces to force a line break.         
 
@@ -181,12 +181,30 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))       
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))         
+
+### 2012 
+* **Shrinking and showing functions** (Haskell 2012)
+  Koen Claessen       
+  ([doi](https://doi.org/10.1145/2430532.2364516))       
+
+* **Feat: functional enumeration of algebraic types** (Haskell 2012)           
+  Jonas Duregård, Patrik Jansson, Meng Wang      
+  ([doi](https://doi.org/10.1145/2364506.2364515))            
   
+* **Testing type class laws** (Haskell 2012)        
+  Johan Jeuring, Patrik Jansson, Cláudio Amaral        
+  ([doi](https://doi.org/10.1145/2364506.2364514))        
+
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)          
   Jean-Philippe Bernardy, Patrik Jansson, Koen Claessen           
   ([doi](https://link.springer.com/chapter/10.1007/978-3-642-11957-6_8))         
+
+### 2006     
+* **Testing Properties of Generic Functions** (IFL 2006)         
+  Patrik Jansson, Johan Jeuring, Laurence Cabenda, Gerbo Engels, Jacob Kleerekoper, Sander Mak, Michiel Overeem, Kees Visser      
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-540-74130-5_13))        
 
 ### 2002    
 * **Testing Monadic Code with QuickCheck** (Haskell 2002)     
