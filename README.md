@@ -207,11 +207,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
   ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))      
 
-### 2011  
-* **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
-  Michał H. Pałka, Koen Claessen, Alejandro Russo, John Hughes         
-  ([doi](https://dl.acm.org/doi/10.1145/1982595.1982615))          
-
 ### 2012 
 * **Shrinking and showing functions (Functional Pearl)** (Haskell 2012)       
   Koen Claessen           
@@ -223,7 +218,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   
 * **Testing type class laws** (Haskell 2012)        
   Johan Jeuring, Patrik Jansson, Cláudio Amaral        
-  ([doi](https://doi.org/10.1145/2364506.2364514))        
+  ([doi](https://doi.org/10.1145/2364506.2364514))          
+
+### 2011  
+* **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
+  Michał H. Pałka, Koen Claessen, Alejandro Russo, John Hughes         
+  ([doi](https://dl.acm.org/doi/10.1145/1982595.1982615))      
 
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)          
