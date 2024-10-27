@@ -73,9 +73,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
   ([doi](https://ieeexplore.ieee.org/document/10336336))     
 
-* **Evaluating Soundness of a Gradual Verifier with Property Based Testing** (POPL 2023 SRC)     
-  Jan-Paul Ramos-Dávila
-  ([pdf](https://janpaul.pl/assets/pdfs/popl_src23.pdf))       
+* **Evaluating Soundness of a Gradual Verifier with Property Based Testing** (POPL 2023 SRC)        
+  Jan-Paul Ramos-Dávila          
+  ([pdf](https://janpaul.pl/assets/pdfs/popl_src23.pdf))        
 
 ### 2022
 * **Logarithm and Program Testing** (POPL 2022)    
@@ -194,6 +194,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://dl.acm.org/doi/10.1145/581690.581696))        
 
 ### 2000 
-* **QuickCheck: a lightweight tool for random testing of Haskell programs** (ICFP 2000)
+* **QuickCheck: a lightweight tool for random testing of Haskell programs** (ICFP 2000)        
   Koen Claessen, John Hughes      
   ([doi](https://dl.acm.org/doi/10.1145/351240.351266))     
