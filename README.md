@@ -61,4 +61,6 @@ A collection of research papers related to property-based testing (PBT).
 
 * **Using Relational Problems to Teach Property-Based Testing** (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
-  ([pdf](https://cs.brown.edu/~tbn/publications/wnk-pj20-pbt.pdf))    
+  ([doi](https://programming-journal.org/2021/5/9/))    
+
+  
