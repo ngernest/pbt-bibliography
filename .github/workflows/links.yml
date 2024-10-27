@@ -7,20 +7,19 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write # required for peter-evans/create-issue-from-file
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Link Checker
-        id: lychee
-        uses: lycheeverse/lychee-action@v2
-
-      - name: Create Issue From File
-        if: env.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+      - name: Restore lychee cache
+        uses: actions/cache@v3
         with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          fail: true
+          args: "--cache --max-redirects 10 --max-cache-age 1d ."    
           
