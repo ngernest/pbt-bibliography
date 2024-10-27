@@ -40,8 +40,12 @@ A collection of research papers related to property-based testing (PBT)
 
 ### 2023 
 * **Covering All the Bases: Type-Based Verification of Test Input Generators** (PLDI 2023)     
-  Zhe Zhou, Ashish Mishra, Benjamin Delaware, Suresh Jagannathan      
-  ([doi](https://dl.acm.org/doi/10.1145/3591271))
+  Zhe Zhou, Ashish Mishra, Benjamin Delaware, Suresh Jagannathan        
+  ([doi](https://dl.acm.org/doi/10.1145/3591271))    
+
+* **Merging Inductive Relation** (PLDI 2023)        
+  Jacob Prinz, Leonidas Lampropoulos        
+  ([doi](https://dl.acm.org/doi/10.1145/3591292))    
 
 * **Reflecting on Random Generation** (ICFP 2023)    
   Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce    
@@ -55,9 +59,13 @@ A collection of research papers related to property-based testing (PBT)
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
   ([doi](https://dl.acm.org/doi/10.1145/3652561.3652570))      
 
-* **Don’t Go Down the Rabbit Hole: Reprioritizing Enumeration for Property-Based Testing** (Haskell 2023)
-  Segev Elazar Mittelman, Alvin Resnick, Ivan Perez, Alwyn Goodloe, Leonidas Lampropoulos      
+* **Don’t Go Down the Rabbit Hole: Reprioritizing Enumeration for Property-Based Testing** (Haskell 2023)     
+  Segev Elazar Mittelman, Alvin Resnick, Ivan Perez, Alwyn Goodloe, Leonidas Lampropoulos        
   ([doi](https://dl.acm.org/doi/10.1145/3609026.3609730))      
+
+* **falsify: Internal Shrinking Reimagined for Haskell** (Haskell 2023)     
+  Edsko de Vries     
+  ([doi](falsify: Internal Shrinking Reimagined for Haskell))    
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
@@ -75,6 +83,10 @@ A collection of research papers related to property-based testing (PBT)
 * **A Completely Unique Account of Enumeration** (ICFP 2022)   
   Cas van der Rest, Wouter Swierstra    
   ([doi](https://dl.acm.org/doi/pdf/10.1145/3547636))    
+
+* **Random Testing of a Higher-Order Blockchain Language** (ICFP 2022)     
+  Tram Hoang, Anton Trunov, Leonidas Lampropoulos, Ilya Sergey        
+  ([doi](https://dl.acm.org/doi/10.1145/3547653))       
 
 * **Parsing Randomness** (OOPSLA 2022)      
   Harrison Goldstein, Benjamin C. Pierce       
@@ -124,6 +136,10 @@ A collection of research papers related to property-based testing (PBT)
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
   ([doi](https://ieeexplore.ieee.org/document/7515466))       
+
+* **Testing Noninterference, Quickly** (JFP 2016)    
+  Catalin Hritcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
+  ([doi](https://dl.acm.org/doi/10.1145/2544174.2500574))      
 
 ### 2015 
 * **Foundational Property-Based Testing** (ITP 2015)      
