@@ -132,6 +132,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   James Bornholt, Rajeev Joshi, Vytautas Astrauskas, Brendan Cully, Bernhard Kragl, Seth Markle, Kyle Sauri, Drew Schleit, Grant Slatton, Serdar Tasiran, Jacob Van Geffen, Andrew Warfield         
   ([doi](https://dl.acm.org/doi/10.1145/3477132.3483540))          
 
+* **Strong automated testing of OCaml libraries** (JFLA 2021)    
+  François Pottier         
+  ([pdf](https://inria.hal.science/hal-03049511v1/file/pottier-monolith-2021.pdf))          
+
 * **Parafuzz: Coverage-guided Property Fuzzing for Multicore OCaml programs** (OCaml 2021)      
   Sumit Padhiyar, Adharsh Kamath, KC Sivaramakrishnan       
   ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))         
@@ -145,6 +149,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning** (ICSE 2020)      
   Sameer Reddy, Caroline Lemieux, Rohan Padhye, Koushik Sen         
   ([doi](https://doi.org/10.1145/3377811.3380399))         
+
+* **A Simple State-Machine Framework for Property-Based Testing in OCaml** (OCaml 2020)     
+  Jan Midtgaard    
+  ([pdf](https://janmidtgaard.dk/papers/Midtgaard%3aOCaml20.pdf))         
 
 ### 2019 
 * **Coverage guided, property based testing** (OOPSLA 2019)     
@@ -167,7 +175,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
   Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
-  ([pdf](https://lemonidas.github.io/pdf/Luck.pdf))                   
+  ([pdf](https://lemonidas.github.io/pdf/Luck.pdf))                       
+
+* **Effect-driven QuickChecking of compilers** (ICFP 2017)       
+  Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hanne Riis Nielson       
+  ([doi](https://doi.org/10.1145/3110259))        
+
+* **QuickChecking Patricia Trees** (TFP 2017)    
+  Jan Midtgaard    
+  ([pdf](https://janmidtgaard.dk/papers/Midtgaard%3aTFP17.pdf))            
 
 * **Quick Specifications for the Busy Programmer** (JFP 2017)      
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
@@ -213,7 +229,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Foundational Property-Based Testing** (ITP 2015)      
   Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))            
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))              
+
+* **Quickchecking Static Analysis Properties** (ICST 2015)        
+  Jan Midtgaard, Anders Møller     
+  ([doi](https://doi.org/10.1002/stvr.1640))           
 
 * **Towards a Theory of Reach** (TFP 2015)      
   Jonathan Fowler, Graham Hutton      
