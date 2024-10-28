@@ -194,7 +194,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/3122955.3122959))      
 
 * **Failing faster: overlapping patterns for property-based testing** (PADL 2017)      
-  Jonathan Fowler, Graham Hutton
+  Jonathan Fowler, Graham Hutton             
   ([doi](https://doi.org/10.1007/978-3-319-51676-9_7))
 
 * **ChimpCheck: Property-Based Randomized Test Generation for Interactive Apps** (Onward! 2017)
