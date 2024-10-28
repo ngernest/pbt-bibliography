@@ -154,7 +154,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2018 
 * **Generating Good Generators for Inductive Relations** (POPL 2018)     
   Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce        
-  ([doi](https://dl.acm.org/doi/10.1145/3158133))         
+  ([doi](https://dl.acm.org/doi/10.1145/3158133))      
+    
+* **Keep your laziness in check** (ICFP 2018)     
+  Kenny Foner, Hengchu Zhang, Leonidas Lampropulos      
+  ([doi](https://dl.acm.org/doi/10.1145/3236797))    
 
 * **AutoBench: Comparing the Time Performance of Haskell Programs** (Haskell 2018)         
   Martin A. T. Handley, Graham Hutton          
@@ -168,6 +172,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Quick Specifications for the Busy Programmer** (JFP 2017)      
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
   ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))          
+
+* **Ode on a Random Urn (Functional Pearl)** (Haskell 2017)       
+  Leonidas Lampropoulos, Antal Spector-Zabusky, Kenny Foner    
+  ([doi](https://doi.org/10.1145/3122955.3122959))      
 
 * **Failing faster: overlapping patterns for property-based testing** (PADL 2017)      
   Jonathan Fowler, Graham Hutton
