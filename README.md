@@ -233,7 +233,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Quickchecking Static Analysis Properties** (ICST 2015)        
   Jan Midtgaard, Anders Møller     
-  ([doi](https://doi.org/10.1002/stvr.1640))           
+  ([pdf](https://janmidtgaard.dk/papers/Midtgaard-Moeller%3aSTVR17.pdf))             
 
 * **Towards a Theory of Reach** (TFP 2015)      
   Jonathan Fowler, Graham Hutton      
