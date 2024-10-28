@@ -224,7 +224,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ### 2015 
 * **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
-  Burke Fetscher, Koen Claessen, Michał Pałka, John Hughes, Robert Bruce Findler 
+  Burke Fetscher, Koen Claessen, Michał Pałka, John Hughes, Robert Bruce Findler        
   ([doi](https://doi.org/10.1007/978-3-662-46669-8_16))           
 
 * **Foundational Property-Based Testing** (ITP 2015)      
