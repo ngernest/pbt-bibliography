@@ -51,7 +51,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2023 
 * **Covering All the Bases: Type-Based Verification of Test Input Generators** (PLDI 2023)     
   Zhe Zhou, Ashish Mishra, Benjamin Delaware, Suresh Jagannathan        
-  ([doi](https://dl.acm.org/doi/10.1145/3591271))    
+  ([doi](https://doi.org/10.1145/3591271))    
 
 * **Merging Inductive Relations** (PLDI 2023)        
   Jacob Prinz, Leonidas Lampropoulos        
