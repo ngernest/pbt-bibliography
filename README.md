@@ -38,7 +38,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Evaluating PBT Frameworks in OCaml** (PLDI SRC 2024)       
   Nikhil Kamath     
-  ([pdf](https://drive.google.com/file/d/1GeH4SOIejfeKQfLbvpaN-nKi6inxhs_g/view))     
+  ([pdf](https://drive.google.com/file/d/1GeH4SOIejfeKQfLbvpaN-nKi6inxhs_g/view))
+
+* **Constrained generation of well-typed program**     
+  Gabriel Scherer       
+  ([doi](https://inria.hal.science/hal-04607309v1))
 
 * **Can Large Language Models Write Good Property-Based Tests?**     
   Vasudev Vikram, Caroline Lemieux, Joshua Sunshine, Rohan Padhye      
@@ -87,8 +91,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ### 2022
 * **Logarithm and Program Testing** (POPL 2022)    
-  Kuen-Bang Hou (Favonia), Zhuyang Wang    
+  Kuen-Bang Hou (Favonia), Zhuyang Wang       
   ([doi](https://dl.acm.org/doi/10.1145/3498726))
+
+* **Quickstrom: property-based acceptance testing with LTL specifications** (PLDI 2022)        
+  Liam O'Connor, Oskar Wickström      
+  ([doi](https://doi.org/10.1145/3519939.3523728))        
 
 * **A Completely Unique Account of Enumeration** (ICFP 2022)   
   Cas van der Rest, Wouter Swierstra    
