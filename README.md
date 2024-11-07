@@ -264,8 +264,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1007/978-3-319-39110-6_2))
 
 * **Testing AUTOSAR software with QuickCheck** (ICSTW 2015)            
-  Thomas Arts, John Hughes, Ulf Norell, Hans Svensson            
-  ([doi](https://www.worldscientific.com/doi/pdf/10.1142/9789814397957_0048))      
+  Thomas Arts, John Hughes, Ulf Norell, Hans Svensson              
+  ([doi](https://ieeexplore.ieee.org/document/7107466))        
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
@@ -287,11 +287,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   
 * **Testing type class laws** (Haskell 2012)        
   Johan Jeuring, Patrik Jansson, Cláudio Amaral        
-  ([doi](https://doi.org/10.1145/2364506.2364514))
-
-* **Testing AUTOSAR Basic Software Modules with QuickCheck**        
-  Rickard Svenningsson, Rolf Johansson, Thomas Arts, Ulf Norell        
-  ([doi](https://doi.org/10.1142/9789814397957_0048))       
+  ([doi](https://doi.org/10.1145/2364506.2364514))      
 
 ### 2011  
 * **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
