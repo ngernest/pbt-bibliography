@@ -174,9 +174,13 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://janmidtgaard.dk/papers/Midtgaard%3aOCaml20.pdf))         
 
 ### 2019 
-* **Coverage guided, property based testing** (OOPSLA 2019)     
+* **Coverage guided, property based testing** (OOPSLA 2019)       
   Leonidas Lampropoulos, Michael Hicks, Benjamin C. Pierce       
-  ([doi](https://dl.acm.org/doi/10.1145/3360607))     
+  ([doi](https://dl.acm.org/doi/10.1145/3360607))
+
+* **Deriving compositional random generators** (IFL 2019)            
+  Agustín Mista, Alejandro Russo        
+  ([doi](https://doi.org/10.1145/3412932.3412943))         
 
 ### 2018 
 * **Generating Good Generators for Inductive Relations** (POPL 2018)     
@@ -185,7 +189,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
     
 * **Keep your laziness in check** (ICFP 2018)     
   Kenny Foner, Hengchu Zhang, Leonidas Lampropulos      
-  ([doi](https://dl.acm.org/doi/10.1145/3236797))    
+  ([doi](https://dl.acm.org/doi/10.1145/3236797))
+
+* **Branching processes for QuickCheck generators** (Haskell 2018)              
+  Agustín Mista, Alejandro Russo, John Hughes             
+  ([doi](https://doi.org/10.1145/3242744.3242747))           
 
 * **AutoBench: Comparing the Time Performance of Haskell Programs** (Haskell 2018)         
   Martin A. T. Handley, Graham Hutton          
@@ -260,7 +268,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2015 
 * **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
   Burke Fetscher, Koen Claessen, Michał Pałka, John Hughes, Robert Bruce Findler        
-  ([doi](https://doi.org/10.1007/978-3-662-46669-8_16))           
+  ([doi](https://doi.org/10.1007/978-3-662-46669-8_16))
+
+- **Generating constrained random data with uniform distribution** (JFP 2015)        
+  Koen Claessen, Jonas Duregård, Michał Pałka                   
+  ([doi](https://doi.org/10.1017/S0956796815000143)        
 
 * **Foundational Property-Based Testing** (ITP 2015)      
   Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
