@@ -161,6 +161,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://programming-journal.org/2021/5/9/))      
 
 ### 2020 
+- **Test-Case Reduction via Test-Case Generation: Insights from the Hypothesis Reducer** (ECOOP 2020)          
+  David R. MacIver, Alastair F. Donaldson               
+  ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.13)             
+
 * **Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning** (ICSE 2020)      
   Sameer Reddy, Caroline Lemieux, Rohan Padhye, Koushik Sen         
   ([doi](https://doi.org/10.1145/3377811.3380399))         
