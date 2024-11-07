@@ -228,7 +228,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2016 
 * **FitSpec: refining property sets for functional testing** (Haskell 2016)     
   Rudy Braquehais, Colin Runciman      
-  ([doi](https://doi.org/10.1145/2976002.2976003))                  
+  ([doi](https://doi.org/10.1145/2976002.2976003))
+
+* **QuickFuzz: an automatic random fuzzer for common file formats** (Haskell 2016)
+  Gustavo Grieco, Martín Ceresa, Pablo Buiras
+  ([doi](https://doi.org/10.1145/2976002.2976017))          
 
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
