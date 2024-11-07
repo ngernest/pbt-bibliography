@@ -228,7 +228,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2016 
 * **FitSpec: refining property sets for functional testing** (Haskell 2016)     
   Rudy Braquehais, Colin Runciman      
-  ([doi](https://dl.acm.org/doi/10.1145/2976002.2976003))        
+  ([doi](https://doi.org/10.1145/2976002.2976003))                  
 
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
@@ -259,9 +259,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Jonathan Fowler, Graham Hutton      
   ([doi](https://doi.org/10.1007/978-3-319-39110-6_2))
 
-* **Testing AUTOSAR software with QuickCheck** (ICSTW 2015)          
-  Thomas Arts, John Hughes, Ulf Norell, Hans Svensson          
-  ([doi](https://doi.org/10.1109/ICSTW.2015.7107466))         
+* **Testing AUTOSAR software with QuickCheck** (ICSTW 2015)            
+  Thomas Arts, John Hughes, Ulf Norell, Hans Svensson            
+  ([doi](https://www.worldscientific.com/doi/pdf/10.1142/9789814397957_0048))      
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
@@ -320,7 +320,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2002    
 * **Testing Monadic Code with QuickCheck** (Haskell 2002)     
   Koen Claessen, John Hughes      
-  ([doi](https://dl.acm.org/doi/10.1145/581690.581696))        
+  ([doi](https://doi.org/10.1145/581690.581696))                  
 
 ### 2000 
 * **QuickCheck: a lightweight tool for random testing of Haskell programs** (ICFP 2000)        
