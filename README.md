@@ -204,9 +204,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Rudy Braquehais, Colin Runciman          
   ([doi](https://doi.org/10.1145/3122955.3122961))        
 
-* **Extrapolate: generalizing counterexamples of functional test properties** (IFL 2017)
-  Rudy Braquehais, Colin Runciman                
-  ([doi](https://doi.org/10.1145/3205368.3205371))         
+* **Extrapolate: generalizing counterexamples of functional test properties** (IFL 2017)            
+  Rudy Braquehais, Colin Runciman                  
+  ([doi](https://doi.org/10.1145/3205368.3205371))             
 
 * **QuickChecking Patricia Trees** (TFP 2017)    
   Jan Midtgaard    
@@ -237,9 +237,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Rudy Braquehais, Colin Runciman      
   ([doi](https://doi.org/10.1145/2976002.2976003))
 
-* **QuickFuzz: an automatic random fuzzer for common file formats** (Haskell 2016)
-  Gustavo Grieco, Martín Ceresa, Pablo Buiras
-  ([doi](https://doi.org/10.1145/2976002.2976017))          
+* **QuickFuzz: an automatic random fuzzer for common file formats** (Haskell 2016)           
+  Gustavo Grieco, Martín Ceresa, Pablo Buiras           
+  ([doi](https://doi.org/10.1145/2976002.2976017))             
 
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
@@ -344,7 +344,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ## 2022 
 - **Testing by Dualization** (PhD Dissertation, University of Pennsylvania)            
-  Yishuai Li
+  Yishuai Li       
   ([pdf](https://arxiv.org/pdf/2210.01047))          
 
 ## 2020 
