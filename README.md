@@ -187,7 +187,19 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Effect-driven QuickChecking of compilers** (ICFP 2017)       
   Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hanne Riis Nielson       
-  ([doi](https://doi.org/10.1145/3110259))        
+  ([doi](https://doi.org/10.1145/3110259))
+
+* **Ode on a Random Urn (Functional Pearl)** (Haskell 2017)       
+  Leonidas Lampropoulos, Antal Spector-Zabusky, Kenny Foner    
+  ([doi](https://doi.org/10.1145/3122955.3122959))      
+
+* **Speculate: discovering conditional equations and inequalities about black-box functions by reasoning from test results** (Haskell 2017)
+  Rudy Braquehais, Colin Runciman          
+  ([doi](https://doi.org/10.1145/3122955.3122961))        
+
+* **Extrapolate: generalizing counterexamples of functional test properties** (IFL 2017)
+  Rudy Braquehais, Colin Runciman                
+  ([doi](https://doi.org/10.1145/3205368.3205371))         
 
 * **QuickChecking Patricia Trees** (TFP 2017)    
   Jan Midtgaard    
@@ -196,10 +208,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Quick Specifications for the Busy Programmer** (JFP 2017)      
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
   ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))          
-
-* **Ode on a Random Urn (Functional Pearl)** (Haskell 2017)       
-  Leonidas Lampropoulos, Antal Spector-Zabusky, Kenny Foner    
-  ([doi](https://doi.org/10.1145/3122955.3122959))      
 
 * **Failing faster: overlapping patterns for property-based testing** (PADL 2017)      
   Jonathan Fowler, Graham Hutton             
@@ -218,6 +226,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](http://jmct.cc/pearlcheck.pdf))            
 
 ### 2016 
+* **FitSpec: refining property sets for functional testing** (Haskell 2016)     
+  Rudy Braquehais, Colin Runciman      
+  ([doi](https://dl.acm.org/doi/10.1145/2976002.2976003))        
+
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
   ([doi](https://ieeexplore.ieee.org/document/7515466))       
