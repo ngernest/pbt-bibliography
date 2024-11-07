@@ -1,6 +1,6 @@
 # Property-Based Testing Bibliography
 
-An (incomplete) collection of research papers related to property-based testing (PBT)      
+This bibliography aims to cover all the literature on _property-based testing_ (PBT)      
 (inspired by Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography) & Sam Hobin-Hochstadt's [gradual typing bibliography](https://github.com/samth/gradual-typing-bib)).       
 
 Pull requests welcome! Note: end a line with two spaces to force a line break.         
@@ -272,7 +272,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Testing AUTOSAR software with QuickCheck** (ICSTW 2015)            
   Thomas Arts, John Hughes, Ulf Norell, Hans Svensson              
-  ([doi](https://ieeexplore.ieee.org/document/7107466))        
+  ([doi](https://ieeexplore.ieee.org/document/7107466))
+
+### 2014 
+- **SmartCheck: automatic and efficient counterexample reduction and generalization** (Haskell 2014)           
+  Lee Pike        
+  ([doi](https://doi.org/10.1145/2775050.2633365))          
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
