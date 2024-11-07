@@ -337,22 +337,37 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ***
 
 ## Dissertations 
+## 2024 
+- **Property-Based Testing for the People** (PhD Dissertation, University of Pennsylvania)        
+  Harrison Goldstein          
+  ([pdf](https://harrisongoldste.in/papers/dissertation.pdf))
+
+## 2022 
+- **Testing by Dualization** (PhD Dissertation, University of Pennsylvania)            
+  Yishuai Li
+  ([pdf](https://arxiv.org/pdf/2210.01047))          
+
 ## 2020 
 - **Efficiency Three Ways: Tested, Verified, and Formalised** (PhD Dissertation, University of Nottingham)      
   Martin Handley       
   ([pdf](https://people.cs.nott.ac.uk/pszgmh/handley-thesis.pdf))
 
 ## 2019 
-- **Narrowing in on Property-Based Testing** (PhD Dissertation, University of Nottingham)
-  Jonathan Fowler
+- **Narrowing in on Property-Based Testing** (PhD Dissertation, University of Nottingham)          
+  Jonathan Fowler           
   ([pdf](http://eprints.nottingham.ac.uk/57009/1/thesis.pdf))
 
+## 2018 
+- **Random Testing for Language Design** (PhD Dissertation, University of Pennsylvania)         
+  Leonidas Lampropoulos       
+  ([pdf](https://lemonidas.github.io/pdf/Leo-PhD-Thesis.pdf))            
+
 ## 2017      
-- **Tools for Discovery, Refinement and Generalization of Functional Properties by Enumerative Testing** (PhD Dissertation, University of York)         
+- **Tools for Discovery, Refinement and Generalization of Functional Properties by Enumerative Testing** (PhD Dissertation, University of York)          
   Rudy Braquehais             
   ([pdf](https://matela.com.br/thesis-rudy.pdf))
 
 ## 2013     
-- **Lightweight Verification of Functional Programs** (PhD Dissertation, Chalmers University of Technology)
-  Nicholas Smallbone
+- **Lightweight Verification of Functional Programs** (PhD Dissertation, Chalmers University of Technology)       
+  Nicholas Smallbone       
   ([pdf](https://smallbone.se/papers/thesis.pdf))        
