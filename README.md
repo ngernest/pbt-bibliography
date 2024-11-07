@@ -7,6 +7,13 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 [![Build Status](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml/badge.svg)](https://github.com/ngernest/pbt-bibliography/actions/workflows/links.yml)
 
+**Contents**:
+- [Papers](#papers)
+- [Dissertations](#dissertations)
+
+***
+
+## Papers
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
   Justin Frank, Benjamin Quiring, Leonidas Lampropoulos      
@@ -325,4 +332,27 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2000 
 * **QuickCheck: a lightweight tool for random testing of Haskell programs** (ICFP 2000)        
   Koen Claessen, John Hughes      
-  ([doi](https://dl.acm.org/doi/10.1145/351240.351266))     
+  ([doi](https://dl.acm.org/doi/10.1145/351240.351266))
+
+***
+
+## Dissertations 
+## 2020 
+- **Efficiency Three Ways: Tested, Verified, and Formalised** (PhD Dissertation, University of Nottingham)      
+  Martin Handley       
+  ([pdf](https://people.cs.nott.ac.uk/pszgmh/handley-thesis.pdf))
+
+## 2019 
+- **Narrowing in on Property-Based Testing** (PhD Dissertation, University of Nottingham)
+  Jonathan Fowler
+  ([pdf](http://eprints.nottingham.ac.uk/57009/1/thesis.pdf))
+
+## 2017      
+- **Tools for Discovery, Refinement and Generalization of Functional Properties by Enumerative Testing** (PhD Dissertation, University of York)         
+  Rudy Braquehais             
+  ([pdf](https://matela.com.br/thesis-rudy.pdf))
+
+## 2013     
+- **Lightweight Verification of Functional Programs** (PhD Dissertation, Chalmers University of Technology)
+  Nicholas Smallbone
+  ([pdf](https://smallbone.se/papers/thesis.pdf))        
