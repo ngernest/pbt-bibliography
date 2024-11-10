@@ -1,6 +1,6 @@
 # Property-Based Testing Bibliography
 
-This bibliography aims to cover all the literature on _property-based testing_ (PBT)      
+This bibliography aims to cover the literature on _property-based testing_ (PBT)      
 (inspired by Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography) & Sam Hobin-Hochstadt's [gradual typing bibliography](https://github.com/samth/gradual-typing-bib)).       
 
 Pull requests welcome! Note: end a line with two spaces to force a line break.         
@@ -327,7 +327,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   
 * **Testing type class laws** (Haskell 2012)        
   Johan Jeuring, Patrik Jansson, Cláudio Amaral        
-  ([doi](https://doi.org/10.1145/2364506.2364514))      
+  ([doi](https://doi.org/10.1145/2364506.2364514))
+
+* **Advances in Lazy SmallCheck** (IFL 2012)         
+  Jason S. Reich, Matthew Naylor, Colin Runciman         
+  ([doi](https://doi.org/10.1007/978-3-642-41582-1_4))       
 
 ### 2011  
 * **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
