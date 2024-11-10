@@ -152,8 +152,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://inria.hal.science/hal-03049511v1/file/pottier-monolith-2021.pdf))          
 
 * **Parafuzz: Coverage-guided Property Fuzzing for Multicore OCaml programs** (OCaml 2021)      
-  Sumit Padhiyar, Adharsh Kamath, KC Sivaramakrishnan       
-  ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))         
+  Sumit Padhiyar, Adharsh Kamath, KC Sivaramakrishnan         
+  ([url](https://icfp21.sigplan.org/details/ocaml-2021-papers/9/Parafuzz-Coverage-guided-Property-Fuzzing-for-Multicore-OCaml-programs))
+
+* **Property-Based Testing for OCaml through Coq** (OCaml 2021)              
+  Paaras Bhandari, Leonidas Lampropoulos          
+  ([pdf](https://lemonidas.github.io/pdf/TestingOcamlThroughCoq.pdf))        
 
 * **Using Relational Problems to Teach Property-Based Testing**         
   (The Art, Science, and Engineering of Programming, 2021)    
