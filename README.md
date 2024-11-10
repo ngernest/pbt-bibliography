@@ -197,7 +197,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **AutoBench: Comparing the Time Performance of Haskell Programs** (Haskell 2018)         
   Martin A. T. Handley, Graham Hutton          
-  ([doi](https://doi.org/10.1145/3299711.3242749))       
+  ([doi](https://doi.org/10.1145/3299711.3242749))
+
+* **Cheap Remarks about Concurrent Programs** (FLOPS 2018)          
+  Michael Walker, Colin Runciman              
+  ([doi](https://doi.org/10.1007/978-3-319-90686-7_17))             
 
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
@@ -276,7 +280,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Foundational Property-Based Testing** (ITP 2015)      
   Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))              
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))
+
+* **Déjà Fu: a concurrency testing library for Haskell** (Haskell 2015)            
+  Michael Walker, Colin Runciman           
+  ([doi](https://doi.org/10.1145/2887747.2804306))           
 
 * **Quickchecking Static Analysis Properties** (ICST 2015)        
   Jan Midtgaard, Anders Møller     
@@ -284,11 +292,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Towards a Theory of Reach** (TFP 2015)      
   Jonathan Fowler, Graham Hutton      
-  ([doi](https://doi.org/10.1007/978-3-319-39110-6_2))
+  ([doi](https://doi.org/10.1007/978-3-319-39110-6_2))     
 
 * **Testing AUTOSAR software with QuickCheck** (ICSTW 2015)            
   Thomas Arts, John Hughes, Ulf Norell, Hans Svensson              
-  ([doi](https://ieeexplore.ieee.org/document/7107466))
+  ([doi](https://ieeexplore.ieee.org/document/7107466))   
 
 ### 2014 
 - **SmartCheck: automatic and efficient counterexample reduction and generalization** (Haskell 2014)           
