@@ -1,6 +1,6 @@
 # Property-Based Testing Bibliography
 
-This bibliography aims to cover the literature on _property-based testing_ (PBT)      
+This bibliography aims to cover the literature on _property-based testing_ (PBT) à la [Haskell QuickCheck](https://doi.org/10.1145/351240.351266)       
 (inspired by Jeremy Yallop's [algebraic effects bibliography](https://github.com/yallop/effects-bibliography) & Sam Hobin-Hochstadt's [gradual typing bibliography](https://github.com/samth/gradual-typing-bib)).       
 
 Pull requests welcome! Note: end a line with two spaces to force a line break.         
@@ -184,7 +184,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Deriving compositional random generators** (IFL 2019)            
   Agustín Mista, Alejandro Russo        
-  ([doi](https://doi.org/10.1145/3412932.3412943))         
+  ([doi](https://doi.org/10.1145/3412932.3412943))
+
+* **Semantic Fuzzing with Zest** (ISSTA 2019)               
+  Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis, Yves Le Traon               
+  ([doi](https://doi.org/10.1145/3339069))               
 
 ### 2018 
 * **Generating Good Generators for Inductive Relations** (POPL 2018)     
