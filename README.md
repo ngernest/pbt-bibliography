@@ -14,6 +14,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ***
 
 ## Papers
+### 2025 
+* **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025, to appear)            
+  Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                        
+
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
   Justin Frank, Benjamin Quiring, Leonidas Lampropoulos      
