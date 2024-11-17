@@ -21,7 +21,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Property-Based Testing in Practice** (ICSE 2024)    
   Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head    
-  ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))   
+  ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))
+
+* **How We Built Cedar: A Verification-Guided Approach** (FSE 2024)                     
+  Craig Disselkoen, Aaron Eline, Shaobo He, Kyle Headley, Mike Hicks, Kesha Hietala, John Kastner, Anwar Mamat, Matt McCutchen, Neha Rungta, Bhakti Shah, Emina Torlak, Andrew Wells                  
+  ([doi](https://doi.org/10.1145/3663529.3663854))          
 
 * **Type-Level Property Based Testing** (TyDe 2024)   
   Thomas Ekström Hansen, Edwin Brady    
