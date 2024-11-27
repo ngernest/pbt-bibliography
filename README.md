@@ -112,7 +112,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Quickstrom: property-based acceptance testing with LTL specifications** (PLDI 2022)        
   Liam O'Connor, Oskar Wickström      
-  ([doi](https://doi.org/10.1145/3519939.3523728))        
+  ([doi](https://doi.org/10.1145/3519939.3523728))
+
+* **Computing correctly with inductive relations** (PLDI 2022)              
+  Zoe Paraskevopoulou, Aaron Eline, Leonidas Lampropoulos             
+  ([doi](https://doi.org/10.1145/3519939.3523707))                     
 
 * **A Completely Unique Account of Enumeration** (ICFP 2022)   
   Cas van der Rest, Wouter Swierstra    
