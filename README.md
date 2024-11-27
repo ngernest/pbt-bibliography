@@ -16,7 +16,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ## Papers
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
-  Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell
+  Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
   ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))               
 
 ### 2024 
@@ -291,7 +291,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Burke Fetscher, Koen Claessen, Michał Pałka, John Hughes, Robert Bruce Findler        
   ([doi](https://doi.org/10.1007/978-3-662-46669-8_16))
 
-- **Generating constrained random data with uniform distribution** (JFP 2015)        
+* **Type Targeted Testing** (ESOP 2015)             
+  Eric L. Seidel, Niki Vazou, Ranjit Jhala                
+  ([doi](https://doi.org/10.1007/978-3-662-46669-8_33))          
+
+* **Generating constrained random data with uniform distribution** (JFP 2015)        
   Koen Claessen, Jonas Duregård, Michał Pałka                   
   ([doi](https://doi.org/10.1017/S0956796815000143)        
 
