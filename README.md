@@ -158,7 +158,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3** (SOSP 2021)     
   James Bornholt, Rajeev Joshi, Vytautas Astrauskas, Brendan Cully, Bernhard Kragl, Seth Markle, Kyle Sauri, Drew Schleit, Grant Slatton, Serdar Tasiran, Jacob Van Geffen, Andrew Warfield         
-  ([doi](https://dl.acm.org/doi/10.1145/3477132.3483540))          
+  ([doi](https://dl.acm.org/doi/10.1145/3477132.3483540))
+
+* **Resolvable Ambiguity: Principled Resolution of Syntactically Ambiguous Programs** (CC 2021)               
+  Viktor Palmkvist, Elias Castegren, Philipp Haller, David Broman           
+  ([doi](https://doi.org/10.1145/3446804.3446846))           
 
 * **Strong automated testing of OCaml libraries** (JFLA 2021)    
   François Pottier         
