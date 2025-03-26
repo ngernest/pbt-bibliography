@@ -17,7 +17,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
-  ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))               
+  ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))
+
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
+  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))                            
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
