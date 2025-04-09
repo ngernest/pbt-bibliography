@@ -39,8 +39,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Craig Disselkoen, Aaron Eline, Shaobo He, Kyle Headley, Mike Hicks, Kesha Hietala, John Kastner, Anwar Mamat, Matt McCutchen, Neha Rungta, Bhakti Shah, Emina Torlak, Andrew Wells                  
   ([doi](https://doi.org/10.1145/3663529.3663854))
 
-* **Property-Based Testing by Elaborating Proof Outlines** (TPLP 2024)
-  Dale Miller, Alberto Momigliano
+* **Property-Based Testing by Elaborating Proof Outlines** (TPLP 2024)         
+  Dale Miller, Alberto Momigliano               
   ([doi](https://doi.org/10.1017/S1471068424000176))       
 
 * **Type-Level Property Based Testing** (TyDe 2024)   
