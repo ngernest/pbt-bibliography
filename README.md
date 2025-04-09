@@ -19,6 +19,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
   ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))
 
+* **An Empirical Evaluation of Property-Based Testing** (to appear at OOPSLA 2025)         
+  Savitha Ravi, Michael Coblenz        
+
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
   ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))                            
@@ -34,7 +37,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **How We Built Cedar: A Verification-Guided Approach** (FSE 2024)                     
   Craig Disselkoen, Aaron Eline, Shaobo He, Kyle Headley, Mike Hicks, Kesha Hietala, John Kastner, Anwar Mamat, Matt McCutchen, Neha Rungta, Bhakti Shah, Emina Torlak, Andrew Wells                  
-  ([doi](https://doi.org/10.1145/3663529.3663854))          
+  ([doi](https://doi.org/10.1145/3663529.3663854))
+
+* **Property-Based Testing by Elaborating Proof Outlines** (TPLP 2024)
+  Dale Miller, Alberto Momigliano
+  ([doi](https://doi.org/10.1017/S1471068424000176))       
 
 * **Type-Level Property Based Testing** (TyDe 2024)   
   Thomas Ekström Hansen, Edwin Brady    
@@ -66,7 +73,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Can Large Language Models Write Good Property-Based Tests?**     
   Vasudev Vikram, Caroline Lemieux, Joshua Sunshine, Rohan Padhye      
-  ([arXiv](https://arxiv.org/abs/2307.04346)) 
+  ([arXiv](https://arxiv.org/abs/2307.04346))
+
+     
 
 ### 2023 
 * **Covering All the Bases: Type-Based Verification of Test Input Generators** (PLDI 2023)     
