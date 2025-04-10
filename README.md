@@ -24,7 +24,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))                            
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))
+
+* **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (under submission)                    
+  Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
+  ([pdf](https://arxiv.org/pdf/2504.06421))          
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
