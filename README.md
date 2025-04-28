@@ -88,7 +88,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Merging Inductive Relations** (PLDI 2023)        
   Jacob Prinz, Leonidas Lampropoulos        
-  ([doi](https://dl.acm.org/doi/10.1145/3591292))    
+  ([doi](https://dl.acm.org/doi/10.1145/3591292))
+
+* **Mostly Automated Proof Repair for Verified Libraries** (PLDI 2023)                 
+  Kiran Gopinathan, Mayank Keoliya, Ilya Sergey                      
+  ([doi](https://doi.org/10.1145/3591221))                    
 
 * **Reflecting on Random Generation** (ICFP 2023)    
   Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce        
