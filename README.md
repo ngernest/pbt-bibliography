@@ -20,7 +20,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))
 
 * **An Empirical Evaluation of Property-Based Testing** (to appear at OOPSLA 2025)         
-  Savitha Ravi, Michael Coblenz        
+  Savitha Ravi, Michael Coblenz
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
@@ -28,7 +28,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (under submission)                    
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
-  ([pdf](https://arxiv.org/pdf/2504.06421))          
+  ([pdf](https://arxiv.org/pdf/2504.06421))
+
+* **The Havoc Paradox in Generator-Based Fuzzing** (ACM TOSEM 2025)                
+  Ao Li, Madonna Huang, Vasudev Vikram, Caroline Lemieux, Rohan Padhye             
+  ([doi](https://doi.org/10.1145/3742894))         
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
