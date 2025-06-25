@@ -32,7 +32,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **The Havoc Paradox in Generator-Based Fuzzing** (ACM TOSEM 2025)                
   Ao Li, Madonna Huang, Vasudev Vikram, Caroline Lemieux, Rohan Padhye             
-  ([doi](https://doi.org/10.1145/3742894))         
+  ([doi](https://doi.org/10.1145/3742894))
+
+* **Property-based Testing of Attribute Grammars** (SLE 2025)           
+  José Nuno Macedo, Marcos Viera, João Saraiva          
+  ([doi](https://doi.org/10.1145/3732771.3742710))
+
+* **TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle** (FSE 2025)            
+  Matthew C. Davis, Amy Wei, Brad A. Myers, Joshua Sunshine      
+  ([doi](https://doi.org/10.1145/3729359))       
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
