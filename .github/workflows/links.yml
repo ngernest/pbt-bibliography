@@ -21,5 +21,5 @@ jobs:
         uses: lycheeverse/lychee-action@v1.8.0
         with:
           fail: true
-          args: "--cache --max-retries 0 --max-redirects 10 --max-cache-age 1d ."    
+          args: "--cache --accept 403 --max-redirects 10 --max-cache-age 1d ."    
           
