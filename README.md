@@ -372,7 +372,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-642-38574-2_27))      
+
+* **Splittable Pseudorandom Number Generators using Cryptographic Hashing** (Haskell 2013)      
+  Koen Claessen, Michał H. Pałka       
+  ([doi](https://doi.org/10.1145/2503778.2503784))       
 
 * **Testing Blocking Operations with QuickCheck’s Component Library** (Erlang 2013)       
   Ulf Norell, Hans Svensson, Thomas Arts         
