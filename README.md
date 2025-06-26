@@ -104,7 +104,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Mostly Automated Proof Repair for Verified Libraries** (PLDI 2023)                 
   Kiran Gopinathan, Mayank Keoliya, Ilya Sergey                      
-  ([doi](https://doi.org/10.1145/3591221))                    
+  ([doi](https://doi.org/10.1145/3591221))              
 
 * **Reflecting on Random Generation** (ICFP 2023)    
   Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce        
@@ -116,7 +116,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Formal Specification and Testing for Reinforcement Learning** (ICFP 2023)          
   Mahsa Varshosaz, Mohsen Ghaffari, Einar Broch Johnsen, Andrzej Wąsowski         
-  ([doi](https://doi.org/10.1145/3607835))        
+  ([doi](https://doi.org/10.1145/3607835))
+
+* **Formalizing Stack Safety as a Security Property** (CSF 2023)              
+  Sean Noble Anderson, Roberto Blanco, Leonidas Lampropoulos, Benjamin C. Pierce, Andrew Tolmach               
+  ([pdf](https://lemonidas.github.io/pdf/StackSafety.pdf))         
 
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
