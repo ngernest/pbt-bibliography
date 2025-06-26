@@ -331,6 +331,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   John Hughes       
   ([doi](https://link.springer.com/chapter/10.1007/978-3-319-30936-1_9))        
 
+* **Formalising Luck: Improved Probabilistic Semantics for Property-Based Generators** (INRIA Internship Report)          
+  Diane Gallois-Wong, Catalin Hritcu           
+  ([pdf](https://catalin-hritcu.github.io/students/diane/report.pdf))                 
+
 ### 2015 
 * **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
   Burke Fetscher, Koen Claessen, Michał Pałka, John Hughes, Robert Bruce Findler        
@@ -368,6 +372,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 - **SmartCheck: automatic and efficient counterexample reduction and generalization** (Haskell 2014)           
   Lee Pike        
   ([doi](https://doi.org/10.1145/2775050.2633365))          
+
+- **A Coq Framework For Verified Property-Based Testing** (INRIA Internship Report 2014)          
+  Zoe Paraskevopoulou, Catalin Hritcu       
+  ([pdf](https://catalin-hritcu.github.io/publications/verified-testing-report.pdf))   
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
@@ -413,8 +421,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Koen Claessen, Nicholas Smallbone, John Hughes          
   ([doi](https://doi.org/10.1007/978-3-642-13977-2_3))
 
-* **Using Temporal Relations to Specify and Test an Instant Messaging Server** (AST 2010)
-  John Hughes, Ulf Norrell, Jérôme Sautret      
+* **Using Temporal Relations to Specify and Test an Instant Messaging Server** (AST 2010)           
+  John Hughes, Ulf Norrell, Jérôme Sautret       
   ([doi](https://doi.org/10.1145/1808266.1808281))
 
 ### 2008 
