@@ -119,8 +119,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/3607835))
 
 * **Formalizing Stack Safety as a Security Property** (CSF 2023)              
-  Sean Noble Anderson, Roberto Blanco, Leonidas Lampropoulos, Benjamin C. Pierce, Andrew Tolmach               
-  ([pdf](https://lemonidas.github.io/pdf/StackSafety.pdf))         
+  Sean Noble Anderson, Roberto Blanco, Leonidas Lampropoulos, Benjamin C. Pierce, Andrew Tolmach                
+  ([doi](https://doi.org/10.48550/arXiv.2105.00417))               
 
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
