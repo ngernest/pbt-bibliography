@@ -274,7 +274,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
-  Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
+  Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hriţcu, John Hughes, Benjamin C. Pierce, Li-yao Xia     
   ([pdf](https://lemonidas.github.io/pdf/Luck.pdf))                       
 
 * **Effect-driven QuickChecking of compilers** (ICFP 2017)       
@@ -331,7 +331,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://ieeexplore.ieee.org/document/7515466))       
 
 * **Testing Noninterference, Quickly** (JFP 2016)    
-  Catalin Hritcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
+  Cătălin Hriţcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
   ([doi](https://dl.acm.org/doi/10.1145/2544174.2500574))         
 
 * **Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane**                  
@@ -344,8 +344,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1007/978-3-319-63139-4_13))             
 
 * **Formalising Luck: Improved Probabilistic Semantics for Property-Based Generators** (INRIA Internship Report)          
-  Diane Gallois-Wong, Catalin Hritcu           
-  ([pdf](https://catalin-hritcu.github.io/students/diane/report.pdf))                 
+  Diane Gallois-Wong, Cătălin Hriţcu           
+  ([pdf](https://Cătălin-Hriţcu.github.io/students/diane/report.pdf))                 
 
 ### 2015 
 * **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
@@ -361,7 +361,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1017/S0956796815000143)        
 
 * **Foundational Property-Based Testing** (ITP 2015)      
-  Zoe Paraskevopoulou, Cătălin Hritcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
+  Zoe Paraskevopoulou, Cătălin Hriţcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
   ([doi](https://link.springer.com/chapter/10.1007/978-3-319-22102-1_22))
 
 * **Déjà Fu: a concurrency testing library for Haskell** (Haskell 2015)            
@@ -380,14 +380,17 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Thomas Arts, John Hughes, Ulf Norell, Hans Svensson              
   ([doi](https://ieeexplore.ieee.org/document/7107466))   
 
+* **Integrating Functional Logic Programming with Constraint Solving for Random Generation of Structured Data** (INRIA Internship Report)     
+  Li-yao Xia, Cătălin Hriţcu              
+
 ### 2014 
 - **SmartCheck: automatic and efficient counterexample reduction and generalization** (Haskell 2014)           
   Lee Pike        
   ([doi](https://doi.org/10.1145/2775050.2633365))          
 
 - **A Coq Framework For Verified Property-Based Testing** (INRIA Internship Report 2014)          
-  Zoe Paraskevopoulou, Catalin Hritcu       
-  ([pdf](https://catalin-hritcu.github.io/publications/verified-testing-report.pdf))   
+  Zoe Paraskevopoulou, Cătălin Hriţcu       
+  ([pdf](https://Cătălin-Hriţcu.github.io/publications/verified-testing-report.pdf))   
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
