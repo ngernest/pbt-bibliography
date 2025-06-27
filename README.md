@@ -345,7 +345,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Formalising Luck: Improved Probabilistic Semantics for Property-Based Generators** (INRIA Internship Report)          
   Diane Gallois-Wong, Cătălin Hriţcu           
-  ([pdf](https://Cătălin-Hriţcu.github.io/students/diane/report.pdf))                 
+  ([pdf](https://catalin-hritcu.github.io/students/diane/report.pdf))                 
 
 ### 2015 
 * **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
@@ -390,7 +390,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 - **A Coq Framework For Verified Property-Based Testing** (INRIA Internship Report 2014)          
   Zoe Paraskevopoulou, Cătălin Hriţcu       
-  ([pdf](https://Cătălin-Hriţcu.github.io/publications/verified-testing-report.pdf))   
+  ([pdf](https://catalin-hritcu.github.io/publications/verified-testing-report.pdf))   
 
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
