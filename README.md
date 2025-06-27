@@ -327,9 +327,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Catalin Hritcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
   ([doi](https://dl.acm.org/doi/10.1145/2544174.2500574))         
 
-* **Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane**      
+* **Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane**                  
+  (*A List of Successes That Can Change the World*, Essays Dedicated to Philip Wadler on the Occasion of His 60th Birthday)      
   John Hughes       
   ([doi](https://link.springer.com/chapter/10.1007/978-3-319-30936-1_9))        
+
+* **CurryCheck: Checking Properties of Curry Programs** (LOPSTR 2016)             
+  Michael Hanus         
+  ([doi](https://doi.org/10.1007/978-3-319-63139-4_13))             
 
 * **Formalising Luck: Improved Probabilistic Semantics for Property-Based Generators** (INRIA Internship Report)          
   Diane Gallois-Wong, Catalin Hritcu           
@@ -428,7 +433,16 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2008 
 * **SmallCheck and Lazy SmallCheck: automatic exhaustive testing for small values** (Haskell 2008)    
   Colin Runciman, Matthew Naylor, Fredrik Lindblad   
-  ([doi](https://doi.org/10.1145/1411286.1411292))        
+  ([doi](https://doi.org/10.1145/1411286.1411292))       
+
+* **EasyCheck: test data for free** (FLOPS 2008)           
+  Jan Christiansen, Sebastian Fischer         
+  ([doi](https://doi.org/10.1007/978-3-540-78969-7_23))            
+
+### 2007
+* **Systematic generation of glass-box test cases for functional logic programs** (PPDP 2007)       
+  Sebastian Fischer, Herbert Kuchen     
+  ([doi](https://doi.org/10.1145/1273920.1273930))      
 
 ### 2006     
 * **Testing Properties of Generic Functions** (IFL 2006)         
