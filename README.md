@@ -266,7 +266,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Cheap Remarks about Concurrent Programs** (FLOPS 2018)          
   Michael Walker, Colin Runciman              
-  ([doi](https://doi.org/10.1007/978-3-319-90686-7_17))             
+  ([doi](https://doi.org/10.1007/978-3-319-90686-7_17))            
+
+* **Property Based Testing of C Code from Haskell** (Bachelor's Thesis, University of New South Wales)            
+  Alexander Hodges                
+  ([pdf](https://people.eng.unimelb.edu.au/rizkallahc/theses/alex-hodges-honours-thesis.pdf))           
 
 ### 2017
 * **Beginner's luck: a language for property-based generators** (POPL 2017)    
