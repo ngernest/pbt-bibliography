@@ -299,7 +299,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Quick Specifications for the Busy Programmer** (JFP 2017)      
   Nicholas Smallbone, Moa Johansson, Koen Claessen, Maximilian Algehed         
-  ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))          
+  ([doi](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/quick-specifications-for-the-busy-programmer/1E1E8A11F91A927DD56AF08280A9F58D))
+
+* **Fair Enumeration Combinators** (JFP 2017)                
+  Max S. New, Burke Fetscher, Robert Bruce Findler, Jay McCarthy                
+  ([doi](https://doi.org/10.1017/S0956796817000107)) 
 
 * **Failing faster: overlapping patterns for property-based testing** (PADL 2017)      
   Jonathan Fowler, Graham Hutton             
