@@ -405,6 +405,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Koen Claessen, Michał H. Pałka       
   ([doi](https://doi.org/10.1145/2503778.2503784))       
 
+* **Applying random testing to a base type environment (Experience Report)** (ICFP 2013)            
+  Vincent St-Amour, Neil Toronto          
+  ([doi](https://doi.org/10.1145/2544174.2500616))
+
 * **Testing Blocking Operations with QuickCheck’s Component Library** (Erlang 2013)       
   Ulf Norell, Hans Svensson, Thomas Arts         
   ([doi](https://doi.org/10.1145/2505305.2505310))       
