@@ -334,9 +334,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
   ([doi](https://ieeexplore.ieee.org/document/7515466))       
 
-* **Testing Noninterference, Quickly** (JFP 2016)    
+* **Testing Noninterference, Quickly** (JFP 2016, appeared initially at ICFP 2013)           
   Cătălin Hriţcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
-  ([doi](https://dl.acm.org/doi/10.1145/2544174.2500574))         
+  ([doi](https://doi.org/10.1017/S0956796816000058))           
 
 * **Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane**                  
   (*A List of Successes That Can Change the World*, Essays Dedicated to Philip Wadler on the Occasion of His 60th Birthday)      
