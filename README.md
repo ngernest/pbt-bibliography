@@ -428,7 +428,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Advances in Lazy SmallCheck** (IFL 2012)         
   Jason S. Reich, Matthew Naylor, Colin Runciman         
-  ([doi](https://doi.org/10.1007/978-3-642-41582-1_4))       
+  ([doi](https://doi.org/10.1007/978-3-642-41582-1_4))
+
+* **Boosting the Permissiveness of Dynamic Information-Flow Tracking by Testing** (ESORICS 2012)        
+  Arnar Birgisson, Daniel Hedin, Andrei Sabelfeld              
+  ([doi](https://doi.org/10.1007/978-3-642-33167-1_4))    
 
 ### 2011  
 * **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
