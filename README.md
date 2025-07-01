@@ -31,7 +31,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Cameron Moy, Daniel Patterson        
 
 * **An Empirical Evaluation of Property-Based Testing** (to appear at OOPSLA 2025)         
-  Savitha Ravi, Michael Coblenz         
+  Savitha Ravi, Michael Coblenz
+
+* **Ratte: Fuzzing for Miscompilations in Multi-Level Compilers Using Composable Semantics** (ASPLOS 2025)         
+  Pingshi Yu, Nicholas Wu, Alastair F. Donaldson        
+  ([doi](https://doi.org/10.1145/3676641.3716270))          
 
 * **The Havoc Paradox in Generator-Based Fuzzing** (ACM TOSEM 2025)                
   Ao Li, Madonna Huang, Vasudev Vikram, Caroline Lemieux, Rohan Padhye             
