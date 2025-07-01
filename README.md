@@ -80,7 +80,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)          
   Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
-  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))      
+  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
+
+* **Rustlantis: Randomized Differential Testing of the Rust Compiler** (OOPSLA 2024)          
+  Qian Wang, Ralf Jung          
+  ([doi](https://doi.org/10.1145/3689780))
 
 * **General and Practical Property-based Testing for Android Apps** (ASE 2024)     
   Yiheng Xiong, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su      
