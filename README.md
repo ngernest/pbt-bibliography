@@ -27,8 +27,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
   ([pdf](https://arxiv.org/pdf/2504.06421))       
 
-* **Teaching Software Specification (Experience Report)** (to appear at ICFP 2025)               
-  Cameron Moy, Daniel Patterson
+* **Teaching Software Specification (Experience Report)** (ICFP 2025)                  
+  Cameron Moy, Daniel Patterson           
+  ([pdf](https://dbp.io/pubs/2025/lsl.pdf))           
 
 * **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell Symposium 2025)             
   Anton Lorenzon          
