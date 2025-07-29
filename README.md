@@ -28,10 +28,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://arxiv.org/pdf/2504.06421))       
 
 * **Teaching Software Specification (Experience Report)** (to appear at ICFP 2025)               
-  Cameron Moy, Daniel Patterson        
+  Cameron Moy, Daniel Patterson
+
+* **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell Symposium 2025)             
+  Anton Lorenzon          
+  ([pdf](https://antonlorenzen.de/papers/creditmonad.pdf))           
 
 * **An Empirical Evaluation of Property-Based Testing** (to appear at OOPSLA 2025)         
-  Savitha Ravi, Michael Coblenz
+  Savitha Ravi, Michael Coblenz     
 
 * **Ratte: Fuzzing for Miscompilations in Multi-Level Compilers Using Composable Semantics** (ASPLOS 2025)         
   Pingshi Yu, Nicholas Wu, Alastair F. Donaldson        
