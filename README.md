@@ -56,7 +56,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
-  Justin Frank, Benjamin Quiring, Leonidas Lampropoulos      
+  Justine Frank, Benjamin Quiring, Leonidas Lampropoulos      
   ([doi](https://dl.acm.org/doi/10.1145/3632919))    
 
 * **Property-Based Testing in Practice** (ICSE 2024)    
