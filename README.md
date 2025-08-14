@@ -19,25 +19,21 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
   ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))
 
-* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
-  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))
-
-* **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (under submission)                    
-  Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
-  ([pdf](https://arxiv.org/pdf/2504.06421))       
-
 * **Teaching Software Specification (Experience Report)** (ICFP 2025)                  
   Cameron Moy, Daniel Patterson           
   ([pdf](https://dbp.io/pubs/2025/lsl.pdf))           
 
-* **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell Symposium 2025)             
+* **An Empirical Evaluation of Property-Based Testing** (OOPSLA 2025)         
+  Savitha Ravi, Michael Coblenz
+
+* **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (OOPSLA 2025)         
+  Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
+  ([pdf](https://arxiv.org/pdf/2504.06421))
+
+* **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell 2025)             
   Anton Lorenzon          
   ([pdf](https://antonlorenzen.de/papers/creditmonad.pdf))           
-
-* **An Empirical Evaluation of Property-Based Testing** (to appear at OOPSLA 2025)         
-  Savitha Ravi, Michael Coblenz     
-
+  
 * **Ratte: Fuzzing for Miscompilations in Multi-Level Compilers Using Composable Semantics** (ASPLOS 2025)         
   Pingshi Yu, Nicholas Wu, Alastair F. Donaldson        
   ([doi](https://doi.org/10.1145/3676641.3716270))          
@@ -52,7 +48,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle** (FSE 2025)            
   Matthew C. Davis, Amy Wei, Brad A. Myers, Joshua Sunshine      
-  ([doi](https://doi.org/10.1145/3729359))       
+  ([doi](https://doi.org/10.1145/3729359))
+
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
+  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))    
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
