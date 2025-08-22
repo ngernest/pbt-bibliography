@@ -24,12 +24,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://dbp.io/pubs/2025/lsl.pdf))           
 
 * **Tuning Random Generators: Property-Based Testing as Probabilistic Programming** (OOPSLA 2025)           
-  Ryan Tjoa, Poorva Garg, Harrison Goldstein, Todd Millstein, Benjamin Pierce, Guy Van den Broeck             
+  Ryan Tjoa, Poorva Garg, Harrison Goldstein, Todd Millstein, Benjamin C. Pierce, Guy Van den Broeck             
   ([pdf](https://arxiv.org/pdf/2508.14394))         
 
 * **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (OOPSLA 2025)         
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
   ([pdf](https://arxiv.org/pdf/2504.06421))
+
+* **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)           
+  Zain K. Aamer, Benjamin C. Pierce       
 
 * **An Empirical Evaluation of Property-Based Testing** (OOPSLA 2025)         
   Savitha Ravi, Michael Coblenz
