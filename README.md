@@ -17,18 +17,22 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
-  ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))
+  ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))   
 
 * **Teaching Software Specification (Experience Report)** (ICFP 2025)                  
   Cameron Moy, Daniel Patterson           
   ([pdf](https://dbp.io/pubs/2025/lsl.pdf))           
 
-* **An Empirical Evaluation of Property-Based Testing** (OOPSLA 2025)         
-  Savitha Ravi, Michael Coblenz
+* **Tuning Random Generators: Property-Based Testing as Probabilistic Programming** (OOPSLA 2025)           
+  Ryan Tjoa, Poorva Garg, Harrison Goldstein, Todd Millstein, Benjamin Pierce, Guy Van den Broeck             
+  ([pdf](https://arxiv.org/pdf/2508.14394))         
 
 * **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (OOPSLA 2025)         
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
   ([pdf](https://arxiv.org/pdf/2504.06421))
+
+* **An Empirical Evaluation of Property-Based Testing** (OOPSLA 2025)         
+  Savitha Ravi, Michael Coblenz
 
 * **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell 2025)             
   Anton Lorenzon          
