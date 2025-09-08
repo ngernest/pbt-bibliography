@@ -240,8 +240,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
   ([doi](https://programming-journal.org/2021/5/9/))
 
-* **PyH2: Using PyMTL3 to Create Productive and Open-Source Hardware Testing Methodologies** (IEEE Design & Test 2021)
-  Shunning Jiang, Yanghui Ou, Peitian Pan, Kaishuo Cheng, Yixiao Zhang, Christopher Batten      
+* **PyH2: Using PyMTL3 to Create Productive and Open-Source Hardware Testing Methodologies** (IEEE Design & Test 2021)            
+  Shunning Jiang, Yanghui Ou, Peitian Pan, Kaishuo Cheng, Yixiao Zhang, Christopher Batten              
   [pdf](https://www.csl.cornell.edu/~cbatten/pdfs/jiang-pyh2-dt2021.pdf)     
   
 ### 2020 
