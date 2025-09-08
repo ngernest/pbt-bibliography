@@ -34,7 +34,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)           
   Zain K. Aamer, Benjamin C. Pierce       
 
-* **An Empirical Evaluation of Property-Based Testing** (OOPSLA 2025)         
+* **An Empirical Evaluation of Property-Based Testing in Python** (OOPSLA 2025)         
   Savitha Ravi, Michael Coblenz
 
 * **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell 2025)             
@@ -113,8 +113,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Can Large Language Models Write Good Property-Based Tests?**     
   Vasudev Vikram, Caroline Lemieux, Joshua Sunshine, Rohan Padhye      
   ([arXiv](https://arxiv.org/abs/2307.04346))
-
-     
+  
 
 ### 2023 
 * **Covering All the Bases: Type-Based Verification of Test Input Generators** (PLDI 2023)     
@@ -239,8 +238,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Using Relational Problems to Teach Property-Based Testing**         
   (The Art, Science, and Engineering of Programming, 2021)    
   John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
-  ([doi](https://programming-journal.org/2021/5/9/))      
+  ([doi](https://programming-journal.org/2021/5/9/))
 
+* **PyH2: Using PyMTL3 to Create Productive and Open-Source Hardware Testing Methodologies** (IEEE Design & Test 2021)
+  Shunning Jiang, Yanghui Ou, Peitian Pan, Kaishuo Cheng, Yixiao Zhang, Christopher Batten      
+  [pdf](https://www.csl.cornell.edu/~cbatten/pdfs/jiang-pyh2-dt2021.pdf)     
+  
 ### 2020 
 - **Test-Case Reduction via Test-Case Generation: Insights from the Hypothesis Reducer** (ECOOP 2020)          
   David R. MacIver, Alastair F. Donaldson               
@@ -402,7 +405,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Testing AUTOSAR software with QuickCheck** (ICSTW 2015)            
   Thomas Arts, John Hughes, Ulf Norell, Hans Svensson              
-  ([doi](https://ieeexplore.ieee.org/document/7107466))   
+  ([doi](https://ieeexplore.ieee.org/document/7107466))
+
+* **A Generic Synthesisable Test Bench** (MEMOCODE 2015)         
+  Matthew Naylor, Simon Moore         
+  ([pdf](https://www.cl.cam.ac.uk/~swm11/research/papers/memocode2015.pdf)) 
 
 * **Integrating Functional Logic Programming with Constraint Solving for Random Generation of Structured Data** (INRIA Internship Report)     
   Li-yao Xia, Cătălin Hriţcu              
