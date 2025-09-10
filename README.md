@@ -43,7 +43,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   
 * **Ratte: Fuzzing for Miscompilations in Multi-Level Compilers Using Composable Semantics** (ASPLOS 2025)         
   Pingshi Yu, Nicholas Wu, Alastair F. Donaldson        
-  ([doi](https://doi.org/10.1145/3676641.3716270))          
+  ([doi](https://doi.org/10.1145/3676641.3716270))
+
+* **Ghost in the Android Shell: Pragmatic Test-oracle Specification of a Production Hypervisor** (SOSP 2025)           
+  Kayvan Memarian, Ben Simner, David Kaloper-Meršinjak, Thibaut Pérami, Peter Sewell        
+  ([pdf](https://2plus2a.com/files/publications/2025-SOSP-execspec.pdf))      
 
 * **The Havoc Paradox in Generator-Based Fuzzing** (ACM TOSEM 2025)                
   Ao Li, Madonna Huang, Vasudev Vikram, Caroline Lemieux, Rohan Padhye             
