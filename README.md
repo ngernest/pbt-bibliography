@@ -72,11 +72,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Property-Based Testing in Practice** (ICSE 2024)    
   Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head    
-  ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))
+  ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))           
 
 * **How We Built Cedar: A Verification-Guided Approach** (FSE 2024)                     
   Craig Disselkoen, Aaron Eline, Shaobo He, Kyle Headley, Mike Hicks, Kesha Hietala, John Kastner, Anwar Mamat, Matt McCutchen, Neha Rungta, Bhakti Shah, Emina Torlak, Andrew Wells                  
   ([doi](https://doi.org/10.1145/3663529.3663854))
+
+* **Practical Verification of System-Software Components Written in Standard C** (SOSP 2024)        
+  Can Cebeci, Yonghao Zou, Diyu Zhou, George Candea, Clément Pit-Claudel        
+  ([doi](https://doi.org/10.1145/3694715.3695980))   
 
 * **Property-Based Testing by Elaborating Proof Outlines** (TPLP 2024)         
   Dale Miller, Alberto Momigliano               
