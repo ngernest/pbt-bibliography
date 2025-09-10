@@ -263,7 +263,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **A Simple State-Machine Framework for Property-Based Testing in OCaml** (OCaml 2020)     
   Jan Midtgaard    
-  ([pdf](https://janmidtgaard.dk/papers/Midtgaard%3aOCaml20.pdf))         
+  ([pdf](https://janmidtgaard.dk/papers/Midtgaard%3aOCaml20.pdf))
+
+* **Finding and understanding bugs in FPGA synthesis tools** (FPGA 2020)         
+  Yann Herklotz, John Wickerson          
+  ([doi](https://dl.acm.org/doi/10.1145/3373087.3375310))
 
 ### 2019 
 * **Coverage guided, property based testing** (OOPSLA 2019)       
