@@ -47,7 +47,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Ghost in the Android Shell: Pragmatic Test-oracle Specification of a Production Hypervisor** (SOSP 2025)           
   Kayvan Memarian, Ben Simner, David Kaloper-Meršinjak, Thibaut Pérami, Peter Sewell        
-  ([pdf](https://2plus2a.com/files/publications/2025-SOSP-execspec.pdf))      
+  ([pdf](https://2plus2a.com/files/publications/2025-SOSP-execspec.pdf))
+
+* **Automatically testing console I/O behavior of student submissions in Haskell** (JFP 2025)         
+  Oliver Westphal, Janis Voigtländer               
+  ([doi](https://doi.org/10.1017/S0956796825100075))        
 
 * **The Havoc Paradox in Generator-Based Fuzzing** (ACM TOSEM 2025)                
   Ao Li, Madonna Huang, Vasudev Vikram, Caroline Lemieux, Rohan Padhye             
