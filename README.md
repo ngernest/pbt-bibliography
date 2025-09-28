@@ -51,7 +51,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Automatically testing console I/O behavior of student submissions in Haskell** (JFP 2025)         
   Oliver Westphal, Janis Voigtländer               
-  ([doi](https://doi.org/10.1017/S0956796825100075))        
+  ([doi](https://doi.org/10.1017/S0956796825100075))
+
+* **Property-Based Testing of OCaml 5’s Runtime System** (OlivierFest '25)                    
+  Jan Midtgaard     
+  ([pdf](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf))     
 
 * **The Havoc Paradox in Generator-Based Fuzzing** (ACM TOSEM 2025)                
   Ao Li, Madonna Huang, Vasudev Vikram, Caroline Lemieux, Rohan Padhye             
