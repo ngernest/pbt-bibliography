@@ -15,7 +15,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ## Papers
 ### 2026
-* **Foundational Multi-Modal Program Verifiers** (under submission)            
+* **Foundational Multi-Modal Program Verifiers** (to appear at POPL 2026)            
   Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
   ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))    
 
