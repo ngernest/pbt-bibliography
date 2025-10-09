@@ -14,6 +14,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ***
 
 ## Papers
+### 2026
+* **Foundational Multi-Modal Program Verifiers** (under submission)            
+  Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
+  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))    
+
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
