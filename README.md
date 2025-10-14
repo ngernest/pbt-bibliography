@@ -78,6 +78,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
   ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))    
 
+* **Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem** (NeurIPS 2025, Deep Learning for Code workshop)      
+  Muhammad Maaz, Liam DeVoe, Zac Hatfield-Dodds, Nicholas Carlini         
+  ([arXiv](https://arxiv.org/abs/2510.09907))
+
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
   Justine Frank, Benjamin Quiring, Leonidas Lampropoulos      
