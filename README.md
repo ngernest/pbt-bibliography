@@ -48,11 +48,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   
 * **Ratte: Fuzzing for Miscompilations in Multi-Level Compilers Using Composable Semantics** (ASPLOS 2025)         
   Pingshi Yu, Nicholas Wu, Alastair F. Donaldson        
-  ([doi](https://doi.org/10.1145/3676641.3716270))
+  ([doi](https://doi.org/10.1145/3676641.3716270))     
 
 * **Ghost in the Android Shell: Pragmatic Test-oracle Specification of a Production Hypervisor** (SOSP 2025)           
   Kayvan Memarian, Ben Simner, David Kaloper-Meršinjak, Thibaut Pérami, Peter Sewell        
-  ([pdf](https://2plus2a.com/files/publications/2025-SOSP-execspec.pdf))
+  ([pdf](https://doi.org/10.1145/3731569.3764817))                  
+
+* **WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations** (SOSP 2025)            
+  Yage Hu, Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, Suxin Ji, Songlan Wang, Wenwen Wang          
+  ([doi](https://doi.org/10.1145/3731569.3764819))                      
 
 * **Automatically testing console I/O behavior of student submissions in Haskell** (JFP 2025)         
   Oliver Westphal, Janis Voigtländer               
