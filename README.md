@@ -15,14 +15,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ## Papers
 ### 2026
-* **Foundational Multi-Modal Program Verifiers** (to appear at POPL 2026)            
+* **Foundational Multi-Modal Program Verifiers** (POPL 2026)            
   Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
   ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))    
 
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
-  ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))   
+  ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))             
 
 * **Teaching Software Specification (Experience Report)** (ICFP 2025)                  
   Cameron Moy, Daniel Patterson           
@@ -30,17 +30,19 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Tuning Random Generators: Property-Based Testing as Probabilistic Programming** (OOPSLA 2025)           
   Ryan Tjoa, Poorva Garg, Harrison Goldstein, Todd Millstein, Benjamin C. Pierce, Guy Van den Broeck             
-  ([pdf](https://arxiv.org/pdf/2508.14394))         
+  ([doi](https://doi.org/10.1145/3763082))                
 
 * **We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators** (OOPSLA 2025)         
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
-  ([pdf](https://arxiv.org/pdf/2504.06421))
+  ([doi](https://doi.org/10.1145/3763158))         
 
 * **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)           
-  Zain K. Aamer, Benjamin C. Pierce       
+  Zain K. Aamer, Benjamin C. Pierce
+  ([doi](https://doi.org/10.1145/3764115))              
 
 * **An Empirical Evaluation of Property-Based Testing in Python** (OOPSLA 2025)         
-  Savitha Ravi, Michael Coblenz
+  Savitha Ravi, Michael Coblenz           
+  ([doi](https://doi.org/10.1145/3764068))            
 
 * **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell 2025)             
   Anton Lorenzon          
