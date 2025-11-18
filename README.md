@@ -36,8 +36,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
   ([doi](https://doi.org/10.1145/3763158))         
 
-* **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)           
-  Zain K. Aamer, Benjamin C. Pierce
+* **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)               
+  Zain K. Aamer, Benjamin C. Pierce                       
   ([doi](https://doi.org/10.1145/3764115))              
 
 * **An Empirical Evaluation of Property-Based Testing in Python** (OOPSLA 2025)         
@@ -539,7 +539,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2006     
 * **Testing Properties of Generic Functions** (IFL 2006)         
   Patrik Jansson, Johan Jeuring, Laurence Cabenda, Gerbo Engels, Jacob Kleerekoper, Sander Mak, Michiel Overeem, Kees Visser      
-  ([doi](https://link.springer.com/chapter/10.1007/978-3-540-74130-5_13))        
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-540-74130-5_13))
+
+### 2004
+* **Genesys-Pro: Innovations in Test Program Generation for Functional Processor Verification** (IEEE Design & Test 2004)                    
+  Allon Adir, Eli Almog, Laurent Fournier, Eitan Marcus, Michal Rimon, Michael Vinov, Avi Ziv                 
+  ([doi](https://www.computer.org/csdl/magazine/dt/2004/02/d2084/13rRUNvgyZC))          
 
 ### 2002    
 * **Testing Monadic Code with QuickCheck** (Haskell 2002)     
