@@ -193,7 +193,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
-  ([doi](https://ieeexplore.ieee.org/document/10336336))     
+  ([doi](https://ieeexplore.ieee.org/document/10336336))
+
+* **Randomized Testing of RISC-V CPUs using Direct Instruction Injection** (IEEE Design & Test 2023)         
+  Alexandre Joannou, Peter Rugg, Jonathan Woodruff, Franz A. Fuchs, Marno van der Maas, Matthew Naylor, Michael Roe, Robert N. M. Watson, Peter G. Neumann, Simon W. Moore         
+  ([doi](https://ieeexplore.ieee.org/document/10083100))            
 
 * **Evaluating Soundness of a Gradual Verifier with Property Based Testing** (POPL 2023 SRC)        
   Jan-Paul Ramos-Dávila          
