@@ -80,9 +80,13 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Matthew C. Davis, Amy Wei, Brad A. Myers, Joshua Sunshine      
   ([doi](https://doi.org/10.1145/3729359))
 
-* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                   
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                    
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))    
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))
+
+* **The Search for Constrained Random Generators** (under submission)                    
+  Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
+  ([arXiv](https://arxiv.org/abs/2511.12253))    
 
 * **Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem** (NeurIPS 2025, Deep Learning for Code workshop)      
   Muhammad Maaz, Liam DeVoe, Zac Hatfield-Dodds, Nicholas Carlini         
