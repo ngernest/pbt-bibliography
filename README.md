@@ -189,7 +189,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **falsify: Internal Shrinking Reimagined for Haskell** (Haskell 2023)     
   Edsko de Vries        
-  ([doi](https://doi.org/10.1145/3609026.3609733))          
+  ([doi](https://doi.org/10.1145/3609026.3609733))         
+
+* **PropProof: Free Model-Checking Harnesses from PBT** (FSE 2023)             
+  Yoshiki Takashima       
+  ([doi](https://doi.org/10.1145/3611643.3613863))          
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
@@ -249,6 +253,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Do Judge a Test by its Cover: Combining Combinatorial and Property-Based Testing** (ESOP 2021)      
   Harrison Goldstein, John Hughes, Leonidas Lampropoulos, Benjamin C. Pierce      
   ([doi](https://dl.acm.org/doi/10.1007/978-3-030-72019-3_10))
+
+* **SyRust: Automatic Testing of Rust Libraries with Semantic-Aware Program Synthesis** (PLDI 2021)          
+  Yoshiki Takashima, Ruben Martins, Limin Jia, Corina S. Păsăreanu          
+  ([doi](https://doi.org/10.1145/3453483.3454084))    
 
 * **Data-Driven Abductive Inference of Library Specifications** (OOPSLA 2021)      
   Zhe Zhou, Robert Dickerson, Benjamin Delaware, Suresh Jagannathan      
