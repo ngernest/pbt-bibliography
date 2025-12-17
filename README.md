@@ -243,11 +243,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Functional Pearl: Holey Generators!**    
   Joseph W. Cutler, Harrison Goldstein, Koen Claessen, John Hughes, Benjamin C. Pierce    
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/holey.pdf))
+  ([pdf](https://cutler.pl/assets/holey.pdf))
 
 * **Learning Good Generators for Property-Based Testing** (PLDI 2022 SRC)        
   Joseph W. Cutler         
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/bandits.pdf))  
+  ([pdf](https://cutler.pl/assets/bandits.pdf))  
 
 ### 2021
 * **Do Judge a Test by its Cover: Combining Combinatorial and Property-Based Testing** (ESOP 2021)      
