@@ -17,11 +17,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2026
 * **Foundational Multi-Modal Program Verifiers** (POPL 2026)            
   Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
-  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))
+  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))        
 
-* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                            
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))     
+  ([arXiv](https://arxiv.org/abs/2503.19797))            
 
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
