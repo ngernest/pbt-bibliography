@@ -17,7 +17,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2026
 * **Foundational Multi-Modal Program Verifiers** (POPL 2026)            
   Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
-  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))    
+  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))
+
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                            
+  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
+  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))     
 
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
@@ -79,10 +83,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle** (FSE 2025)            
   Matthew C. Davis, Amy Wei, Brad A. Myers, Joshua Sunshine      
   ([doi](https://doi.org/10.1145/3729359))
-
-* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (under submission)                                    
-  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://www.cis.upenn.edu/~jwc/assets/fail-faster.pdf))
 
 * **The Search for Constrained Random Generators** (under submission)                    
   Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
