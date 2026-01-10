@@ -23,6 +23,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
   ([arXiv](https://arxiv.org/abs/2503.19797))            
 
+* **Ariadne: Automatically Tuning Generator Weights Using Dynamic Sampling** (POPL 2026 SRC)        
+  Francille Zhuang    
+
 ### 2025 
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
