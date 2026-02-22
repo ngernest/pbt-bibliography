@@ -33,7 +33,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Feedback-guided Adaptive Testing of Distributed Systems Designs** (NSDI 2026)            
   Ao Li, Ankush Desai, Rohan Padhye          
-  ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))          
+  ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
+
+* **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
+  Harrison Goldstein, Cameron Moy, Daniel Patterson         
+
+* **Just-in-Time Catching Test Generation at Meta**          
+  Matthew Becker, Yifei Chen, Nicholas Cochran, Pouyan Ghasemi, Abhishek Gulati, Mark Harman, Zachary Haluza, Mehrdad Honarkhah, Herve Robert, Jiacheng Liu, Weini Liu, Sreeja Thummala, Xiaoning Yang, Rui Xin, Sophie Zeng           
+  ([arXiv](https://arxiv.org/abs/2601.22832))    
 
 * **Ariadne: Automatically Tuning Generator Weights Using Dynamic Sampling** (POPL 2026 SRC)        
   Francille Zhuang    
