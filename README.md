@@ -36,7 +36,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
 
 * **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
-  Harrison Goldstein, Cameron Moy, Daniel Patterson         
+  Harrison Goldstein, Cameron Moy, Daniel Patterson
+
+* **Aporia: Asking Questions to Elicit User Decisions** (PLATEAU 2026)                
+  Saketh Kasibatla, Sorin Lerner, Hila Peleg, Benjamin Pierce, Harrison Goldstein                  
 
 * **Just-in-Time Catching Test Generation at Meta**          
   Matthew Becker, Yifei Chen, Nicholas Cochran, Pouyan Ghasemi, Abhishek Gulati, Mark Harman, Zachary Haluza, Mehrdad Honarkhah, Herve Robert, Jiacheng Liu, Weini Liu, Sreeja Thummala, Xiaoning Yang, Rui Xin, Sophie Zeng           
