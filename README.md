@@ -129,7 +129,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Practical Verification of System-Software Components Written in Standard C** (SOSP 2024)        
   Can Cebeci, Yonghao Zou, Diyu Zhou, George Candea, Clément Pit-Claudel        
-  ([doi](https://doi.org/10.1145/3694715.3695980))   
+  ([doi](https://doi.org/10.1145/3694715.3695980))
+
+* **Test Harness Mutilation** (ICSTW 2024)             
+  Samuel Moelius     
+  ([doi](https://doi.ieeecomputersociety.org/10.1109/ICSTW60967.2024.00053))                     
 
 * **Property-Based Testing by Elaborating Proof Outlines** (TPLP 2024)         
   Dale Miller, Alberto Momigliano               
