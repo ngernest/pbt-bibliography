@@ -33,7 +33,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Feedback-guided Adaptive Testing of Distributed Systems Designs** (NSDI 2026)            
   Ao Li, Ankush Desai, Rohan Padhye          
-  ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
+  ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))    
+
+* **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
+  David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
+  ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))                       
 
 * **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
   Harrison Goldstein, Cameron Moy, Daniel Patterson
@@ -614,7 +618,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ## 2019 
 - **Narrowing in on Property-Based Testing** (PhD Dissertation, University of Nottingham)          
   Jonathan Fowler           
-  ([pdf](http://eprints.nottingham.ac.uk/57009/1/thesis.pdf))
+  ([pdf](https://people.cs.nott.ac.uk/pszgmh/fowler.pdf))
 
 ## 2018 
 - **Random Testing for Language Design** (PhD Dissertation, University of Pennsylvania)         
@@ -629,4 +633,4 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ## 2013     
 - **Lightweight Verification of Functional Programs** (PhD Dissertation, Chalmers University of Technology)       
   Nicholas Smallbone       
-  ([pdf](https://smallbone.se/papers/thesis.pdf))        
+  ([pdf](https://smallbone.se/papers/thesis.pdf))
