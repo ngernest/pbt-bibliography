@@ -618,7 +618,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ## 2019 
 - **Narrowing in on Property-Based Testing** (PhD Dissertation, University of Nottingham)          
   Jonathan Fowler           
-  ([pdf](http://eprints.nottingham.ac.uk/57009/1/thesis.pdf))
+  ([pdf](https://people.cs.nott.ac.uk/pszgmh/fowler.pdf))
 
 ## 2018 
 - **Random Testing for Language Design** (PhD Dissertation, University of Pennsylvania)         
