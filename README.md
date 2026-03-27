@@ -611,12 +611,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ***
 
-## Academic presentations
-- **QuickChecking Confluence** (IFIP WG 2.8 meeting, 2025)                
-  Koen Claessen 
-
-- **Testing Theorems, Fully 
-
 ## Dissertations 
 ## 2024 
 - **Property-Based Testing for the People** (PhD Dissertation, University of Pennsylvania)        
