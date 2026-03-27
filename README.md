@@ -89,6 +89,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Kayvan Memarian, Ben Simner, David Kaloper-Meršinjak, Thibaut Pérami, Peter Sewell        
   ([pdf](https://doi.org/10.1145/3731569.3764817))                  
 
+* **eBPF Misbehavior Detection: Fuzzing with a Specification-Based Oracle** (SOSP 2025)              
+  Tao Lyu, Kumar Kartikeya Dwivedi, Thomas Bourgeat, Mathias Payer, Meng Xu, Sanidhya Kashyap                  
+  ([doi](https://doi.org/10.1145/3731569.3764797))         
+
 * **WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations** (SOSP 2025)            
   Yage Hu, Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, Suxin Ji, Songlan Wang, Wenwen Wang          
   ([doi](https://doi.org/10.1145/3731569.3764819))                      
@@ -136,7 +140,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Practical Verification of System-Software Components Written in Standard C** (SOSP 2024)        
   Can Cebeci, Yonghao Zou, Diyu Zhou, George Candea, Clément Pit-Claudel        
-  ([doi](https://doi.org/10.1145/3694715.3695980))
+  ([doi](https://doi.org/10.1145/3694715.3695980))         
+
+* **IronSpec: Increasing the Reliability of Formal Specifications** (OSDI 2024)            
+  Eli Goldweber, Weixin Yu, Seyed Armin Vakil Ghahani, Manos Kapritsos          
+  ([pdf](https://www.usenix.org/system/files/osdi24-goldweber.pdf))                 
 
 * **Test Harness Mutilation** (ICSTW 2024)             
   Samuel Moelius     
@@ -344,7 +352,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2019 
 * **Coverage guided, property based testing** (OOPSLA 2019)       
   Leonidas Lampropoulos, Michael Hicks, Benjamin C. Pierce       
-  ([doi](https://dl.acm.org/doi/10.1145/3360607))
+  ([doi](https://dl.acm.org/doi/10.1145/3360607))         
+
+* **Verifying software network functions with no verification expertise** (SOSP 2019)              
+  Arseniy Zaostrovnykh, Solal Pirelli, Rishabh Iyer, Matteo Rizzo, Luis Pedrosa, Katerina Argyraki, George Candea         
+  ([doi](https://doi.org/10.1145/3341301.3359647))                            
 
 * **Deriving compositional random generators** (IFL 2019)            
   Agustín Mista, Alejandro Russo        
@@ -598,6 +610,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://dl.acm.org/doi/10.1145/351240.351266))
 
 ***
+
+## Academic presentations
+- **QuickChecking Confluence** (IFIP WG 2.8 meeting, 2025)                
+  Koen Claessen 
+
+- **Testing Theorems, Fully 
 
 ## Dissertations 
 ## 2024 
