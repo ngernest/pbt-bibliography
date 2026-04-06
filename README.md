@@ -39,7 +39,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
   ([arXiv](https://arxiv.org/abs/2511.12253))
 
-* **Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows** (PLDI 2026)
+* **Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows** (PLDI 2026)                                 
   Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell                
 
 * **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                
