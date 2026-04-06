@@ -37,7 +37,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **The Search for Constrained Random Generators** (PLDI 2026)                     
   Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
-  ([arXiv](https://arxiv.org/abs/2511.12253))     
+  ([arXiv](https://arxiv.org/abs/2511.12253))
+
+* **Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows** (PLDI 2026)
+  Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell                
 
 * **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                
   Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan                 
@@ -123,6 +126,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle** (FSE 2025)            
   Matthew C. Davis, Amy Wei, Brad A. Myers, Joshua Sunshine      
   ([doi](https://doi.org/10.1145/3729359))
+
+* **Model-free Stateful Random Testing** (MSc thesis, University of Maryland)                     
+  Ethan Chou                      
+  ([doi](https://drum.lib.umd.edu/items/894f193b-3791-4d0a-900b-86363cbae75f))                     
 
 * **Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem** (NeurIPS 2025, Deep Learning for Code workshop)      
   Muhammad Maaz, Liam DeVoe, Zac Hatfield-Dodds, Nicholas Carlini         
