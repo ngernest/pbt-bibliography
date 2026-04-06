@@ -33,7 +33,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Feedback-guided Adaptive Testing of Distributed Systems Designs** (NSDI 2026)            
   Ao Li, Ankush Desai, Rohan Padhye          
-  ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))    
+  ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
+
+* **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                
+  Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan                 
 
 * **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
