@@ -19,10 +19,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
   ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))        
 
-* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
-  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://arxiv.org/abs/2503.19797))            
-
 * **Scaling Automated Database System Testing** (ASPLOS 2026)          
   Suyang Zhong, Manuel Rigger       
   ([pdf](https://suyang.zone/assets/pdf/scaling.pdf))             
@@ -43,7 +39,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell                
 
 * **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                
-  Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan                 
+  Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan
+
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
+  Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
+  ([pdf](https://arxiv.org/abs/2503.19797))            
 
 * **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
