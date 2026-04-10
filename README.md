@@ -67,6 +67,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Francille Zhuang    
 
 ### 2025 
+* **Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM** (TACAS 2025)                  
+  Nikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard           
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-031-90660-2_1))           
+
 * **Fulminate: Testing CN Separation-Logic Specifications in C** (POPL 2025)             
   Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, Peter Sewell                       
   ([pdf](https://www.cl.cam.ac.uk/~cp526/2024-cn-testing-paper.pdf))             
