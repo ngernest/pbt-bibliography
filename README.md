@@ -23,10 +23,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Suyang Zhong, Manuel Rigger       
   ([pdf](https://suyang.zone/assets/pdf/scaling.pdf))             
 
-* **ARGUZZ: Testing zkVMs for Soundness and Completeness Bugs** (USENIX Security 2026)        
-  Christoph Hochrainer, Valentin Wüstholz , Maria Christakis         
-  ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))           
-
 * **Feedback-guided Adaptive Testing of Distributed Systems Designs** (NSDI 2026)            
   Ao Li, Ankush Desai, Rohan Padhye          
   ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
@@ -36,10 +32,16 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([arXiv](https://arxiv.org/abs/2511.12253))
 
 * **Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows** (PLDI 2026)                                 
-  Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell                
+  Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell          
+  ([pdf](https://www.cl.cam.ac.uk/~pes20/pldi2026-paper155-supplementary.pdf))
 
-* **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                
-  Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan
+* **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                  
+  Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan                 
+  ([arXiv](https://arxiv.org/abs/2604.04345)) 
+
+* **ARGUZZ: Testing zkVMs for Soundness and Completeness Bugs** (USENIX Security 2026)        
+  Christoph Hochrainer, Valentin Wüstholz , Maria Christakis         
+  ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))           
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
