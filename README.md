@@ -55,11 +55,13 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))                       
 
-* **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
-  Harrison Goldstein, Cameron Moy, Daniel Patterson
+* **Programmable Property-Based Testing**            
+  Alperen Keles, Justine Frank, Ceren Mert, Harrison Goldstein, Leonidas Lampropoulos              
+  ([arXiv](https://arxiv.org/abs/2602.18545))
 
-* **Aporia: Asking Questions to Elicit User Decisions** (PLATEAU 2026)                
-  Saketh Kasibatla, Sorin Lerner, Hila Peleg, Benjamin Pierce, Harrison Goldstein                  
+* **A Declarative Framework for Hand-Crafted Mutation Analysis and Management**                  
+  Alperen Keles            
+  ([arXiv](https://arxiv.org/abs/2603.07065))
 
 * **Just-in-Time Catching Test Generation at Meta**          
   Matthew Becker, Yifei Chen, Nicholas Cochran, Pouyan Ghasemi, Abhishek Gulati, Mark Harman, Zachary Haluza, Mehrdad Honarkhah, Herve Robert, Jiacheng Liu, Weini Liu, Sreeja Thummala, Xiaoning Yang, Rui Xin, Sophie Zeng           
@@ -68,6 +70,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Fuzzing with Agents? Generators Are All You Need**                     
   Vasudev Vikram, Rohan Padhye         
   ([arXiv](https://arxiv.org/abs/2604.01442v1))            
+
+* **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
+  Harrison Goldstein, Cameron Moy, Daniel Patterson
+
+* **Aporia: Asking Questions to Elicit User Decisions** (PLATEAU 2026)                
+  Saketh Kasibatla, Sorin Lerner, Hila Peleg, Benjamin Pierce, Harrison Goldstein                  
 
 * **Ariadne: Automatically Tuning Generator Weights Using Dynamic Sampling** (POPL 2026 SRC)        
   Francille Zhuang    
