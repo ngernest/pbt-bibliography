@@ -39,13 +39,17 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan                 
   ([arXiv](https://arxiv.org/abs/2604.04345)) 
 
+* **DIRT: Database-Integrated Random Testing** (DBTest 2026)          
+  Alperen Keles, Ethan Chou, Harrison Goldstein, Leonidas Lampropoulos                
+  ([arXiv](https://arxiv.org/abs/2604.16373))           
+
 * **ARGUZZ: Testing zkVMs for Soundness and Completeness Bugs** (USENIX Security 2026)        
   Christoph Hochrainer, Valentin Wüstholz , Maria Christakis         
   ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))           
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
-  ([pdf](https://arxiv.org/abs/2503.19797))            
+  ([arXiv](https://arxiv.org/abs/2503.19797))            
 
 * **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
