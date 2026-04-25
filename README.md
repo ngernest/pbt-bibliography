@@ -15,9 +15,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ## Papers
 ### 2026
+
 * **Foundational Multi-Modal Program Verifiers** (POPL 2026)            
   Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, Ilya Sergey          
-  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))        
+  ([pdf](https://verse-lab.github.io/papers/loom-preprint.pdf))      
 
 * **Scaling Automated Database System Testing** (ASPLOS 2026)          
   Suyang Zhong, Manuel Rigger       
@@ -26,6 +27,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Feedback-guided Adaptive Testing of Distributed Systems Designs** (NSDI 2026)            
   Ao Li, Ankush Desai, Rohan Padhye          
   ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
+
+* **Eywa: Automating Model Based Testing using LLMs** (NSDI 2026)          
+  Rajdeep Mondal, Rathin Singha, Todd Millstein, George Varghese, Ryan Beckett, Siva Kesava Reddy Kakarla                          
+  ([arXiv](https://arxiv.org/abs/2312.06875))       
 
 * **The Search for Constrained Random Generators** (PLDI 2026)                     
   Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
@@ -53,7 +58,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
-  ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))                       
+  ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))                         
 
 * **Programmable Property-Based Testing**            
   Alperen Keles, Justine Frank, Ceren Mert, Harrison Goldstein, Leonidas Lampropoulos              
