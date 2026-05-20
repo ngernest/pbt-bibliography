@@ -29,12 +29,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://rohan.padhye.org/files/fest-nsdi26.pdf))
 
 * **Eywa: Automating Model Based Testing using LLMs** (NSDI 2026)          
-  Rajdeep Mondal, Rathin Singha, Todd Millstein, George Varghese, Ryan Beckett, Siva Kesava Reddy Kakarla                          
-  ([arXiv](https://arxiv.org/abs/2312.06875))       
+  Rajdeep Mondal, Rathin Singha, Todd Millstein, George Varghese, Ryan Beckett, Siva Kesava Reddy Kakarla                           
+  ([pdf](https://www.usenix.org/system/files/nsdi26-mondal.pdf))      
 
 * **The Search for Constrained Random Generators** (PLDI 2026)                     
   Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
-  ([arXiv](https://arxiv.org/abs/2511.12253))
+  ([pdf](https://lemonidas.github.io/pdf/Palamedes.pdf))        
 
 * **Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows** (PLDI 2026)                                 
   Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell          
