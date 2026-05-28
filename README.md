@@ -316,7 +316,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Automated, Targeted Testing of Property-Based Testing Predicates** 
   (The Art, Science, and Engineering of Programming, 2022)          
-  Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi          
+  Tim Nelson, Elijah Rivera, Sam Soucie, Megan Del Vecchio, Jack Wrenn, Shriram Krishnamurthi          
   ([pdf](https://arxiv.org/pdf/2111.10414))                    
 
 * **Functional Pearl: Holey Generators!**    
