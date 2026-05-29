@@ -74,13 +74,17 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Fuzzing with Agents? Generators Are All You Need**                     
   Vasudev Vikram, Rohan Padhye         
-  ([arXiv](https://arxiv.org/abs/2604.01442v1))            
+  ([arXiv](https://arxiv.org/abs/2604.01442v1))
+
+* **PBT-Bench: Benchmarking AI Agents on Property-Based Testing**              
+  Lucas Jing, Xinqi Wang, Liao Zhang, Simon S. Du               
+  ([arXiv](https://arxiv.org/abs/2605.15229))  
 
 * **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
   Harrison Goldstein, Cameron Moy, Daniel Patterson
 
 * **Aporia: Asking Questions to Elicit User Decisions** (PLATEAU 2026)                
-  Saketh Kasibatla, Sorin Lerner, Hila Peleg, Benjamin Pierce, Harrison Goldstein                  
+  Saketh Kasibatla, Sorin Lerner, Hila Peleg, Benjamin Pierce, Harrison Goldstein
 
 * **Ariadne: Automatically Tuning Generator Weights Using Dynamic Sampling** (POPL 2026 SRC)        
   Francille Zhuang    
