@@ -80,8 +80,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Lucas Jing, Xinqi Wang, Liao Zhang, Simon S. Du               
   ([arXiv](https://arxiv.org/abs/2605.15229))  
 
-* **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)              
-  Harrison Goldstein, Cameron Moy, Daniel Patterson
+* **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)               
+  Harrison Goldstein, Cameron Moy, Daniel Patterson            
+  ([pdf](https://kilthub.cmu.edu/articles/conference_contribution/What_s_in_a_specification_Exploring_Student_Conceptions_of_Formal_Specifications/31816747?file=63382380))      
 
 * **Aporia: Asking Questions to Elicit User Decisions** (PLATEAU 2026)                
   Saketh Kasibatla, Sorin Lerner, Hila Peleg, Benjamin Pierce, Harrison Goldstein
