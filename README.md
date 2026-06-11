@@ -30,7 +30,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Eywa: Automating Model Based Testing using LLMs** (NSDI 2026)          
   Rajdeep Mondal, Rathin Singha, Todd Millstein, George Varghese, Ryan Beckett, Siva Kesava Reddy Kakarla                           
-  ([pdf](https://www.usenix.org/system/files/nsdi26-mondal.pdf))      
+  ([pdf](https://www.usenix.org/system/files/nsdi26-mondal.pdf))
+
+* **Etna: An Evaluation Platform for Property-Based Testing** (JFP 2026, initially appeared at ICFP 2023)         
+  Alperen Keles, Jessica Shi, Nikhil Kamath, Tin Nam Liu, Ceren Mert, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos                       
+  ([arXiv](https://arxiv.org/abs/2603.27002))           
 
 * **The Search for Constrained Random Generators** (PLDI 2026)                     
   Harrison Goldstein, Hila Peleg, Cassia Torczon, Daniel Sainati, Leonidas Lampropoulos, Benjamin C. Pierce              
@@ -50,7 +54,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **ARGUZZ: Testing zkVMs for Soundness and Completeness Bugs** (USENIX Security 2026)        
   Christoph Hochrainer, Valentin Wüstholz , Maria Christakis         
-  ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))           
+  ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))
+
+* **Programmable Property-Based Testing** (ICFP 2026)                         
+  Alperen Keles, Justine Frank, Ceren Mert, Harrison Goldstein, Leonidas Lampropoulos              
+  ([arXiv](https://arxiv.org/abs/2602.18545))
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
@@ -59,10 +67,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))                         
-
-* **Programmable Property-Based Testing**            
-  Alperen Keles, Justine Frank, Ceren Mert, Harrison Goldstein, Leonidas Lampropoulos              
-  ([arXiv](https://arxiv.org/abs/2602.18545))
 
 * **A Declarative Framework for Hand-Crafted Mutation Analysis and Management**                  
   Alperen Keles            
@@ -249,10 +253,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Reflecting on Random Generation** (ICFP 2023)    
   Harrison Goldstein, Samantha Frohlich, Meng Wang, Benjamin C. Pierce        
   ([doi](https://doi.org/10.1145/3607842))         
-
-* **Etna: An Evaluation Platform for Property-Based Testing** (ICFP 2023)     
-  Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos       
-  ([doi](https://doi.org/10.1145/3607860))           
 
 * **Formal Specification and Testing for Reinforcement Learning** (ICFP 2023)          
   Mahsa Varshosaz, Mohsen Ghaffari, Einar Broch Johnsen, Andrzej Wąsowski         
