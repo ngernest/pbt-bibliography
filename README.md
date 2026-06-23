@@ -54,11 +54,18 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **ARGUZZ: Testing zkVMs for Soundness and Completeness Bugs** (USENIX Security 2026)        
   Christoph Hochrainer, Valentin Wüstholz , Maria Christakis         
-  ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))
+  ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))        
 
 * **Programmable Property-Based Testing** (ICFP 2026)                         
   Alperen Keles, Justine Frank, Ceren Mert, Harrison Goldstein, Leonidas Lampropoulos              
-  ([arXiv](https://arxiv.org/abs/2602.18545))
+  ([arXiv](https://arxiv.org/abs/2602.18545)) 
+
+* **Compositional Generator Equivalence** (ICFP 2026)              
+  Anthony Vandikas, Kiarash Sotoudeh, Marsha Chechik              
+  ([arXiv](https://arxiv.org/abs/2606.22616))
+
+* **QuickChecking Convergence of Rewriting Systems (Functional Pearl)** (ICFP 2026)                        
+  Koen Claessen       
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
