@@ -85,6 +85,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Ariadne: Automatically Tuning Generator Weights Using Dynamic Sampling** (POPL 2026 SRC)        
   Francille Zhuang    
 
+* **Coverage Types Modulo Equivalences** (ICFP 2026 SRC)         
+  Aaryan Prakash, Benjamin Delaware      
+
+* **Incremental Property-Based Testing** (ICFP 2026 SRC)             
+  Pablo Benario Figueroa       
+
+* **QuickerChick** (ICFP 2026 SRC)                 
+  Ivan Mladenov, Alperen Keles, Leonidas Lampropoulos                
+
 * **A Declarative Framework for Hand-Crafted Mutation Analysis and Management**                  
   Alperen Keles            
   ([arXiv](https://arxiv.org/abs/2603.07065))
