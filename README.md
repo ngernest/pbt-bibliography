@@ -145,7 +145,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   
 * **Ratte: Fuzzing for Miscompilations in Multi-Level Compilers Using Composable Semantics** (ASPLOS 2025)         
   Pingshi Yu, Nicholas Wu, Alastair F. Donaldson        
-  ([doi](https://doi.org/10.1145/3676641.3716270))     
+  ([doi](https://doi.org/10.1145/3676641.3716270))
+
+* **AMuLeT: Automated Design-Time Testing of Secure Speculation Countermeasures** (ASPLOS 2025)             
+  Bo Fu*, Leo Tenenbaum*, David Adler, Assaf Klein, Arpit Gogia, Alaa R. Alameldeen, Marco Guarnieri, Mark Silberstein, Oleksii Oleksenko, Gururaj Saileshwar              
+  ([doi](https://doi.org/10.1145/3676641.3716247))   
 
 * **Ghost in the Android Shell: Pragmatic Test-oracle Specification of a Production Hypervisor** (SOSP 2025)           
   Kayvan Memarian, Ben Simner, David Kaloper-Meršinjak, Thibaut Pérami, Peter Sewell        
@@ -330,6 +334,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Parsing Randomness** (OOPSLA 2022)      
   Harrison Goldstein, Benjamin C. Pierce       
   ([doi](https://dl.acm.org/doi/abs/10.1145/3563291))
+
+* **Revizor: Testing Black-Box CPUs against Speculation Contracts** (ASPLOS 2022)                 
+  Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein              
+  ([doi](https://doi.org/10.1145/3503222.3507729)) 
 
 * **Some Problems with Properties: A Study on Property-Based Testing in Industry** (HATRA 2022)    
   Harrison Goldstein, Joseph W. Cutler, Adam Stein, Andrew Head, Benjamin C. Pierce      
