@@ -210,7 +210,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **IronSpec: Increasing the Reliability of Formal Specifications** (OSDI 2024)            
   Eli Goldweber, Weixin Yu, Seyed Armin Vakil Ghahani, Manos Kapritsos          
-  ([pdf](https://www.usenix.org/system/files/osdi24-goldweber.pdf))                 
+  ([pdf](https://www.usenix.org/system/files/osdi24-goldweber.pdf))
+
+* **Testing Side-channel Security of Cryptographic Implementations against Future Microarchitectures** (CCS 2024)          
+  Gilles Barthe, Marcel Böhme, Sunjay Cauligi, Chitchanok Chuengsatiansup, Daniel Genkin, Marco Guarnieri, David Mateos Romero, Peter Schwabe, David Wu, Yuval Yarom            
+  ([doi](https://doi.org/10.1145/3658644.3670319))     
 
 * **Test Harness Mutilation** (ICSTW 2024)             
   Samuel Moelius     
@@ -280,8 +284,16 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Formalizing Stack Safety as a Security Property** (CSF 2023)              
   Sean Noble Anderson, Roberto Blanco, Leonidas Lampropoulos, Benjamin C. Pierce, Andrew Tolmach                
-  ([doi](https://doi.org/10.48550/arXiv.2105.00417))               
+  ([doi](https://doi.org/10.48550/arXiv.2105.00417))
 
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions** (USENIX Security 2023)         
+  Jana Hofmann, Emanuele Vannacci, Cédric Fournet, Boris Köpf, Oleksii Oleksenko          
+  ([pdf](https://www.usenix.org/system/files/usenixsecurity23-hofmann.pdf))
+
+* **Hide and Seek with Spectres: Efficient discovery of speculative information leaks with random testing** (IEEE S&P 2023)               
+  Oleksii Oleksenko, Marco Guarnieri, Boris Köpf, Mark Silberstein              
+  ([doi](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.10179391)) 
+ 
 * **QuickerCheck: Implementing and Evaluating a Parallel Run-Time for QuickCheck** (IFL 2023)     
   Robert Krook, Nicholas Smallbone, Bo Joel Svensson, Koen Claessen    
   ([doi](https://dl.acm.org/doi/10.1145/3652561.3652570))      
