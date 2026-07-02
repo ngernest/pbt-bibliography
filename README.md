@@ -75,6 +75,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))
 
+* **Test Your Polymorphic Functions with Boolean Values** (FLOPS 2026)            
+  Akimasa Morihata          
+  ([doi](https://doi.org/10.1007/978-981-92-0184-6_12))        
+
 * **What's in a specification?: Exploring Student Conceptions of Formal Specifications** (PLATEAU 2026)               
   Harrison Goldstein, Cameron Moy, Daniel Patterson            
   ([pdf](https://kilthub.cmu.edu/articles/conference_contribution/What_s_in_a_specification_Exploring_Student_Conceptions_of_Formal_Specifications/31816747?file=63382380))      
