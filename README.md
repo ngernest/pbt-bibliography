@@ -368,7 +368,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://harrisongoldste.in/papers/hatra2022.pdf))          
 
 * **Automated, Targeted Testing of Property-Based Testing Predicates** (Programming 2022)           
-  Tim Nelson, Elijah Rivera, Sam Soucie, Megan Del Vecchio, Jack Wrenn, Shriram Krishnamurthi          
+  Tim Nelson, Elijah Rivera, Sam Soucie, Megan Del Vecchio, John Wrenn, Shriram Krishnamurthi          
   ([pdf](https://arxiv.org/pdf/2111.10414))                    
 
 * **Functional Pearl: Holey Generators!**    
@@ -413,7 +413,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://lemonidas.github.io/pdf/TestingOcamlThroughCoq.pdf))        
 
 * **Using Relational Problems to Teach Property-Based Testing** (Programming 2021)          
-  John Wrenna, Tim Nelson, Shriram Krishnamurthi         
+  John Wrenn, Tim Nelson, Shriram Krishnamurthi         
   ([doi](https://programming-journal.org/2021/5/9/))
 
 * **PyH2: Using PyMTL3 to Create Productive and Open-Source Hardware Testing Methodologies** (IEEE Design & Test 2021)            
