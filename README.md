@@ -398,7 +398,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Resolvable Ambiguity: Principled Resolution of Syntactically Ambiguous Programs** (CC 2021)               
   Viktor Palmkvist, Elias Castegren, Philipp Haller, David Broman           
-  ([doi](https://doi.org/10.1145/3446804.3446846))           
+  ([doi](https://doi.org/10.1145/3446804.3446846))
 
 * **Strong automated testing of OCaml libraries** (JFLA 2021)    
   François Pottier         
@@ -423,7 +423,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2020 
 - **Test-Case Reduction via Test-Case Generation: Insights from the Hypothesis Reducer** (ECOOP 2020)          
   David R. MacIver, Alastair F. Donaldson               
-  ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.13))                       
+  ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.13))
+
+* **Testing Differential Privacy with Dual Interpreters** (OOPSLA 2020)             
+  Hengchu Zhang, Edo Roth, Benjamin Pierce, Aaron Roth, Andreas Haeberlen          
+  ([doi](https://doi.org/10.1145/3428233))          
 
 * **Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning** (ICSE 2020)      
   Sameer Reddy, Caroline Lemieux, Rohan Padhye, Koushik Sen         
@@ -440,11 +444,19 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2019 
 * **Coverage guided, property based testing** (OOPSLA 2019)       
   Leonidas Lampropoulos, Michael Hicks, Benjamin C. Pierce       
-  ([doi](https://dl.acm.org/doi/10.1145/3360607))         
+  ([doi](https://dl.acm.org/doi/10.1145/3360607))           
 
 * **Verifying software network functions with no verification expertise** (SOSP 2019)              
   Arseniy Zaostrovnykh, Solal Pirelli, Rishabh Iyer, Matteo Rizzo, Luis Pedrosa, Katerina Argyraki, George Candea         
-  ([doi](https://doi.org/10.1145/3341301.3359647))                            
+  ([doi](https://doi.org/10.1145/3341301.3359647))
+
+* **From C to interaction trees: specifying, verifying, and testing a networked server** (CPP 2019)             
+  Nicolas Koh, Yao Li, Yishuai Li, Li-yao Xia, Lennart Beringer, Wolf Honoré, William Mansky, Benjamin C. Pierce, Steve Zdancewic           
+  ([doi](https://doi.org/10.1145/3293880.3294106))
+
+* **Model-based testing of networked applications** (ISSTA 2019)                
+  Yishuai Li, Benjamin C. Pierce, Steve Zdancewic        
+  ([doi](https://doi.org/10.1145/3460319.3464798))    
 
 * **Deriving compositional random generators** (IFL 2019)            
   Agustín Mista, Alejandro Russo        
