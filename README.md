@@ -412,9 +412,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Paaras Bhandari, Leonidas Lampropoulos          
   ([pdf](https://lemonidas.github.io/pdf/TestingOcamlThroughCoq.pdf))        
 
-* **Using Relational Problems to Teach Property-Based Testing**         
-  (The Art, Science, and Engineering of Programming, 2021)    
-  John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
+* **Using Relational Problems to Teach Property-Based Testing** (Programming 2021)          
+  John Wrenna, Tim Nelson, Shriram Krishnamurthi         
   ([doi](https://programming-journal.org/2021/5/9/))
 
 * **PyH2: Using PyMTL3 to Create Productive and Open-Source Hardware Testing Methodologies** (IEEE Design & Test 2021)            
