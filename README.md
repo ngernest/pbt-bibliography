@@ -216,9 +216,29 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Eli Goldweber, Weixin Yu, Seyed Armin Vakil Ghahani, Manos Kapritsos          
   ([pdf](https://www.usenix.org/system/files/osdi24-goldweber.pdf))
 
+* **Rustlantis: Randomized Differential Testing of the Rust Compiler** (OOPSLA 2024)          
+  Qian Wang, Ralf Jung          
+  ([doi](https://doi.org/10.1145/3689780))            
+
+* **Forge: A Tool and Language for Teaching Formal Methods** (OOPSLA 2024)                  
+  Tim Nelson, Ben Greenman, Siddhartha Prasad, Tristan Dyer, Ethan Bove, Qianfan Chen, Charles Cutting, Thomas Del Vecchio, Sidney LeVine, Julianne Rudner, Ben Ryjikov, Alexander Varga, Andrew Wagner, Luke West, Shriram Krishnamurthi               
+  ([doi](https://doi.org/10.1145/3649833))               
+
 * **Testing Side-channel Security of Cryptographic Implementations against Future Microarchitectures** (CCS 2024)          
   Gilles Barthe, Marcel Böhme, Sunjay Cauligi, Chitchanok Chuengsatiansup, Daniel Genkin, Marco Guarnieri, David Mateos Romero, Peter Schwabe, David Wu, Yuval Yarom            
   ([doi](https://doi.org/10.1145/3658644.3670319))     
+
+* **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)          
+  Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
+  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
+
+* **General and Practical Property-based Testing for Android Apps** (ASE 2024)     
+  Yiheng Xiong, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su      
+  ([doi](https://doi.org/10.1145/3691620.3694986))
+
+* **Conceptual Mutation Testing for Student Programming Misconceptions** (Programming 2024)           
+  Siddhartha Prasad, Ben Greenman, Tim Nelson, Shriram Krishnamurthi                   
+  ([doi](https://doi.org/10.22152/programming-journal.org/2024/8/7)) 
 
 * **Test Harness Mutilation** (ICSTW 2024)             
   Samuel Moelius     
@@ -240,21 +260,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Ernest Ng, Harrison Goldstein, Benjamin C. Pierce    
   ([arXiv](https://www.arxiv.org/abs/2408.14561))   
 
-* **Tyche: Making Sense of PBT Effectiveness** (UIST 2024)          
-  Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
-  ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
-
-* **Rustlantis: Randomized Differential Testing of the Rust Compiler** (OOPSLA 2024)          
-  Qian Wang, Ralf Jung          
-  ([doi](https://doi.org/10.1145/3689780))
-
-* **General and Practical Property-based Testing for Android Apps** (ASE 2024)     
-  Yiheng Xiong, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su      
-  ([doi](https://doi.org/10.1145/3691620.3694986))        
-
 * **Evaluating PBT Frameworks in OCaml** (PLDI SRC 2024)       
   Nikhil Kamath     
-  ([pdf](https://drive.google.com/file/d/1GeH4SOIejfeKQfLbvpaN-nKi6inxhs_g/view))
+  ([pdf](https://drive.google.com/file/d/1GeH4SOIejfeKQfLbvpaN-nKi6inxhs_g/view))          
 
 * **Constrained generation of well-typed program**     
   Gabriel Scherer       
@@ -359,8 +367,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Harrison Goldstein, Joseph W. Cutler, Adam Stein, Andrew Head, Benjamin C. Pierce      
   ([pdf](https://harrisongoldste.in/papers/hatra2022.pdf))          
 
-* **Automated, Targeted Testing of Property-Based Testing Predicates** 
-  (The Art, Science, and Engineering of Programming, 2022)          
+* **Automated, Targeted Testing of Property-Based Testing Predicates** (Programming 2022)           
   Tim Nelson, Elijah Rivera, Sam Soucie, Megan Del Vecchio, Jack Wrenn, Shriram Krishnamurthi          
   ([pdf](https://arxiv.org/pdf/2111.10414))                    
 
@@ -405,9 +412,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Paaras Bhandari, Leonidas Lampropoulos          
   ([pdf](https://lemonidas.github.io/pdf/TestingOcamlThroughCoq.pdf))        
 
-* **Using Relational Problems to Teach Property-Based Testing**         
-  (The Art, Science, and Engineering of Programming, 2021)    
-  John Wrenna, Tim Nelsona, Shriram Krishnamurthi       
+* **Using Relational Problems to Teach Property-Based Testing** (Programming 2021)          
+  John Wrenna, Tim Nelson, Shriram Krishnamurthi         
   ([doi](https://programming-journal.org/2021/5/9/))
 
 * **PyH2: Using PyMTL3 to Create Productive and Open-Source Hardware Testing Methodologies** (IEEE Design & Test 2021)            
