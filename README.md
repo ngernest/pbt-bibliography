@@ -551,11 +551,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Mysteries of DropBox: Property-Based Testing of a Distributed Synchronization Service** (ICST 2016)    
   John Hughes, Benjamin C. Pierce, Thomas Arts, Ulf Norell       
-  ([doi](https://ieeexplore.ieee.org/document/7515466))       
+  ([doi](https://ieeexplore.ieee.org/document/7515466))
 
 * **Testing Noninterference, Quickly** (JFP 2016, appeared initially at ICFP 2013)           
   Cătălin Hriţcu, Leonidas Lampropoulos, Antal Spector-Zabusky, Arthur Azevedo Amorim, Maxime Denes, John Hughes, Benjamin C. Pierce, Dimitrios Vytiniotis     
-  ([doi](https://doi.org/10.1017/S0956796816000058))           
+  ([doi](https://doi.org/10.1017/S0956796816000058))
+
+* **How well are your requirements tested?** (ICST 2016)              
+  Thomas Arts, John Hughes         
+  ([pdf](https://publications.lib.chalmers.se/records/fulltext/232552/local_232552.pdf))             
 
 * **Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane**                  
   (*A List of Successes That Can Change the World*, Essays Dedicated to Philip Wadler on the Occasion of His 60th Birthday)      
@@ -589,7 +593,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Déjà Fu: a concurrency testing library for Haskell** (Haskell 2015)            
   Michael Walker, Colin Runciman           
-  ([doi](https://doi.org/10.1145/2887747.2804306))           
+  ([doi](https://doi.org/10.1145/2887747.2804306))
+
+* **Linking Unit Tests and Properties** (Erlang 2015)         
+  Alex Gerdes, John Hughes, Nick Smallbone, Meng Wang        
+  ([pdf](https://smallbone.se/))       
 
 * **Quickchecking Static Analysis Properties** (ICST 2015)        
   Jan Midtgaard, Anders Møller     
@@ -603,6 +611,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Thomas Arts, John Hughes, Ulf Norell, Hans Svensson              
   ([doi](https://ieeexplore.ieee.org/document/7107466))
 
+* **Graphical editing support for QuickCheck models** (ICSTW 2015)            
+  Thomas Arts, Kirill Bogdanov, Alex Gerdes, John Hughes      
+  ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107473))           
+
 * **A Generic Synthesisable Test Bench** (MEMOCODE 2015)         
   Matthew Naylor, Simon Moore         
   ([pdf](https://www.cl.cam.ac.uk/~swm11/research/papers/memocode2015.pdf)) 
@@ -613,7 +625,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2014 
 - **SmartCheck: automatic and efficient counterexample reduction and generalization** (Haskell 2014)           
   Lee Pike        
-  ([doi](https://doi.org/10.1145/2775050.2633365))          
+  ([doi](https://doi.org/10.1145/2775050.2633365))
+
+- **An expressive semantics of mocking** (FASE 2014)
+  Josef Svenningsson, Hans Svensson, Nicholas Smallbone, Thomas Arts, Ulf Norell, John Hughes           
+  ([pdf](https://smallbone.se/papers/mocking-tr.pdf))    
 
 - **A Coq Framework For Verified Property-Based Testing** (INRIA Internship Report 2014)          
   Zoe Paraskevopoulou, Cătălin Hriţcu       
@@ -660,7 +676,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2011  
 * **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
   Michał H. Pałka, Koen Claessen, Alejandro Russo, John Hughes         
-  ([doi](https://dl.acm.org/doi/10.1145/1982595.1982615))      
+  ([doi](https://dl.acm.org/doi/10.1145/1982595.1982615))
+
+* **Testing a database for race conditions with QuickCheck** (Erlang 2011)           
+  John Hughes, Hans Bolinder       
+  ([doi](https://doi.org/10.1145/2034654.2034667))
+
+* **Accelerating Race Condition Detection through Procrastination** (Erlang 2011)                
+  Thomas Arts, John Hughes, Ulf Norell, Nicholas Smallbone, Hans Svensson           
+  ([pdf](https://smallbone.se/papers/procrastination.pdf))        
 
 ### 2010 
 * **Testing Polymorphic Properties** (ESOP 2010)          
@@ -674,6 +698,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Using Temporal Relations to Specify and Test an Instant Messaging Server** (AST 2010)           
   John Hughes, Ulf Norrell, Jérôme Sautret       
   ([doi](https://doi.org/10.1145/1808266.1808281))
+
+### 2009
+* **Finding Race Conditions in Erlang with QuickCheck and Pulse** (ICFP 2009)         
+  Koen Claessen, Michal Palka, Nicholas Smallbone, John Hughes, Hans Svensson, Thomas Arts, Ulf Wiger         
+  ([doi](https://doi.org/10.1145/1596550.1596574))      
 
 ### 2008 
 * **SmallCheck and Lazy SmallCheck: automatic exhaustive testing for small values** (Haskell 2008)    
