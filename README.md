@@ -627,8 +627,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Lee Pike        
   ([doi](https://doi.org/10.1145/2775050.2633365))
 
-- **An expressive semantics of mocking** (FASE 2014)
-  Josef Svenningsson, Hans Svensson, Nicholas Smallbone, Thomas Arts, Ulf Norell, John Hughes           
+- **An expressive semantics of mocking** (FASE 2014)                  
+  Josef Svenningsson, Hans Svensson, Nicholas Smallbone, Thomas Arts, Ulf Norell, John Hughes               
   ([pdf](https://smallbone.se/papers/mocking-tr.pdf))    
 
 - **A Coq Framework For Verified Property-Based Testing** (INRIA Internship Report 2014)          
