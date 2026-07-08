@@ -46,7 +46,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Trace-Guided Synthesis of Effectful Test Generators** (PLDI 2026)                  
   Zhe Zhou, Ankush Desai, Benjamin Delaware, Suresh Jagannathan                 
-  ([arXiv](https://arxiv.org/abs/2604.04345)) 
+  ([arXiv](https://arxiv.org/abs/2604.04345))
+
+* **High Fidelity Models for Large Scale Stateful Services (Operational Systems)** (OSDI 2026)               
+  Nouraldin Jaber, Dongyun Jin, Bernhard Kragl, Enrico Magnago, Gustavo Petri, Thorsten Tarrach, Serdar Tasiran                        
 
 * **DIRT: Database-Integrated Random Testing** (DBTest 2026)          
   Alperen Keles, Ethan Chou, Harrison Goldstein, Leonidas Lampropoulos                
