@@ -717,7 +717,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Automatic testing of TCP/IP implementations using QuickCheck** (Erlang 2009)             
   Javier Paris, Thomas Arts        
-  ([doi](https://doi.org/10.1145/1596600.1596612)       
+  ([doi](https://doi.org/10.1145/1596600.1596612))       
 
 ### 2008 
 * **SmallCheck and Lazy SmallCheck: automatic exhaustive testing for small values** (Haskell 2008)    
