@@ -478,6 +478,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Kenny Foner, Hengchu Zhang, Leonidas Lampropulos      
   ([doi](https://dl.acm.org/doi/10.1145/3236797))
 
+* **Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API** (JACM 2018)                 
+  Steve Bishop, Matthew Fairbairn, Hannes Mehnert, Michael Norrish, Tom Ridge, Peter Sewell, Michael Smith, Keith Wansbrough           
+  ([doi](https://doi.org/10.1145/3243650))    
+
 * **Branching processes for QuickCheck generators** (Haskell 2018)              
   Agustín Mista, Alejandro Russo, John Hughes             
   ([doi](https://doi.org/10.1145/3242744.3242747))           
@@ -588,7 +592,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Generating constrained random data with uniform distribution** (JFP 2015)        
   Koen Claessen, Jonas Duregård, Michał Pałka                   
-  ([doi](https://doi.org/10.1017/S0956796815000143)        
+  ([doi](https://doi.org/10.1017/S0956796815000143)
+
+* **SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems** (SOSP 2015)           
+  Tom Ridge, David Sheets, Thomas Tuerk, Andrea Giugliano, Anil Madhavapeddy, Peter Sewell            
+  ([doi](https://doi.org/10.1145/2815400.2815411))           
 
 * **Foundational Property-Based Testing** (ITP 2015)      
   Zoe Paraskevopoulou, Cătălin Hriţcu, Maxime Dénès, Leonidas Lampropoulos, Benjamin C. Pierce     
@@ -705,7 +713,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ### 2009
 * **Finding Race Conditions in Erlang with QuickCheck and Pulse** (ICFP 2009)         
   Koen Claessen, Michal Palka, Nicholas Smallbone, John Hughes, Hans Svensson, Thomas Arts, Ulf Wiger         
-  ([doi](https://doi.org/10.1145/1596550.1596574))      
+  ([doi](https://doi.org/10.1145/1596550.1596574))
+
+* **Automatic testing of TCP/IP implementations using QuickCheck** (Erlang 2009)             
+  Javier Paris, Thomas Arts        
+  ([doi](https://doi.org/10.1145/1596600.1596612)       
 
 ### 2008 
 * **SmallCheck and Lazy SmallCheck: automatic exhaustive testing for small values** (Haskell 2008)    
@@ -725,6 +737,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Testing Properties of Generic Functions** (IFL 2006)         
   Patrik Jansson, Johan Jeuring, Laurence Cabenda, Gerbo Engels, Jacob Kleerekoper, Sander Mak, Michiel Overeem, Kees Visser      
   ([doi](https://link.springer.com/chapter/10.1007/978-3-540-74130-5_13))
+
+* **Engineering with Logic: HOL Specification and Symbolic-Evaluation Testing for TCP Implementations** (POPL 2006)              
+  Steve Bishop, Matthew Fairbairn, Michael Norrish, Peter Sewell, Michael Smith, Keith Wansbrough        
+  ([doi](https://doi.org/10.1145/1111320.1111043))    
+
+### 2005
+* **Rigorous Specification and Conformance Testing Techniques for Network Protocols, as applied to TCP, UDP, and Sockets** (SIGCOMM 2005)             
+  Steve Bishop, Matthew Fairbairn, Michael Norrish, Peter Sewell, Michael Smith, Keith Wansbrough           
+  ([doi](https://doi.org/10.1145/1090191.1080123))         
 
 ### 2004
 * **Genesys-Pro: Innovations in Test Program Generation for Functional Processor Verification** (IEEE Design & Test 2004)                    
