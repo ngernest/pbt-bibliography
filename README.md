@@ -68,7 +68,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([arXiv](https://arxiv.org/abs/2606.22616))
 
 * **QuickChecking Convergence of Rewriting Systems (Functional Pearl)** (ICFP 2026)                        
-  Koen Claessen       
+  Koen Claessen
+
+* **Evaluating Shrinking (Experience Report)** (Haskell 2026)            
+  Alperen Keles, George Miao, Leonidas Lampropoulos              
+  ([pdf](https://alperenkeles.com/documents/evaluating-shrinking.pdf))             
 
 * **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)                                              
   Cynthia Richey*, Joseph W. Cutler*, Harrison Goldstein, Benjamin C. Pierce           
