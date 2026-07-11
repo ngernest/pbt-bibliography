@@ -326,12 +326,20 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/3609026.3609733))         
 
 * **PropProof: Free Model-Checking Harnesses from PBT** (FSE 2023)             
-  Yoshiki Takashima       
-  ([doi](https://doi.org/10.1145/3611643.3613863))          
+  Yoshiki Takashima        
+  ([doi](https://doi.org/10.1145/3611643.3613863))
+
+* **MUTAGEN: Reliable Coverage-Guided, Property-Based Testing using Exhaustive Mutations** (ICSTW 2023)         
+  Agustín Mista, Alejandro Russo         
+  ([pdf](https://www.mista.me/assets/pdf/icst23-preprint.pdf))
+
+* **SPECTACULAR: Finding Laws from 25 Trillion Terms** (ICST 2023)           
+  Matthías Páll Gissurarson, Diego Roque, James Koppel      
+  ([pdf](https://mpg.is/papers/gissurarson2023spectacular-extended.pdf))             
 
 * **How Developers Implement Property-Based Tests** (ICSME 2023)      
   Arthur Lisboa Corgozinho,Marco Tulio Valente, Henrique Rocha          
-  ([doi](https://ieeexplore.ieee.org/document/10336336))
+  ([doi](https://ieeexplore.ieee.org/document/10336336)) 
 
 * **Randomized Testing of RISC-V CPUs using Direct Instruction Injection** (IEEE Design & Test 2023)         
   Alexandre Joannou, Peter Rugg, Jonathan Woodruff, Franz A. Fuchs, Marno van der Maas, Matthew Naylor, Michael Roe, Robert N. M. Watson, Peter G. Neumann, Simon W. Moore         
@@ -468,6 +476,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Deriving compositional random generators** (IFL 2019)            
   Agustín Mista, Alejandro Russo        
   ([doi](https://doi.org/10.1145/3412932.3412943))
+
+* **Generating Random Structurally Rich Algebraic Data Type Values** (AST 2019)              
+  Agustín Mista, Alejandro Russo          
+  ([pdf](https://www.mista.me/assets/pdf/ast19.pdf))         
 
 * **Semantic Fuzzing with Zest** (ISSTA 2019)               
   Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis, Yves Le Traon               
@@ -773,6 +785,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 - **Property-Based Testing for the People** (PhD Dissertation, University of Pennsylvania)        
   Harrison Goldstein          
   ([pdf](https://harrisongoldste.in/papers/dissertation.pdf))
+
+## 2023 
+- **Language-Based Techniques and Stochastic Models for Automated Testing** (PhD Dissertation, Chalmers University of Technology)         
+  Agustín Mista        
+  ([pdf](https://www.mista.me/assets/pdf/phd-chalmers.pdf))            
 
 ## 2022 
 - **Testing by Dualization** (PhD Dissertation, University of Pennsylvania)            
