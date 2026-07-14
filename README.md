@@ -49,7 +49,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([arXiv](https://arxiv.org/abs/2604.04345))
 
 * **High Fidelity Models for Large Scale Stateful Services (Operational Systems)** (OSDI 2026)               
-  Nouraldin Jaber, Dongyun Jin, Bernhard Kragl, Enrico Magnago, Gustavo Petri, Thorsten Tarrach, Serdar Tasiran                        
+  Nouraldin Jaber, Dongyun Jin, Bernhard Kragl, Enrico Magnago, Gustavo Petri, Thorsten Tarrach, Serdar Tasiran               
+  ([pdf](https://www.usenix.org/system/files/osdi26-jaber.pdf))                 
 
 * **DIRT: Database-Integrated Random Testing** (DBTest 2026)          
   Alperen Keles, Ethan Chou, Harrison Goldstein, Leonidas Lampropoulos                
