@@ -120,7 +120,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **PBT-Bench: Benchmarking AI Agents on Property-Based Testing**              
   Lucas Jing, Xinqi Wang, Liao Zhang, Simon S. Du               
-  ([arXiv](https://arxiv.org/abs/2605.15229))  
+  ([arXiv](https://arxiv.org/abs/2605.15229))
+
+* **Complexity Theory of Randomized Testing**                        
+  Pingshi Yu, Chengsong Tan, Nicolas Wu, Alastair Donaldson                     
+  ([arXiv](https://arxiv.org/abs/2607.11811))                                 
 
 ### 2025 
 * **Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM** (TACAS 2025)                  
