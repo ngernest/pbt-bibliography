@@ -785,7 +785,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 ***
 
-## Dissertations 
+## Dissertations          
+## 2026
+- **Designing Effective Property-Based Testing Frameworks** (PhD Dissertation, University of Maryland)                     
+  Alperen Keles           
+
 ## 2024 
 - **Property-Based Testing for the People** (PhD Dissertation, University of Pennsylvania)        
   Harrison Goldstein          
@@ -820,6 +824,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 - **Tools for Discovery, Refinement and Generalization of Functional Properties by Enumerative Testing** (PhD Dissertation, University of York)          
   Rudy Braquehais             
   ([pdf](https://matela.com.br/thesis-rudy.pdf))
+
+## 2016
+- **Automating Black-Box Property Based Testing** (PhD Dissertation, Chalmers University of Technology)                    
+  Jonas Duregård              
+  ([pdf](https://publications.lib.chalmers.se/records/fulltext/240807/240807.pdf))             
 
 ## 2013     
 - **Lightweight Verification of Functional Programs** (PhD Dissertation, Chalmers University of Technology)       
