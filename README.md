@@ -789,6 +789,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ## 2026
 - **Designing Effective Property-Based Testing Frameworks** (PhD Dissertation, University of Maryland)                     
   Alperen Keles           
+  ([pdf](https://alperenkeles.com/documents/thesis.pdf))
 
 ## 2024 
 - **Property-Based Testing for the People** (PhD Dissertation, University of Pennsylvania)        
