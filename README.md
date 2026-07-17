@@ -199,10 +199,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Matthew C. Davis, Amy Wei, Brad A. Myers, Joshua Sunshine      
   ([doi](https://doi.org/10.1145/3729359))
 
-* **Model-free Stateful Random Testing** (MSc thesis, University of Maryland)                     
-  Ethan Chou                      
-  ([doi](https://drum.lib.umd.edu/items/894f193b-3791-4d0a-900b-86363cbae75f))                     
-
 * **Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem** (NeurIPS 2025, Deep Learning for Code workshop)      
   Muhammad Maaz, Liam DeVoe, Zac Hatfield-Dodds, Nicholas Carlini         
   ([arXiv](https://arxiv.org/abs/2510.09907))
@@ -790,6 +786,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 - **Designing Effective Property-Based Testing Frameworks** (PhD Dissertation, University of Maryland)                     
   Alperen Keles           
   ([pdf](https://alperenkeles.com/documents/thesis.pdf))
+
+- **Evaluating a Lua runtime for CN separation-logic testing in Fulminate** (MPhil Dissertation, University of Cambridge)              
+  Muhammad Saljuk Gondal             
+  ([pdf](https://www.saljuk.com/research/silver-fulminate))                 
+
+## 2025
+* **Model-free Stateful Random Testing** (MSc Dissertation, University of Maryland)                     
+  Ethan Chou                      
+  ([doi](https://drum.lib.umd.edu/items/894f193b-3791-4d0a-900b-86363cbae75f))                     
 
 ## 2024 
 - **Property-Based Testing for the People** (PhD Dissertation, University of Pennsylvania)        
