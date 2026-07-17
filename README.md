@@ -240,6 +240,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Harrison Goldstein, Jeffrey Tao, Zac Hatfield-Dodds, Benjamin C. Pierce, Andrew Head     
   ([doi](https://dl.acm.org/doi/10.1145/3654777.3676407))
 
+* **Worst-Case Input Generation for Concurrent Programs under Non-Monotone Resource Metrics** (LMCS 2024)                
+  Long Pham, Jan Hoffmann          
+  ([doi](https://doi.org/10.46298/lmcs-20(4:26)2024))                    
+
 * **General and Practical Property-based Testing for Android Apps** (ASE 2024)     
   Yiheng Xiong, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su      
   ([doi](https://doi.org/10.1145/3691620.3694986))
@@ -457,7 +461,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Yann Herklotz, John Wickerson          
   ([doi](https://dl.acm.org/doi/10.1145/3373087.3375310))
 
-### 2019 
+### 2019       
+* **Type-Guided Worst-Case Input Generation** (POPL 2019)           
+  Di Wang, Jan Hoffmann          
+  ([doi](https://doi.org/10.1145/3290326))                
+
 * **Coverage guided, property based testing** (OOPSLA 2019)       
   Leonidas Lampropoulos, Michael Hicks, Benjamin C. Pierce       
   ([doi](https://dl.acm.org/doi/10.1145/3360607))           
