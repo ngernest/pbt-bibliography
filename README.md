@@ -56,6 +56,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Alperen Keles, Ethan Chou, Harrison Goldstein, Leonidas Lampropoulos                
   ([arXiv](https://arxiv.org/abs/2604.16373))           
 
+* **Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks** (IEEE S&P 2026)                 
+  Oleksii Oleksenko, Flavien Solt, Cédric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos              
+  ([pdf](https://arxiv.org/pdf/2507.06039))            
+
 * **ARGUZZ: Testing zkVMs for Soundness and Completeness Bugs** (USENIX Security 2026)        
   Christoph Hochrainer, Valentin Wüstholz , Maria Christakis         
   ([pdf](https://mariachris.github.io/Pubs/SECURITY-2026.pdf))        
@@ -447,7 +451,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Testing Differential Privacy with Dual Interpreters** (OOPSLA 2020)             
   Hengchu Zhang, Edo Roth, Benjamin Pierce, Aaron Roth, Andreas Haeberlen          
-  ([doi](https://doi.org/10.1145/3428233))          
+  ([doi](https://doi.org/10.1145/3428233))
+
+* **Validation of Abstract Side-Channel Models for Computer Architectures** (CAV 2020)
+  Hamed Nemati, Pablo Buiras, Andreas Lindner, Roberto Guanciale, Swen Jacobs
+  ([doi](https://doi.org/10.1007/978-3-030-53288-8_12))            
 
 * **Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning** (ICSE 2020)      
   Sameer Reddy, Caroline Lemieux, Rohan Padhye, Koushik Sen         
