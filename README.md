@@ -304,10 +304,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Stefan Karlsson, John Hughes, Robbert Jongeling, Adnan Čaušević, Daniel Sundmark             
   ([doi](https://doi.org/10.1007/s11219-024-09668-2))             
 
-* **The Havoc Paradox in Generator-Based Fuzzing (Registered Report)** (FUZZING 2024)              
-  Ao Li, Madonna Huang, Caroline Lemieux, Rohan Padhye             
-  ([doi](https://doi.org/10.1145/3678722.3685529))             
-  
 
 ### 2023 
 * **Covering All the Bases: Type-Based Verification of Test Input Generators** (PLDI 2023)     
