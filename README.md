@@ -160,7 +160,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/3763158))         
 
 * **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)               
-  Zain K. Aamer, Benjamin C. Pierce                       
+  Zain K Aamer, Benjamin C. Pierce                       
   ([doi](https://doi.org/10.1145/3764115))              
 
 * **An Empirical Evaluation of Property-Based Testing in Python** (OOPSLA 2025)         
