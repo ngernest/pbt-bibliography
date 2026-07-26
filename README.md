@@ -10,6 +10,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 **Contents**:
 - [Papers](#papers)
 - [Dissertations](#dissertations)
+- [Books](#books)
 
 ***
 
@@ -138,6 +139,38 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Yuxin Qiu, Ben Limpanukorn, Seongmin Lee, Jiyuan Wang, Qian Zhang, Miryung Kim              
   ([arXiv](https://arxiv.org/abs/2606.06747))             
 
+* **Random Generation of Small Quantitative Automata for Algorithm Debugging** (TASE 2026)             
+  Mikael Bisgaard Dahlsen-Jensen, Jaco van de Pol             
+  ([doi](https://doi.org/10.1007/978-3-032-30693-7_13))             
+
+* **QuCheck: A Property-based Testing Framework for Quantum Programs in Qiskit** (TQC 2026)             
+  Gabriel Pontolillo, Mohammad Reza Mousavi, Marek Grzesiuk             
+  ([doi](https://doi.org/10.1145/3815169))             
+
+* **Beyond Superficial Tests: Adversarial Refinement for Reliable Property-Based Testing** (ACL Findings 2026)             
+  Xiao Li, Runlin Liu, Zhe Zhang, Xiang Gao, Hailong Sun             
+  ([doi](https://doi.org/10.18653/v1/2026.findings-acl.683))             
+
+* **Operationalizing Property-Based Testing for Data-Intensive Scalable Computing Systems**             
+  Yaoxuan Wu, Ingrid Lee, Ahmad Humayun, Muhammad Ali Gulzar, Miryung Kim             
+  ([arXiv](https://arxiv.org/abs/2606.11132))             
+
+* **Agentic Proof and Property-Based Testing via Property-Templates in Data-Intensive Computing**             
+  Seongmin Lee, Yaoxuan Wu, Miryung Kim             
+  ([arXiv](https://arxiv.org/abs/2607.09072))             
+
+* **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps**             
+  Yiheng Xiong, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su             
+  ([arXiv](https://arxiv.org/abs/2603.21263))             
+
+* **PGS: Effective LLM Code Refinement via Property-Oriented and Structurally Minimal Feedback** (ICML 2026)             
+  Lehan He, Zeren Chen, Zhe Zhang, Xiang Gao, Lu Sheng             
+  ([url](https://openreview.net/forum?id=6xeSRifGeL))             
+
+* **Certified Program Synthesis with a Multi-Modal Verifier**             
+  Yueyang Feng, Dipesh Kafle, Vladimir Gladshtein, Vitaly Kurin, George Pîrlea, Qiyuan Zhao, Peter Müller, Ilya Sergey             
+  ([arXiv](https://arxiv.org/abs/2604.16584))             
+
 ### 2025 
 * **Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM** (TACAS 2025)                  
   Nikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard           
@@ -218,6 +251,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **An Efficient and Uniform CSP Solution Generator Generator** (CP 2025)             
   Ghiles Ziat, Martin Pépin           
   ([doi](https://doi.org/10.4230/LIPIcs.CP.2025.40))             
+
+* **PBFuzz: Agentic Directed Fuzzing for PoV Generation**             
+  Haochen Zeng, Andrew Bao, Jiajun Cheng, Chengyu Song             
+  ([arXiv](https://arxiv.org/abs/2512.04611))             
+
+* **Validity-Preserving Delta Debugging via Generator Trace Reduction** (ACM TOSEM 2025)             
+  Luyao Ren, Xing Zhang, Ziyue Hua, Yanyan Jiang, Xiao He, Yingfei Xiong, Tao Xie             
+  ([doi](https://doi.org/10.1145/3705305))             
 
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
@@ -378,6 +419,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Sophie Bosio             
   ([pdf](https://womencourage.acm.org/2023/wp-content/uploads/2023/06/womencourage2023-posters-paper93.pdf))             
 
+* **A Formal Model of Checked C** (JCS 2023, initially appeared at CSF 2022)             
+  Liyi Li, Yiyun Liu, Deena Postol, Leonidas Lampropoulos, David Van Horn, Michael Hicks             
+  ([doi](https://doi.org/10.3233/JCS-230040))             
+
 ### 2022
 * **Logarithm and Program Testing** (POPL 2022)    
   Kuen-Bang Hou (Favonia), Zhuyang Wang       
@@ -475,6 +520,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Automated Random Testing of Numerical Constrained Types** (CP 2021)              
   Ghiles Ziat, Matthieu Dien, Vincent Botbol             
   ([doi](https://doi.org/10.4230/LIPIcs.CP.2021.59))             
+
+* **Towards Substructural Property-Based Testing** (LOPSTR 2021)             
+  Marco Mantovani, Alberto Momigliano             
+  ([doi](https://doi.org/10.1007/978-3-030-98869-2_6))             
   
 ### 2020 
 - **Test-Case Reduction via Test-Case Generation: Insights from the Hypothesis Reducer** (ECOOP 2020)          
@@ -504,6 +553,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **QuickREST: Property-based Test Generation of OpenAPI-Described RESTful APIs** (ICST 2020)              
   Stefan Karlsson, Adnan Čaušević, Daniel Sundmark             
   ([doi](https://doi.org/10.1109/ICST46399.2020.00023))             
+
+* **Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms** (CEC 2020)             
+  Fang-Yi Lo, Chao-Hong Chen, Ying-ping Chen             
+  ([doi](https://doi.org/10.1109/CEC48606.2020.9185807))             
+
+* **Luck: A Probabilistic Language for Testing**             
+  (*Foundations of Probabilistic Programming*, Cambridge University Press 2020)             
+  Leonidas Lampropoulos, Benjamin C. Pierce, Li-yao Xia, Diane Gallois-Wong, Cătălin Hriţcu, John Hughes             
+  ([doi](https://doi.org/10.1017/9781108770750.014))             
 
 ### 2019       
 * **Type-Guided Worst-Case Input Generation** (POPL 2019)           
@@ -652,6 +710,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Rudy Braquehais, Michael Walker, José Manuel Calderón Trilla, Colin Runciman    
   ([pdf](http://jmct.cc/pearlcheck.pdf))            
 
+* **Statistical Model Checking Meets Property-Based Testing** (ICST 2017)             
+  Bernhard K. Aichernig, Richard Schumi             
+  ([doi](https://doi.org/10.1109/ICST.2017.42))             
+
 ### 2016 
 * **FitSpec: refining property sets for functional testing** (Haskell 2016)     
   Rudy Braquehais, Colin Runciman      
@@ -689,6 +751,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Formalising Luck: Improved Probabilistic Semantics for Property-Based Generators** (INRIA Internship Report)          
   Diane Gallois-Wong, Cătălin Hriţcu           
   ([pdf](https://catalin-hritcu.github.io/students/diane/report.pdf))                 
+
+* **Advances in Property-Based Testing for αProlog** (TAP 2016)             
+  James Cheney, Alberto Momigliano, Matteo Pessina             
+  ([doi](https://doi.org/10.1007/978-3-319-41135-4_3))             
+
+* **Making our Own Luck: A Language for Random Generators** (PPS 2016, extended abstract)             
+  Leonidas Lampropoulos, Benjamin C. Pierce, Cătălin Hriţcu, John Hughes, Zoe Paraskevopoulou, Li-yao Xia             
+  ([pdf](https://lemonidas.github.io/pdf/Luck.PPS.pdf))             
 
 ### 2015 
 * **Making Random Judgments: Automatically Generating Well-Typed Terms from the Definition of a Type-System** (ESOP 2015)      
@@ -755,6 +825,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Zoe Paraskevopoulou, Cătălin Hriţcu       
   ([pdf](https://catalin-hritcu.github.io/publications/verified-testing-report.pdf))   
 
+- **QuickChick: Property-Based Testing for Coq** (Coq Workshop 2014)             
+  Maxime Dénès, Cătălin Hriţcu, Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce             
+  ([pdf](https://lemonidas.github.io/pdf/QuickChickCoq.pdf))             
+
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
@@ -797,6 +871,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Lukas Bulwahn             
   ([doi](https://doi.org/10.1007/978-3-642-28717-6_14))             
 
+* **A First Step in the Design of a Formally Verified Constraint-Based Testing Tool: FocalTest** (TAP 2012)             
+  Matthieu Carlier, Catherine Dubois, Arnaud Gotlieb             
+  ([doi](https://doi.org/10.1007/978-3-642-30473-6_5))             
+
 ### 2011  
 * **Testing an Optimising Compiler by Generating Random Lambda Terms** (AST 2011)         
   Michał H. Pałka, Koen Claessen, Alejandro Russo, John Hughes         
@@ -835,6 +913,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   John Hughes, Ulf Norrell, Jérôme Sautret       
   ([doi](https://doi.org/10.1145/1808266.1808281))
 
+* **FocalTest: A Constraint Programming Approach for Property-Based Testing** (ICSOFT 2010, extended version in Springer CCIS 2013)             
+  Matthieu Carlier, Catherine Dubois, Arnaud Gotlieb             
+  ([doi](https://doi.org/10.1007/978-3-642-29578-2_9))             
+
 ### 2009
 * **Finding Race Conditions in Erlang with QuickCheck and Pulse** (ICFP 2009)         
   Koen Claessen, Michal Palka, Nicholas Smallbone, John Hughes, Hans Svensson, Thomas Arts, Ulf Wiger         
@@ -852,6 +934,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **EasyCheck: test data for free** (FLOPS 2008)           
   Jan Christiansen, Sebastian Fischer         
   ([doi](https://doi.org/10.1007/978-3-540-78969-7_23))            
+
+* **Functional Testing in the Focal Environment** (TAP 2008)             
+  Matthieu Carlier, Catherine Dubois             
+  ([doi](https://doi.org/10.1007/978-3-540-79124-9_7))             
 
 ### 2007
 * **Systematic generation of glass-box test cases for functional logic programs** (PPDP 2007)       
@@ -888,6 +974,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Random Testing in Isabelle/HOL** (SEFM 2004)              
   Stefan Berghofer, Tobias Nipkow             
   ([doi](https://doi.org/10.1109/SEFM.2004.1347524))             
+
+* **Random Generators for Dependent Types** (ICTAC 2004)             
+  Peter Dybjer, Qiao Haiyan, Makoto Takeyama             
+  ([doi](https://doi.org/10.1007/978-3-540-31862-0_25))             
+
+* **Verifying Haskell Programs by Combining Testing, Model Checking and Interactive Theorem Proving** (Information and Software Technology 2004)             
+  Peter Dybjer, Qiao Haiyan, Makoto Takeyama             
+  ([doi](https://doi.org/10.1016/j.infsof.2004.07.002))             
 
 ### 2003
 * **Combining Testing and Proving in Dependent Type Theory** (TPHOLs 2003)              
@@ -973,3 +1067,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 - **Lightweight Verification of Functional Programs** (PhD Dissertation, Chalmers University of Technology)       
   Nicholas Smallbone       
   ([pdf](https://smallbone.se/papers/thesis.pdf))
+
+## Books
+* **QuickChick: Property-Based Testing in Rocq** (Software Foundations, Volume 4)             
+  Leonidas Lampropoulos, Benjamin C. Pierce             
+  ([url](https://softwarefoundations.cis.upenn.edu/qc-current/index.html))             
+
+* **Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do** (The Pragmatic Bookshelf 2019)             
+  Fred Hebert             
+  ([url](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/))             
