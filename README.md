@@ -270,7 +270,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Property-Based Testing in Practice** (ICSE 2024)    
   Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head    
-  ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))           
+  ([doi](https://dl.acm.org/doi/10.1145/3597503.3639581))
+
+* **Hypertesting of Programs: Theoretical Foundation and Automated Test Generation** (ICSE 2024)              
+  Michele Pasqua, Mariano Ceccato, Paolo Tonella             
+  ([doi](https://doi.org/10.1145/3597503.3640323))                 
 
 * **How We Built Cedar: A Verification-Guided Approach** (FSE 2024)                     
   Craig Disselkoen, Aaron Eline, Shaobo He, Kyle Headley, Mike Hicks, Kesha Hietala, John Kastner, Anwar Mamat, Matt McCutchen, Neha Rungta, Bhakti Shah, Emina Torlak, Andrew Wells                  
@@ -310,7 +314,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Conceptual Mutation Testing for Student Programming Misconceptions** (Programming 2024)           
   Siddhartha Prasad, Ben Greenman, Tim Nelson, Shriram Krishnamurthi                   
-  ([doi](https://doi.org/10.22152/programming-journal.org/2024/8/7)) 
+  ([doi](https://doi.org/10.22152/programming-journal.org/2024/8/7))
+
+* **Hyperfuzzing: black-box security hypertesting with a grey-box fuzzer** (Empirical Software Engineering 2024)             
+  Daniel Blackwell, Ingolf Becker, David Clark           
+  ([doi](https://doi.org/10.1007/s10664-024-10556-3))                 
 
 * **Test Harness Mutilation** (ICSTW 2024)             
   Samuel Moelius     
@@ -806,7 +814,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Graphical editing support for QuickCheck models** (ICSTW 2015)            
   Thomas Arts, Kirill Bogdanov, Alex Gerdes, John Hughes      
-  ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107473))           
+  ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107473))
+
+* **Hypertesting: The Case for Automated Testing of Hyperproperties** (HotSpot 2015)           
+  Johannes Kinder            
+  ([pdf](https://athene-forschung.unibw.de/doc/127189/127189.pdf))               
 
 * **A Generic Synthesisable Test Bench** (MEMOCODE 2015)         
   Matthew Naylor, Simon Moore         
@@ -868,7 +880,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Boosting the Permissiveness of Dynamic Information-Flow Tracking by Testing** (ESORICS 2012)        
   Arnar Birgisson, Daniel Hedin, Andrei Sabelfeld              
-  ([doi](https://doi.org/10.1007/978-3-642-33167-1_4))    
+  ([doi](https://doi.org/10.1007/978-3-642-33167-1_4))
+
+* **The Racket virtual machine and randomized testing** (Higher-Order and Symbolic Computation 2012)               
+  Casey Klein, Matthew Flatt, Robert Bruce Findler                
+  ([doi](https://doi.org/10.1007/s10990-013-9091-1))               
 
 * **Smart Testing of Functional Programs in Isabelle** (LPAR 2012)              
   Lukas Bulwahn             
