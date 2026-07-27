@@ -567,7 +567,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms** (CEC 2020)             
   Fang-Yi Lo, Chao-Hong Chen, Ying-ping Chen             
-  ([doi](https://doi.org/10.1109/CEC48606.2020.9185807))             
+  ([doi](https://doi.org/10.1109/CEC48606.2020.9185807))            
+
+* **Hyperfuzzing for SoC security validation** (ICCAD 2020)              
+  Sujit Kumar Muduli, Gourav Takhar, Pramod Subramanyan              
+  ([doi](https://doi.org/10.1145/3400302.3415709))
 
 * **Luck: A Probabilistic Language for Testing**             
   (*Foundations of Probabilistic Programming*, Cambridge University Press 2020)             
