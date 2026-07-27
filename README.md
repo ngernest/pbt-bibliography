@@ -88,6 +88,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))
 
+* **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
+  Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker                   
+
 * **Test Your Polymorphic Functions with Boolean Values** (FLOPS 2026)            
   Akimasa Morihata          
   ([doi](https://doi.org/10.1007/978-981-92-0184-6_12))        
