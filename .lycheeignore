@@ -2,4 +2,7 @@ https://dl.acm.org/doi/pdf/.*
 https://dl.acm.org/doi/.*     
 https://doi.org/10.1017/.*
 https://doi.org/10.1145/.*
-https://cs.brown.edu/.*     
+https://cs.brown.edu/.*
+https://ieeexplore.ieee.org/.*
+https://people.cs.nott.ac.uk/.*
+https://athene-forschung.unibw.de/.*
