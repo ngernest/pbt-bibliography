@@ -263,6 +263,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Luyao Ren, Xing Zhang, Ziyue Hua, Yanyan Jiang, Xiao He, Yingfei Xiong, Tao Xie             
   ([doi](https://doi.org/10.1145/3705305))             
 
+* **Compiler Fuzzing in Continuous Integration: A Case Study on Dafny** (ICST 2025)             
+  Karnbongkot Boonriong, Stefan Zetzsche, Alastair F. Donaldson             
+  ([pdf](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf))             
+
 ### 2024 
 * **Generating Well-Typed Terms that are not "Useless"** (POPL 2024)     
   Justine Frank, Benjamin Quiring, Leonidas Lampropoulos      
@@ -356,6 +360,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Stefan Karlsson, John Hughes, Robbert Jongeling, Adnan Čaušević, Daniel Sundmark             
   ([doi](https://doi.org/10.1007/s11219-024-09668-2))             
 
+* **Randomised Testing of the Compiler for a Verification-Aware Programming Language** (ICST 2024)              
+  Alastair F. Donaldson, Dilan Sheth, Jean-Baptiste Tristan, Alex Usher             
+  ([pdf](https://www.doc.ic.ac.uk/~afd/papers/2024/ICST.pdf))             
+
 
 ### 2023 
 * **Covering All the Bases: Type-Based Verification of Test Input Generators** (PLDI 2023)     
@@ -434,6 +442,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Liyi Li, Yiyun Liu, Deena Postol, Leonidas Lampropoulos, David Van Horn, Michael Hicks             
   ([doi](https://doi.org/10.3233/JCS-230040))             
 
+* **Generating Conforming Programs with Xsmith** (GPCE 2023)             
+  William Gallard Hatch, Pierce Darragh, Sorawee Porncharoenwase, Guy Watson, Eric Eide             
+  ([doi](https://doi.org/10.1145/3624007.3624056))             
+
 ### 2022
 * **Logarithm and Program Testing** (POPL 2022)    
   Kuen-Bang Hou (Favonia), Zhuyang Wang       
@@ -454,6 +466,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Random Testing of a Higher-Order Blockchain Language** (ICFP 2022)     
   Tram Hoang, Anton Trunov, Leonidas Lampropoulos, Ilya Sergey        
   ([doi](https://dl.acm.org/doi/10.1145/3547653))       
+
+* **Testing Dafny (Experience Paper)** (ISSTA 2022)              
+  Ahmed Irfan, Sorawee Porncharoenwase, Zvonimir Rakamarić, Neha Rungta, Emina Torlak             
+  ([doi](https://doi.org/10.1145/3533767.3534382))             
 
 * **Parsing Randomness** (OOPSLA 2022)      
   Harrison Goldstein, Benjamin C. Pierce       
@@ -577,6 +593,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   (*Foundations of Probabilistic Programming*, Cambridge University Press 2020)             
   Leonidas Lampropoulos, Benjamin C. Pierce, Li-yao Xia, Diane Gallois-Wong, Cătălin Hriţcu, John Hughes             
   ([doi](https://doi.org/10.1017/9781108770750.014))             
+
+* **Clotho: A Racket Library for Parametric Randomness** (Scheme 2020)             
+  Pierce Darragh, William Gallard Hatch, Eric Eide             
+  ([pdf](https://arxiv.org/pdf/2101.06759))             
 
 ### 2019       
 * **Type-Guided Worst-Case Input Generation** (POPL 2019)           
@@ -1051,10 +1071,22 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Sophie Adeline Solheim Bosio             
   ([pdf](https://github.com/SophieBosio/contra/blob/main/thesis.pdf))
 
+- **CompFuzzCI: Continuous Integration Fuzz Testing for the Dafny Compiler** (MSc Dissertation, Imperial College London)              
+  Karnbongkot Boonriong             
+  ([pdf](https://www.doc.ic.ac.uk/~afd/masters_theses/Boonriong.pdf))
+
 ## 2023 
 - **Language-Based Techniques and Stochastic Models for Automated Testing** (PhD Dissertation, Chalmers University of Technology)         
   Agustín Mista        
   ([pdf](https://www.mista.me/assets/pdf/phd-chalmers.pdf))            
+
+- **fuzz-d: Random Program Generation for Testing Dafny** (MEng Dissertation, Imperial College London)              
+  Alex Usher             
+  ([pdf](https://www.doc.ic.ac.uk/~afd/masters_theses/Usher.pdf))
+
+- **Random Testing of WebAssembly Implementations Using Semantically Valid Programs** (Masters Thesis, University of Utah)              
+  Guy Watson             
+  ([pdf](https://www.flux.utah.edu/paper/watson-thesis))
 
 ## 2022 
 - **Testing by Dualization** (PhD Dissertation, University of Pennsylvania)            
