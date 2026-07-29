@@ -89,7 +89,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))
 
 * **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
-  Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker                   
+  Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker
+
+* **Fuzzing with Agents? Generators Are All You Need** (ASE 2026)                                  
+  Vasudev Vikram, Rohan Padhye         
+  ([arXiv](https://arxiv.org/abs/2604.01442v1))
 
 * **Test Your Polymorphic Functions with Boolean Values** (FLOPS 2026)            
   Akimasa Morihata          
@@ -121,10 +125,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Just-in-Time Catching Test Generation at Meta**          
   Matthew Becker, Yifei Chen, Nicholas Cochran, Pouyan Ghasemi, Abhishek Gulati, Mark Harman, Zachary Haluza, Mehrdad Honarkhah, Herve Robert, Jiacheng Liu, Weini Liu, Sreeja Thummala, Xiaoning Yang, Rui Xin, Sophie Zeng           
   ([arXiv](https://arxiv.org/abs/2601.22832))
-
-* **Fuzzing with Agents? Generators Are All You Need**                     
-  Vasudev Vikram, Rohan Padhye         
-  ([arXiv](https://arxiv.org/abs/2604.01442v1))
 
 * **PBT-Bench: Benchmarking AI Agents on Property-Based Testing**              
   Lucas Jing, Xinqi Wang, Liao Zhang, Simon S. Du               
