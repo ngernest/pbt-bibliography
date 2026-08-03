@@ -93,7 +93,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **PropCov: Effective Coverage Reporting for Property-Based Testing** (ISSTA 2026)             
   Jesse Coultas, Joseph Wiseman, Luís Pina             
-  [pdf](https://www.luispina.me/pdfs/coultas26propcov.pdf)
+  ([pdf](https://www.luispina.me/pdfs/coultas26propcov.pdf))
 
 * **Fuzzing with Agents? Generators Are All You Need** (ASE 2026)                                  
   Vasudev Vikram, Rohan Padhye         
