@@ -86,10 +86,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Metamorphic Testing for Infrastructure-as-Code Engines** (OOPSLA 2026)            
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
-  ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf))
+  ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf)) 
 
 * **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
   Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker
+
+* **PropCov: Effective Coverage Reporting for Property-Based Testing** (ISSTA 2026)             
+  Jesse Coultas, Joseph Wiseman, Luís Pina             
+  [pdf](https://www.luispina.me/pdfs/coultas26propcov.pdf)
 
 * **Fuzzing with Agents? Generators Are All You Need** (ASE 2026)                                  
   Vasudev Vikram, Rohan Padhye         
