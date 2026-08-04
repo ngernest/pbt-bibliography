@@ -200,7 +200,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/3763158))         
 
 * **Validating Soundness and Completeness in Pattern-Match Coverage Analyzers** (OOPSLA 2025)         
-  Cyril Moser, Thodoris Sotiropoulos, Chengyu Zhang, Zhendong Su           
+  Cyril Flurin Moser, Thodoris Sotiropoulos, Chengyu Zhang, Zhendong Su           
   ([doi](https://doi.org/10.1145/3763171))            
 
 * **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)               
