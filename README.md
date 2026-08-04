@@ -199,6 +199,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Patrick LaFontaine, Zhe Zhou, Ashish Misra, Suresh Jagannathan, Benjamin Delaware                          
   ([doi](https://doi.org/10.1145/3763158))         
 
+* **Validating Soundness and Completeness in Pattern-Match Coverage Analyzers** (OOPSLA 2025)         
+  Cyril Moser, Thodoris Sotiropoulos, Chengyu Zhang, Zhendong Su           
+  ([doi](https://doi.org/10.1145/3763171))            
+
 * **Bennet: Randomized Specification Testing for Heap-Manipulating Programs** (OOPSLA 2025)               
   Zain K Aamer, Benjamin C. Pierce                       
   ([doi](https://doi.org/10.1145/3764115))              
@@ -684,6 +688,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Jan Midtgaard             
   ([doi](https://doi.org/10.1145/3168896))             
 
+* **Regenerate: A Language Generator for Extended Regular Expressions with an application to test case generation** (GPCE 2018)             
+  Gabriel Radanne, Peter Thiemann             
+  ([doi](https://doi.org/10.1145/3278122.3278133))             
+
 * **Property Based Testing of C Code from Haskell** (Bachelor's Thesis, University of New South Wales)            
   Alexander Hodges                
   ([pdf](https://people.eng.unimelb.edu.au/rizkallahc/theses/alex-hodges-honours-thesis.pdf))           
@@ -872,6 +880,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Maxime Dénès, Cătălin Hriţcu, Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce             
   ([pdf](https://lemonidas.github.io/pdf/QuickChickCoq.pdf))             
 
+- **Automatic Testing of Operation Invariance** (WFLP 2014)             
+  Tobias Gödderz, Janis Voigtländer             
+  ([pdf](https://ceur-ws.org/Vol-1335/wflp2014_paper9.pdf))             
+
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
@@ -888,6 +900,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Testing Blocking Operations with QuickCheck’s Component Library** (Erlang 2013)       
   Ulf Norell, Hans Svensson, Thomas Arts         
   ([doi](https://doi.org/10.1145/2505305.2505310))       
+
+* **Random Testing of Purely Functional Abstract Datatypes: Guidelines for Dealing with Operation Invariance** (PPDP 2013)       
+  Stefan Holdermans       
+  ([doi](https://doi.org/10.1145/2505879.2505880))       
 
 ### 2012 
 * **Shrinking and showing functions (Functional Pearl)** (Haskell 2012)       
