@@ -209,7 +209,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **An Empirical Evaluation of Property-Based Testing in Python** (OOPSLA 2025)         
   Savitha Ravi, Michael Coblenz           
-  ([doi](https://doi.org/10.1145/3764068))            
+  ([doi](https://doi.org/10.1145/3764068))
+
+* **Incremental Certified Programming** (OOPSLA 2025)             
+  Tomás Díaz, Kenji Maillard, Nicolas Tabareau, Éric Tanter          
+  ([doi](https://doi.org/10.1145/3763068))
+
+* **Synthesizing Implication Lemmas for Interactive Theorem Proving** (OOPSLA 2025)          
+  Ana Brendel, Aishwarya Sivaraman, Todd Millstein           
+  ([doi](https://doi.org/10.1145/3763131))
 
 * **Lightweight Testing of Persistent Amortized Time Complexity in the Credit Monad** (Haskell 2025)             
   Anton Lorenzon          
