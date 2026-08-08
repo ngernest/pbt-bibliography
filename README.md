@@ -935,6 +935,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1145/2505879.2505880))       
 
 ### 2012 
+* **Run your research: on the effectiveness of lightweight mechanization** (POPL 2012)              
+  Casey Klein, John Clements, Christos Dimoulas, Carl Eastlund, Matthias Felleisen, Matthew Flatt, Jay A. McCarthy, Jon Rafkind, Sam Tobin-Hochstadt, Robert Bruce Findler              
+  ([doi](https://doi.org/10.1145/2103621.2103691))              
+
 * **Shrinking and showing functions (Functional Pearl)** (Haskell 2012)       
   Koen Claessen           
   ([doi](https://doi.org/10.1145/2430532.2364516))       
