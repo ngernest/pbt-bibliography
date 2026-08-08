@@ -787,6 +787,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([doi](https://doi.org/10.1109/ICST.2017.42))             
 
 ### 2016 
+* **Experience report: growing and shrinking polygons for random testing of computational geometry algorithms** (ICFP 2016)              
+  Ilya Sergey              
+  ([doi](https://doi.org/10.1145/2951913.2951927))              
+
 * **FitSpec: refining property sets for functional testing** (Haskell 2016)     
   Rudy Braquehais, Colin Runciman      
   ([doi](https://doi.org/10.1145/2976002.2976003))
