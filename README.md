@@ -676,6 +676,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   David R. MacIver, Zac Hatfield-Dodds, and many other contributors             
   ([doi](https://doi.org/10.21105/joss.01891))             
 
+* **Automatic and scalable detection of logical errors in functional programming assignments** (OOPSLA 2019)              
+  Dowon Song, Myungho Lee, Hakjoo Oh             
+  ([doi](https://doi.org/10.1145/3360614))             
+
 ### 2018 
 * **Generating Good Generators for Inductive Relations** (POPL 2018)     
   Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce        
@@ -708,6 +712,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Regenerate: A Language Generator for Extended Regular Expressions with an application to test case generation** (GPCE 2018)             
   Gabriel Radanne, Peter Thiemann             
   ([doi](https://doi.org/10.1145/3278122.3278133))             
+
+* **Test generation for higher-order functions in dynamic languages** (OOPSLA 2018)             
+  Marija Selakovic, Michael Pradel, Rezwana Karim, Frank Tip             
+  ([doi](https://doi.org/10.1145/3276531))             
 
 * **Property Based Testing of C Code from Haskell** (Bachelor's Thesis, University of New South Wales)            
   Alexander Hodges                
@@ -877,6 +885,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Matthew Naylor, Simon Moore         
   ([pdf](https://www.cl.cam.ac.uk/~swm11/research/papers/memocode2015.pdf)) 
 
+* **Relatively complete counterexamples for higher-order programs** (PLDI 2015)             
+  Phúc C. Nguyễn, David Van Horn             
+  ([doi](https://doi.org/10.1145/2813885.2737971))             
+
 * **Integrating Functional Logic Programming with Constraint Solving for Random Generation of Structured Data** (INRIA Internship Report)     
   Li-yao Xia, Cătălin Hriţcu              
 
@@ -996,6 +1008,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **FocalTest: A Constraint Programming Approach for Property-Based Testing** (ICSOFT 2010, extended version in Springer CCIS 2013)             
   Matthieu Carlier, Catherine Dubois, Arnaud Gotlieb             
   ([doi](https://doi.org/10.1007/978-3-642-29578-2_9))             
+
+* **Random testing for higher-order, stateful programs** (OOPSLA 2010)             
+  Casey Klein, Matthew Flatt, Robert Bruce Findler             
+  ([doi](https://doi.org/10.1145/1869459.1869505))             
 
 ### 2009
 * **Finding Race Conditions in Erlang with QuickCheck and Pulse** (ICFP 2009)         
