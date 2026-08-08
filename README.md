@@ -180,7 +180,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Lehan He, Zeren Chen, Zhe Zhang, Xiang Gao, Lu Sheng             
   ([url](https://openreview.net/forum?id=6xeSRifGeL))             
 
-* **Certified Program Synthesis with a Multi-Modal Verifier**             
+* **Certified Program Synthesis with a Multi-Modal Verifier** (ASE 2026)                                
   Yueyang Feng, Dipesh Kafle, Vladimir Gladshtein, Vitaly Kurin, George Pîrlea, Qiyuan Zhao, Peter Müller, Ilya Sergey             
   ([arXiv](https://arxiv.org/abs/2604.16584))             
 
