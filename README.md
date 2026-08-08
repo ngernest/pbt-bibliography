@@ -128,6 +128,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **QuickerChick** (ICFP 2026 SRC)                 
   Ivan Mladenov, Alperen Keles, Leonidas Lampropoulos                
 
+* **Generating Property-Based Tests for Web Applications** (OOPSLA 2026 SRC)                    
+  Savitha Ravi         
+
 * **A Declarative Framework for Hand-Crafted Mutation Analysis and Management**                  
   Alperen Keles            
   ([arXiv](https://arxiv.org/abs/2603.07065))
