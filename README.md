@@ -88,6 +88,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   David Spielmann, George Zakhour, Dominik Arnold, Matteo Biagiola, Roland Meier, Guido Salvaneschi         
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf)) 
 
+* **Testing Theorems, Fully Automatically** (OOPSLA 2026)              
+  Segev Elazar Mittelman, Harrison Goldstein, Leonidas Lampropoulos         
+
+* **Random Testing via Runtime Abstract Interpretation** (OOPSLA 2026)             
+  Zain K. Aamer, Benjamin C. Pierce      
+
 * **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
   Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker
 
