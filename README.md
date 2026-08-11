@@ -101,7 +101,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Jesse Coultas, Joseph Wiseman, Luís Pina             
   ([pdf](https://www.luispina.me/pdfs/coultas26propcov.pdf))
 
-* **Fuzzing with Agents? Generators Are All You Need** (ASE 2026)                                  
+* **Predicate-Guided Synthesis of Input Generators via Gentoo** (ASE 2026)                                  
   Vasudev Vikram, Rohan Padhye         
   ([arXiv](https://arxiv.org/abs/2604.01442v1))
 
