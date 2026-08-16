@@ -89,7 +89,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf)) 
 
 * **Testing Theorems, Fully Automatically** (OOPSLA 2026)              
-  Segev Elazar Mittelman, Harrison Goldstein, Leonidas Lampropoulos         
+  Segev Elazar Mittelman, Harrison Goldstein, Leonidas Lampropoulos                 
+  ([pdf](https://lemonidas.github.io/pdf/TestingTheorems.pdf))               
 
 * **Random Testing via Runtime Abstract Interpretation** (OOPSLA 2026)             
   Zain K Aamer, Benjamin C. Pierce      
