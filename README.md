@@ -73,8 +73,9 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Anthony Vandikas, Kiarash Sotoudeh, Marsha Chechik              
   ([arXiv](https://arxiv.org/abs/2606.22616))
 
-* **QuickChecking Convergence of Rewriting Systems (Functional Pearl)** (ICFP 2026)                        
-  Koen Claessen
+* **QuickChecking Convergence of Rewriting Systems (Functional Pearl)** (ICFP 2026)                           
+  Koen Claessen          
+  ([doi](https://dl.acm.org/doi/10.1145/3828678))                 
 
 * **Evaluating Shrinking (Experience Report)** (Haskell 2026)            
   Alperen Keles, George Miao, Leonidas Lampropoulos              
@@ -123,8 +124,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Coverage Types Modulo Equivalences** (ICFP 2026 SRC)         
   Aaryan Prakash, Benjamin Delaware      
 
-* **Incremental Property-Based Testing** (ICFP 2026 SRC)             
-  Pablo Benario Figueroa       
+* **Testing Incomplete Programs in OCaml** (ML Family Workshop 2026)          
+  Pablo Benario Figueroa, Eric Tanter              
 
 * **QuickerChick** (ICFP 2026 SRC)                 
   Ivan Mladenov, Alperen Keles, Leonidas Lampropoulos                
