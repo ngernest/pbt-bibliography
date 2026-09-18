@@ -129,6 +129,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **QuickerChick** (ICFP 2026 SRC)                 
   Ivan Mladenov, Alperen Keles, Leonidas Lampropoulos                
+  ([arXiv](https://arxiv.org/abs/2609.16079))           
 
 * **Generating Property-Based Tests for Web Applications** (OOPSLA 2026 SRC)                    
   Savitha Ravi         
