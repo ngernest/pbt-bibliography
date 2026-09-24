@@ -94,7 +94,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://lemonidas.github.io/pdf/TestingTheorems.pdf))               
 
 * **Random Testing via Runtime Abstract Interpretation** (OOPSLA 2026)             
-  Zain K Aamer, Benjamin C. Pierce      
+  Zain K Aamer, Benjamin C. Pierce           
+  ([pdf](https://zain-k-aamer.com/papers/lucas.pdf))              
 
 * **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
   Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker
