@@ -98,7 +98,8 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([pdf](https://zain-k-aamer.com/papers/lucas.pdf))              
 
 * **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
-  Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker
+  Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker              
+  ([doi](https://doi.org/10.1145/3830418.3843899))               
 
 * **PropCov: Effective Coverage Reporting for Property-Based Testing** (ISSTA 2026)             
   Jesse Coultas, Joseph Wiseman, Luís Pina             
