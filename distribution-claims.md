@@ -1,4 +1,4 @@
-# Claims about generator distributions in nine PBT papers
+# Claims about generator distributions in eleven PBT papers
 
 A survey of every claim about *distributions* — formal or informal — made in the
 following papers, including places where a generator had to be modified in a way
@@ -11,9 +11,11 @@ Papers covered (chronological):
 | Pałka, Claessen, Russo, Hughes — *Testing an Optimising Compiler by Generating Random Lambda Terms* | AST 2011 |
 | Fetscher, Claessen, Pałka, Hughes, Findler — *Making Random Judgments* | ESOP 2015 |
 | Claessen, Duregård, Pałka — *Generating Constrained Random Data with Uniform Distribution* | JFP 2015 |
+| Bendkowski, Grygiel, Tarau — *Boltzmann Samplers for Closed Simply-Typed Lambda Terms* | PADL 2017 |
 | Midtgaard, Justesen, Kasting, Nielson, Nielson — *Effect-Driven QuickChecking of Compilers* | ICFP 2017 |
 | Lampropoulos, Paraskevopoulou, Pierce — *Generating Good Generators for Inductive Relations* | POPL 2018 |
 | Foner, Zhang, Lampropoulos — *Keep Your Laziness in Check* | ICFP 2018 |
+| Giacometti Rocha — *Testing of OCaml Exceptions by Effect-Driven Generation of Programs* | MSc thesis, Edinburgh 2019 |
 | Zhang, Roth, Pierce, Roth, Haeberlen — *Testing Differential Privacy with Dual Interpreters* | OOPSLA 2020 |
 | Frank, Quiring, Lampropoulos — *Generating Well-Typed Terms that are not "Useless"* | POPL 2024 |
 | Tjoa, Garg, Goldstein, Millstein, Pierce, Van den Broeck — *Tuning Random Generators* | OOPSLA 2025 |
@@ -166,6 +168,98 @@ The whole paper is a distribution claim. Key ones:
 
 ---
 
+## Bendkowski, Grygiel, Tarau — *Boltzmann Samplers for Closed Simply-Typed Lambda Terms* (PADL 2017)
+
+Quotes are from the extended version,
+[arXiv:1612.07682v2](https://arxiv.org/abs/1612.07682), which adds the full
+Boltzmann-sampler development and the parallel execution model to the PADL paper.
+
+This is the paper that states non-uniform STLC generation as a *problem*, and it
+is the uniform baseline Frank et al. (POPL 2024) measure themselves against.
+
+- **Abstract, framing uniformity as the open problem.** "due to the intrinsically
+  difficult combinatorial structure of typable λ-terms **no effective uniform
+  sampling method is known, setting it as a fundamental open problem in the random
+  software testing approach**." The contribution: "**uniformly random** closed
+  simply-typed λ-terms of up size 120," extended to "**uniformly random** closed
+  simply-typed normal forms" and to size 140 in parallel.
+- **The direct critique of Pałka et al. (2011).** "Though successful for the
+  purpose of finding optimisation bugs in GHC, **their random terms were not
+  uniformly random with respect to size. In other words, some kinds of typable
+  λ-terms were favoured over other kinds of equal size terms.** Uniform
+  generation, on the other hand, **assigns equal probability to terms of equal
+  size** and hence produces '**typical**' typable λ-terms, **without introducing
+  an unintended nor explicit bias in the sampling process**."
+- **What Boltzmann sampling actually guarantees.** Uniformity is *conditional on
+  size*, and size is a random variable: "we want the probability P(α) that α ∈ A
+  of size n is the sampler's outcome to be equal to 1/aₙ"; "Suppose we **relax our
+  restriction that the sampler's outcome size is deterministic**." With
+  `Px(α) = x^|α| / A(x)` and `Px(N = n) = aₙxⁿ / A(x)`, the explicit caveat is:
+  "**in this model we do not control the exact size of the sample, although we can
+  calibrate its expected size and standard deviation by choosing a suitable
+  parameter x**" (Eq. 2 gives `Ex(N)` and `σx(N)`).
+- **Calibration is empirical.** "Following our empirical experiments, **we
+  calibrated the branching probabilities so the expected outcome size to 120** –
+  the currently biggest practical size achievable," solving `Ex(N) = 120`
+  numerically for `x ≈ 0.29558095907`, yielding branching probabilities
+  0.35700035696434995 (de Bruijn index), 0.6525813160382378 (abstraction),
+  0.7044190409261122 (leaf). The generated code hard-codes these alongside
+  `min_size(120)`, `max_size(150)`, `max_steps(10000000)`, and "The Boltzmann
+  sampler **can be fine-tuned via `min_size` and `max_size`** to search for terms
+  in an interval **for which the probabilities of the sampler have been
+  calibrated**."
+- **Uniformity is preserved by rejection, but at unbounded cost.** Because
+  closed simply-typed terms are asymptotically negligible among plain terms, "a
+  naive generate-test-reject sampling scheme becomes inevitably infeasible for
+  sufficiently large term sizes," so they interleave sampling with "an optimised
+  **anticipated rejection** phase… where undesired terms are discarded as soon as
+  it is possible to determine that the (partially) constructed term cannot be
+  closed nor typeable. At this point, the whole process is interrupted and
+  restarted." The claim and its price: "**Although in effect we obtain a uniform
+  sampler for closed simply-typed λ-terms, the power of Boltzmann samplers is
+  significantly constrained** – due to the fact that closed simply-typed λ-terms
+  are asymptotically negligible in the set of plain λ-terms, **the number of
+  expected retrials tends to infinity as the target term size increases**."
+- **The size measure itself is a distribution-shaping choice.** They adopt "a
+  slight variation of the '**natural size**'… **assigning to each constructor a
+  size given by its arity**" (0 for `0`, 2 for application). And on unary de Bruijn
+  indices: "`nth_elem/3` **consumes progressively larger size-units for variables
+  of a higher de Bruijn index**, a property that **conveniently mimics the fact
+  that, in practical programs, variables located farther from their binders are
+  likely to occur less frequently** than those closer." (Compare Claessen et al.'s
+  `Pay`, where cost assignment likewise changes the size-limited distribution.)
+- **A measured sparsity result explaining a distributional limit.** Fig. 1
+  tabulates densities: at size 20 there are 16,019,330 closed simply-typed terms
+  (1 per ~15.8 plain terms) versus 473,628 simply-typed normal forms (1 per ~60
+  normal forms), density ratio 0.263 and falling. Hence "closed simply-typed
+  normal forms are becoming very sparse much earlier than their plain
+  counterparts," and the conclusion reports "an **intriguing discrepancy** between
+  the case of simply-typed terms and simply-typed normal forms. While these two
+  classes of terms are both known to asymptotically vanish, the **significantly
+  faster sparsity growth of the latter has limited our Boltzmann sampler to sizes
+  of order 70**." Left open: whether that density ratio tends to 0, and note
+  "**this behaviour could be dependent on the size definition we are using**."
+- **Related work draws the uniform / non-uniform line explicitly.** "Other,
+  **non-uniform generation**, approaches are also studied in the context of
+  automated software verification. Prominent examples include Quickcheck… and
+  GAST – two frameworks offering facilities for random (**yet not necessarily
+  uniform**) and exhaustive test generation." Pałka et al.'s type-directed
+  mechanism is credited with "resulting in **more realistic** (from the particular
+  use case point of view) terms." They also cite Tarau's statistical study as
+  "indications that some types **frequent in human-written programs** are among
+  the **most frequently inferred ones** for terms of a given size."
+- **Conclusion.** "We have derived from logic programs for exhaustive generation of
+  λ-terms programs that generated **uniformly distributed** simply-typed λ-terms
+  via Boltzmann samplers."
+
+*Observation, not a claim of the paper:* §7 parallelises by running identical
+`ranTypable` goals in `first_solution` across threads and returning whichever
+finishes first. The paper reports only the size/time gains (size 180 in under a
+second on 44 cores) and does not discuss whether racing independent samplers and
+taking the first winner preserves the uniformity claimed for a single sampler.
+
+---
+
 ## Midtgaard, Justesen, Kasting, Nielson, Nielson — *Effect-Driven QuickChecking of Compilers* (ICFP 2017)
 
 Has §6.2 titled **"Distribution"**:
@@ -266,6 +360,91 @@ functions**:
   to `draws` is given by a **geometric distribution with expectation 1**,"
   implemented via `oneof` ("**uniform choice** between" stopping and traversing
   further) at each level.
+
+---
+
+## Giacometti Rocha — *Testing of OCaml Exceptions by Effect-Driven Generation of Programs* (MSc thesis, Edinburgh 2019)
+
+Extends Midtgaard et al.'s Efftester with exception effects. Fewer distribution
+claims than the papers above, but the ones it makes are unusually blunt, and the
+thesis is a clean case of **a generator modified in ways that change its
+distribution for reasons unrelated to distribution**.
+
+- **Rule probabilities, stated as the method.** "First, we choose any of the
+  typing rules (Section 3.4) **with different probabilities**." Generation is
+  top-down over a type-and-effect goal `(Γ; τ; φ)`, and "**Leaves are always
+  pure**."
+- **The central modification: exact effect matches instead of sub-effecting.**
+  The original Efftester relied on an invariant — "if the sub-expressions had an
+  effect smaller than or equal to the expected, the enclosing expression would
+  also have an effect smaller than or equal to the expected" — which lets the
+  generator terminate by dropping to `pure` leaves. "**But this property no longer
+  holds in our system.** Replacing `exception` by `pure`, for example, might make
+  the enclosing expression larger than expected because exceptions change the
+  computation and the way effects propagate" (worked example:
+  `let(pure, mixed) = mixed ⊀ exception`). Consequence: "**So, in our extended
+  system, we have to use exact matches at the cost of more failures and a
+  performance downgrade – trees are longer on average because it takes more steps
+  in average to have `pure` in all leaves.**"
+- **How they compensated — and what it does to the distribution.** "A machine
+  learning or manual tuning can improve this number by **adjusting the
+  probabilities of each rule** to increase the success rate. Another approach is
+  to **increase the probability of terminal symbols (constants) as we go down the
+  tree**. In our case, **we tuned the maximum height of the trees in a way to get
+  a relatively low number of failures, tried to generate more programs than
+  necessary and simply ignored the ones that failed.**" (I.e. the shipped fix is a
+  height cap plus discarding failures — both of which reshape the distribution —
+  rather than reweighting the rules.)
+- **Three "concessions" listed in §6.1, each narrowing or reshaping the output
+  space.**
+  1. Exact effect matches cause "a performance downgrade… because **we have more
+     constraints on where we can place terminal symbols in the tree**."
+  2. "A similar problem arises in shrinking: the reduced expression must have the
+     same effect as the original one, or we might introduce non-determinism…
+     **So we disabled many shrinking strategies.**"
+  3. "**We use an application rule instead of `Indir` rule** as proposed in
+     [Midtgaard et al., Pałka et al.], a generalisation that handles functions with
+     multiple parameters. This rule avoids expensive backtracking in the
+     generation. **We did not consider it to simplify our induction proofs and our
+     implementation.** Many functions given in the environment have a single
+     parameter."
+- **A distribution-shaped support limitation.** "there is a limitation inherent to
+  this technique, and it is valid for other goal-directed generators: **we do not
+  create invalid programs, so we do not have negative test cases.** The generated
+  programs always type-check and are syntactically correct, so **we might miss bugs
+  where the compiler accepts invalid input**."
+- **The evaluation attributes a coverage failure directly to rule
+  probabilities.** The extended tool found 3 exception-related bugs the original
+  missed, but "**the original tool also detected bugs not found by us. In theory,
+  the extended version should have found all of them. The reason it did not is the
+  lack of variability in the probability of the rules. This again demonstrates the
+  importance of selecting the likelihood of each rule.**"
+- **The general critique, twice.** §6.1: "a weakness in many generators
+  [Midtgaard et al., Pałka et al., Csmith] is the **manual selection of
+  probabilities for each rule**. Ideally, we should have **uniform testing of rule
+  combinations** or **some iterative process to adjust the probabilities according
+  to some attribute of the tree or the rules, such as the capacity of uncovering
+  bugs. Otherwise, the process is biased.**" §6.2: "Efftester and many generators
+  use a production grammar with **fixed, user-defined probabilities, so the manual
+  choice of values can negatively affect the ability to find bugs. If they ever
+  change it during the process, it is only to guarantee termination.**" §6.3
+  (future work): "Efftester and many other generators would benefit from an
+  **automated mechanism to choose probabilities for the rules in the grammar**."
+  It cites Claessen–Duregård–Pałka among approaches where probabilities "can be
+  generated automatically to **guarantee a distribution of the input**."
+- **Bias claims about rival input-generation techniques.** Hand-written compiler
+  tests: "The tested scenarios are also **biased by their experience**."
+  DeepSmith-style learned models: "The code generated by this method is **biased to
+  use popular features and might dismiss new or unconventional ones**." EMI-style
+  mutation: "the result **might be biased**… it might produce **less variation**
+  because it does not combine the characteristics of multiple programs."
+- **The only formal probabilistic claim** is about the *experiment*, not the
+  generator: because "the parameters of the generator are constant during the
+  execution and all generations are independent, every generated program is a
+  **Bernoulli trial**," so bug counts "follow a **binomial distribution**,"
+  estimated by MLE with **Clopper–Pearson** confidence intervals, since "the
+  standard method of using the normal method as a confidence interval estimator is
+  inappropriate when p is too small, as in our case."
 
 ---
 
@@ -423,7 +602,7 @@ Entirely about generator distributions.
   of type `bool` comprise **66% and 25%** of samples. After tuning, **neither any
   single type nor ill-typed terms comprise more than 0.5%** of samples."
 
-### Most explicit of the nine about modifying a generator to change its achievable distributions (§5, "Constructing Tunable Generators")
+### Most explicit of the eleven about modifying a generator to change its achievable distributions (§5, "Constructing Tunable Generators")
 
 - "the **space of distributions that are possible to achieve by tuning the weights
   of the generator is limited by the generator's structure**. This, in turn,
@@ -478,12 +657,23 @@ Entirely about generator distributions.
    start with an abstraction" argument), and Tjoa 2025 (Etna's finding that
    smaller terms find bugs faster) all push back on Claessen 2015's premise that
    uniform is the right default — which Claessen 2015 itself hedges ("we
-   acknowledge the need for other distributions than uniform").
+   acknowledge the need for other distributions than uniform"). Bendkowski 2017
+   sits at the far end of this axis: it calls effective uniform sampling of typable
+   λ-terms "a **fundamental open problem in the random software testing approach**"
+   and frames Pałka's weights as terms that "**were favoured over other kinds of
+   equal size terms**." Rocha 2019 takes the same side ("**Ideally, we should have
+   uniform testing of rule combinations**… Otherwise, the process is biased"),
+   giving a clean 2017–2024 disagreement with Pałka/Frank about whether uniformity
+   is even the goal.
 
 2. **The recurring modification pattern is weight/heuristic surgery to escape a
    small-term skew**, introduced by backtracking failure or by base-case-heavy
    uniform rule choice: Pałka §5.2, Fetscher §3.3 + §4.2, Midtgaard §6.2,
-   Lampropoulos POPL'18 (`freq`/`backtrack` weights), Frank §3.4, Tjoa §5.
+   Lampropoulos POPL'18 (`freq`/`backtrack` weights), Frank §3.4, Tjoa §5. Rocha
+   is the negative case: facing exactly this problem (exact effect matches make
+   "trees longer on average"), the thesis *names* rule reweighting as the right fix
+   but instead caps tree height and discards failures — and then attributes missed
+   bugs to "the **lack of variability in the probability of the rules**."
 
 3. **Two papers replaced/restructured the generator itself rather than
    reweighting it.** Fetscher built a *new, non-polymorphic* Redex model with 40
@@ -493,8 +683,22 @@ Entirely about generator distributions.
 
 4. **Formal guarantees generally stop short of distributions.** Lampropoulos
    POPL'18 proves soundness/completeness over the *support* only; Midtgaard
-   "make[s] no formal claims of uniformity"; Claessen 2015 is the outlier with a
-   proved-uniform algorithm, and even it trades uniformity away for performance
-   with a quantified bound (factor b+1); Zhang 2020's guarantee is stated relative
-   to whatever distribution the hand-written generator induces, and the paper
-   admits its sample counts are ~20× too small to instantiate it.
+   "make[s] no formal claims of uniformity"; Claessen 2015 and Bendkowski 2017 are
+   the outliers with genuinely uniform algorithms, and both trade the uniformity
+   or its feasibility away — Claessen with a quantified bound (factor b+1),
+   Bendkowski by conceding that anticipated rejection keeps uniformity only while
+   "the number of **expected retrials tends to infinity** as the target term size
+   increases"; Zhang 2020's guarantee is stated relative to whatever distribution
+   the hand-written generator induces, and the paper admits its sample counts are
+   ~20× too small to instantiate it.
+
+5. **Size is never a neutral parameter.** Three papers make the size *measure*
+   itself carry distributional intent: Claessen 2015's `Pay` ("the user may choose
+   to assign costs differently, which would change… the distribution of
+   size-limited generators"), Bendkowski 2017's arity-based "natural size" plus
+   unary de Bruijn indices deliberately chosen because they mimic "the fact that,
+   in practical programs, variables located farther from their binders are likely
+   to occur less frequently," and Tjoa 2025, where the statically-fixed initial
+   size is what makes exact inference (and therefore tuning) possible at all.
+   Bendkowski even leaves open whether its central sparsity finding is an artifact:
+   "this behaviour **could be dependent on the size definition we are using**."
