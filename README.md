@@ -95,7 +95,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Random Testing via Runtime Abstract Interpretation** (OOPSLA 2026)             
   Zain K Aamer, Benjamin C. Pierce           
-  ([pdf](https://zain-k-aamer.com/papers/lucas.pdf))              
+  ([pdf](https://zain-k-aamer.com/papers/lucas.pdf))
+
+* **Property-Based Testing of Separation Logic Specifications** (SPLASH/ISSTA 2026 Doctoral Symposium)               
+  Zain K Aamer            
+  ([doi](https://dl.acm.org/doi/10.1145/3837729.3842144))                     
 
 * **Validating a Production Cloud Object Store with Lightweight Formal Methods** (SOSP 2026)                    
   Rajeev Joshi, Bernhard Kragl, Vimuth Fernando, Sarek Skotam, Jake Wires, Matthew Russo, Colin Walker              
@@ -706,6 +710,10 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Martin A. T. Handley, Graham Hutton          
   ([doi](https://doi.org/10.1145/3299711.3242749))
 
+* **Understanding Formal Specifications through Good Examples** (Erlang 2018)               
+  Alex Gerdes, John Hughes, Nicholas Smallbone, Stefan Hanenberg, Sebastian Ivarsson, Meng Wang              
+  ([doi](https://doi.org/10.1145/3239332.3242763))             
+
 * **Cheap Remarks about Concurrent Programs** (FLOPS 2018)          
   Michael Walker, Colin Runciman              
   ([doi](https://doi.org/10.1007/978-3-319-90686-7_17))            
@@ -720,7 +728,7 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Test generation for higher-order functions in dynamic languages** (OOPSLA 2018)             
   Marija Selakovic, Michael Pradel, Rezwana Karim, Frank Tip             
-  ([doi](https://doi.org/10.1145/3276531))             
+  ([doi](https://doi.org/10.1145/3276531))                
 
 * **Property Based Testing of C Code from Haskell** (Bachelor's Thesis, University of New South Wales)            
   Alexander Hodges                
