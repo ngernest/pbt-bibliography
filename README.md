@@ -138,7 +138,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   ([arXiv](https://arxiv.org/abs/2609.16079))           
 
 * **Generating Property-Based Tests for Web Applications** (OOPSLA 2026 SRC)                    
-  Savitha Ravi         
+  Savitha Ravi      
+  ([doi](https://doi.org/10.1145/3837729.3839567))         
+
+* **SPINACH: Inferring Properties of Web Applications for Property-Based Testing** (SpecOps 2026)                  
+  Savitha Ravi, Michael Coblenz          
+  ([doi](https://doi.org/10.1145/3842652.3843198))      
 
 * **A Declarative Framework for Hand-Crafted Mutation Analysis and Management**                  
   Alperen Keles            
