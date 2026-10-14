@@ -333,11 +333,15 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Rustlantis: Randomized Differential Testing of the Rust Compiler** (OOPSLA 2024)          
   Qian Wang, Ralf Jung          
-  ([doi](https://doi.org/10.1145/3689780))            
+  ([doi](https://doi.org/10.1145/3689780))
 
 * **Forge: A Tool and Language for Teaching Formal Methods** (OOPSLA 2024)                  
   Tim Nelson, Ben Greenman, Siddhartha Prasad, Tristan Dyer, Ethan Bove, Qianfan Chen, Charles Cutting, Thomas Del Vecchio, Sidney LeVine, Julianne Rudner, Ben Ryjikov, Alexander Varga, Andrew Wagner, Luke West, Shriram Krishnamurthi               
-  ([doi](https://doi.org/10.1145/3649833))               
+  ([doi](https://doi.org/10.1145/3649833))
+
+* **Crabtree: Rust API Test Synthesis Guided by Coverage and Type** (OOPSLA 2024)                   
+  Yoshiki Takashima, Chanhee Cho, Ruben Martins, Limin Jia, Corina Pasareanu                      
+  ([doi](https://doi.org/10.1145/3689733))       
 
 * **Testing Side-channel Security of Cryptographic Implementations against Future Microarchitectures** (CCS 2024)          
   Gilles Barthe, Marcel Böhme, Sunjay Cauligi, Chitchanok Chuengsatiansup, Daniel Genkin, Marco Guarnieri, David Mateos Romero, Peter Schwabe, David Wu, Yuval Yarom            
