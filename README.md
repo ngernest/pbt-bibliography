@@ -939,6 +939,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Tobias Gödderz, Janis Voigtländer             
   ([pdf](https://ceur-ws.org/Vol-1335/wflp2014_paper9.pdf))             
 
+- **On Shrinking Randomly Generated Load Tests** (Erlang 2014)             
+  Thomas Arts             
+  ([doi](https://doi.org/10.1145/2633448.2633452))             
+
+- **Jsongen: a QuickCheck Based Library for Testing JSON Web Services** (Erlang 2014)             
+  Clara Benac Earle, Lars-Åke Fredlund, Ángel Herranz, Julio Mariño             
+  ([doi](https://doi.org/10.1145/2633448.2633454))             
+
 ### 2013    
 * **Automating inductive proofs using theory exploration** (CADE 2013)       
   Koen Claessen, Moa Johansson, Dan Rosén, Nicholas Smallbone        
