@@ -15,6 +15,12 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 ***
 
 ## Papers
+
+### 2027
+* **Abstract architecture catches concrete bugs: lightweight checking of page table synchronisation** (EuroSys 2027)                   
+  Ben Simner, Thomas Fourier, Yeji Han, David Kaloper Meršinjak, Thibaut Pérami, Peter Sewell, Jean Pichon-Pharabod                  
+  ([pdf](https://www.cl.cam.ac.uk/~pes20/2027-EuroSys-casemate.pdf))                
+
 ### 2026
 
 * **Foundational Multi-Modal Program Verifiers** (POPL 2026)            
