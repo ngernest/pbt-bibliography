@@ -21,6 +21,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Ben Simner, Thomas Fourier, Yeji Han, David Kaloper Meršinjak, Thibaut Pérami, Peter Sewell, Jean Pichon-Pharabod                  
   ([pdf](https://www.cl.cam.ac.uk/~pes20/2027-EuroSys-casemate.pdf))                
 
+* **Property-Based Testing in Intro CS: A Feasibility Study** (SIGCSE TS 2027)             
+  Xiaorui Liu, Jeffrey Tao, Harrison Goldstein, Benjamin C. Pierce, Andrew Head             
+  ([url](https://2027.sigcse-ts.acm.org/details/sigcse-ts-2027-Papers-1/144/Property-Based-Testing-in-Intro-CS-A-Feasibility-Study))             
+
+* **Agentic Proof and Property-Based Testing via Property-Templates in Data-Intensive Computing** (ICSE 2027)             
+  Seongmin Lee, Yaoxuan Wu, Miryung Kim             
+  ([arXiv](https://arxiv.org/abs/2607.09072))             
+
 ### 2026
 
 * **Foundational Multi-Modal Program Verifiers** (POPL 2026)            
@@ -191,10 +199,6 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
   Yaoxuan Wu, Ingrid Lee, Ahmad Humayun, Muhammad Ali Gulzar, Miryung Kim             
   ([arXiv](https://arxiv.org/abs/2606.11132))             
 
-* **Agentic Proof and Property-Based Testing via Property-Templates in Data-Intensive Computing**             
-  Seongmin Lee, Yaoxuan Wu, Miryung Kim             
-  ([arXiv](https://arxiv.org/abs/2607.09072))             
-
 * **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps**             
   Yiheng Xiong, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su             
   ([arXiv](https://arxiv.org/abs/2603.21263))             
@@ -206,6 +210,14 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 * **Certified Program Synthesis with a Multi-Modal Verifier** (ASE 2026)                                
   Yueyang Feng, Dipesh Kafle, Vladimir Gladshtein, Vitaly Kurin, George Pîrlea, Qiyuan Zhao, Peter Müller, Ilya Sergey             
   ([arXiv](https://arxiv.org/abs/2604.16584))             
+
+* **Poseidon: An LLM-Aided Property-Based Testing Framework for RDMA** (ICIC 2026)             
+  Yao Liang, Yueling Zhang             
+  ([doi](https://doi.org/10.1007/978-981-92-3423-3_34))             
+
+* **Property-based testing in Python: empirical insights** (Empirical Software Engineering 2026)             
+  Isadora de Oliveira, Arthur Lisboa Corgozinho, Henrique Rocha, Marco Tulio Valente             
+  ([doi](https://doi.org/10.1007/s10664-026-10953-w))             
 
 ### 2025 
 * **Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM** (TACAS 2025)                  
