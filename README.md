@@ -217,7 +217,11 @@ Pull requests welcome! Note: end a line with two spaces to force a line break.
 
 * **Property-based testing in Python: empirical insights** (Empirical Software Engineering 2026)             
   Isadora de Oliveira, Arthur Lisboa Corgozinho, Henrique Rocha, Marco Tulio Valente             
-  ([doi](https://doi.org/10.1007/s10664-026-10953-w))             
+  ([doi](https://doi.org/10.1007/s10664-026-10953-w))
+
+* **Underpinning Property-Based Testing**             
+  Ernest Ng, Segev Elazar Mittelman, Joshua M. Cohen, Katherine Hough, Michael Hicks, Harrison Goldstein                   
+  ([arXiv](https://arxiv.org/abs/2611.21058v1))                  
 
 ### 2025 
 * **Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM** (TACAS 2025)                  
